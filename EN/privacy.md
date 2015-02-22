@@ -1,10 +1,8 @@
 ---
-title: Privacy
+title: Privacy Policy
 layout: default
 category: EN
 ---
-# **PRIVACY POLICY**
-
 YouNow is committed to safeguarding any personal information that may be collected through our website (the "Site") and mobile application (the "App," and together with the Site, the "Service") and to ensuring that you are fully informed as to how your personal information will be used. The following policy describes such collection and usage.
 
 ## **1. WHAT INFORMATION DO WE COLLECT AND HOW WE COLLECT IT**
