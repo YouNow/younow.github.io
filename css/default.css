@@ -1,0 +1,10 @@
+#sidebar {
+  float:left;
+  width:300px;
+  padding: 20px;
+}
+#content {
+  float:left;
+  width: 600px;
+  padding-left: 20px;
+}
