@@ -5,7 +5,7 @@ category: DE
 ---
 YouNow nimmt den Schutz persönlicher Informationen sehr wichtig, die eventuell durch unsere Website (die „Website") und die mobile Anwendung (die „App", und zusammen mit der Website als der „Service" bezeichnet) erfasst werden, und wir betrachten es als unsere Pflicht zu gewährleisten, dass Sie umfassend darüber informiert werden, wie Ihre persönlichen Informationen verwendet werden. Die folgenden Bestimmungen beschreiben diese Erfassung und Nutzung.
 
-## Welche informationen WIR ERFASSEN UND WIE WIR ES TUN
+## WELCHE INFORMATIONEN WIR ERFASSEN UND WIE WIR ES TUN
 
 Der primäre Zweck, warum wir Ihre persönlichen Daten erfassen, besteht darin, Ihnen die von Ihnen gewünschten Dienstleistungen zu bieten und solche, von denen wir glauben, dass sie Ihre Nutzung unserer Website und der dazugehörigen Dienstleistungen optimieren und verbessern können. Uns Ihre Daten mitzuteilen ist keine Voraussetzung für die Nutzung unserer Website, der App oder des Service, aber beachten Sie, dass wir Ihnen möglicherweise bestimmte Dienste oder Funktionen der Website, App bzw. des Service nicht bieten können, wenn Sie sich entscheiden, uns bestimmte Informationen nicht zu geben.
 
