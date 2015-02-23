@@ -5,7 +5,7 @@ category: EN
 ---
 YouNow is committed to safeguarding any personal information that may be collected through our website (the "Site") and mobile application (the "App," and together with the Site, the "Service") and to ensuring that you are fully informed as to how your personal information will be used. The following policy describes such collection and usage.
 
-## 1. WHAT INFORMATION DO WE COLLECT AND HOW WE COLLECT IT
+## What information do we collect and how do we collect it?
 
 Our primary purpose in collecting your personal data is to provide you with the services you requested and with those we believe will optimize and enhance your use of our Site and related services. Providing us with your information is not a requirement for using our Site, App, Service, but note that if you choose not to provide us with certain information, we may not be able provide certain services or functionality of the Site, App and/or Service.
 
