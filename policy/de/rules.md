@@ -11,7 +11,7 @@ Bitte beachten Sie dass, im Falle von verdächtigen oder kriminellen Aktivitäte
 
 Sicherheit ist bei YouNow höchste Priorität und wir nehmen Gewalt- und Selbstverletzungsdrohungen sehr ernst. Inhalt welcher gegen diese Regel verstößt, kann von YouNow entfernt werden und wir behalten uns das Recht vor solchen Inhalt an Ihre lokalen Behörden zu melden. Drohungen sind ebenfalls verboten, und Drohungen, oder der Versuch anderen Teilnehmern zu drohen, können zu permanentem Zugangsverbot führen.
 
-## Absolut Keine Nacktheit oder Sexuell Provokatives Benehmen
+## Absolut keine Nacktheit oder sexuell provokatives Benehmen
 
 YouNow's Grundregel ist dass Männer sowohl als auch Frauen unter 18 Jahren während der Sendezeit ständig voll bekleidet sein müssen. Teilnehmer unter 18 Jahren die sich in irgendeiner Weise unbekleidet zeigen können suspendiert oder permanent von der Site verbannt werden.
 
@@ -37,7 +37,7 @@ Die Einnahme von Drogen während der Sendungen ist verboten. Konsum von Alkohol 
 
 YouNow Teilnehmer müssen mindestens 13 Jahre alt sein. Wenn wir ein Konto finden dass einem Benutzer unter dem Alter von 13 Jahren gehört, wird dieses sofort gelöscht. Wenn Teilnehmer Gäste in ihr Broadcast einladen, welche unter dem Mindestalter von 13 Jahren sind, werden diese Broadcasts ebenfalls sofort gelöscht.
 
-## Keine Veröffentlichung Privater Kontaktinformation
+## Keine Veröffentlichung privater Kontaktinformation
 
 Das herausgeben von Privatinformation anderer Teilnehmer ist verboten. Dies gilt, unter anderem, für E-mail-Adressen, Telefonnummern, sowie auch Wohnadressen. Wir schlagen vor dass Sie auch Ihre eigenen Personaldaten nicht mit anderen teilen.
 
@@ -45,7 +45,7 @@ Das herausgeben von Privatinformation anderer Teilnehmer ist verboten. Dies gilt
 
 YouNow verbietet Scherzanrufe an Notrufnummern, Telefonseelsorgen oder andere Hilfsdienste, und Benutzer der Site, die solche Anrufe machen, werden auf Lebenszeit von der Site verbannt.
 
-## Kein Anwerben Oder Ermutigung zum Regelverstoss
+## Kein Anwerben oder Ermutigung zum Regelverstoss
 
 - Es ist untersagt andere Teilnehmer zu Sexuellen oder Illegalen Taten anzustiften. Es ist ebenfalls untersagt andere Teilnehmer dazu zu bringen Nacktbilder oder Pornografische Materialien zur Schau zu stellen. Es ist ebenfalls verboten andere Teilnehmer nach Ihrer persönlichen Information zu fragen.&nbsp;
 - Illegale oder unangemessene kommerzielle Aktivitäten oder Verkauf irgendwelcher Waren sind auf YouNow strengstens untersagt. Beispiele solcher Aktivitäten wären Schneeballsysteme, Pyramidensysteme, Multi-Level-Marketing, und Gewinnspiele.&nbsp;
