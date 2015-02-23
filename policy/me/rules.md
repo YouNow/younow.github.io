@@ -1,5 +1,5 @@
 ---
-title: Rules
+title: قوانين الموقع
 layout: default
 category: ME
 ---

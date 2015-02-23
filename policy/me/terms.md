@@ -1,5 +1,5 @@
 ---
-title: Terms
+title: شروط الاستخدام
 layout: default
 category: ME
 ---
