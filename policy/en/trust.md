@@ -5,7 +5,7 @@ category: EN
 ---
 ## Our Philosophy
 
-The Trust & Safety team uses a combination of automated systems and manual monitoring to ensure that all members of the YouNow community are kept safe. Guided by our [Community Standards & Site Rules](http://www.younow.com/siterules.php) and [Terms of Service](http://www.younow.com/terms.php), we continuously monitor YouNow broadcasts to warn, suspend, or ban any users who violate our policies.
+The Trust & Safety team uses a combination of automated systems and manual monitoring to ensure that all members of the YouNow community are kept safe. Guided by our [Community Standards & Site Rules](http://www.younow.com/siterules.php) and [Terms of Service](/policy/en/terms), we continuously monitor YouNow broadcasts to warn, suspend, or ban any users who violate our policies.
 
 ## Tools To Stay Safe on YouNow
 
