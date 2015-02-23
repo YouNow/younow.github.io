@@ -46,77 +46,77 @@ If you come across content on YouNow relating to suicide or self-harm, please fl
 **Australia:**
 
 - BeyondBlue
-  - 1300 22 4636
+  - 1300 22 4636  
 
 **Belgium:**
 
-- Zelfmoordlijn1813&nbsp;
-  - 1813&nbsp;
+- Zelfmoordlijn1813
+  - 1813
 
 **Denmark:**
 
-- Livslinien&nbsp;
-  - 70 201 201&nbsp;&nbsp;
+- Livslinien
+  - 70 201 201
 
 **Greece:**
 
-- Klimaka NGO&nbsp;
-  - 1018&nbsp;
+- Klimaka NGO
+  - 1018
 
 **Germany:**
 
-- Telefonseelsorge&nbsp;&nbsp;
-  - 0800 111 0 111&nbsp;&nbsp;
-  - 0800 111 0 222&nbsp;
+- Telefonseelsorge
+  - 0800 111 0 111
+  - 0800 111 0 222
 
 **Ireland:**
 
-- &nbsp;Samaritans&nbsp;
-  - 116 123&nbsp;
+- Samaritans
+  - 116 123
 
 **Italy:**
 
-- Telefono Amico&nbsp;
-  - 199 284 284&nbsp;
+- Telefono Amico
+  - 199 284 284
 
 **Israel:**
 
-- ERAN&nbsp;
-  - 09 889 1333&nbsp;
+- ERAN
+  - 09 889 1333
 
 **Japan:**
 
-- TELL&nbsp;
-  - 03-5774-0992&nbsp;
+- TELL
+  - 03-5774-0992
 
 **Netherlands:**
 
-- Foundation 113 Online&nbsp;
-  - 0900-113 0 113&nbsp;
+- Foundation 113 Online
+  - 0900-113 0 113
 
 **South Africa:**
 
-- SADAG&nbsp;
-  - 0800 567 567&nbsp;
+- SADAG
+  - 0800 567 567
 
 **Spain:**
 
-- Teléfono de la Esperanza&nbsp;
-  - 902500002&nbsp;
+- Teléfono de la Esperanza
+  - 902500002
 
 **Sweden:**
 
-- Självmordsupplysningen (Föreningen Psykisk Hälsa)&nbsp;
+- Självmordsupplysningen (Föreningen Psykisk Hälsa)
 
 **United Kingdom:**
 
-- Samaritans&nbsp;
+- Samaritans
   - 08457 90 90 90
 
 **United States:**
 
-- National Network to End Domestic Violence&nbsp;
-- National Suicide Prevention Lifeline&nbsp;
+- National Network to End Domestic Violence
+- National Suicide Prevention Lifeline
   - 1-800-273-TALK (8255)
 
 ## Broadcasting Safety Tips
