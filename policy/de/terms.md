@@ -3,9 +3,9 @@ title: Geschäftsbedingungen
 layout: default
 category: DE
 ---
-# NUTZUNGSBEDINGUNGEN VON YOUNOW
+# Nutzungsbedingungen von YouNow
 
-## 1. WILLKOMMEN
+## Willkommen
 
 Willkommen bei YouNow Service, zu finden unter www.younow.com (die „Website") und verfügbar als App für Mobiltelefone (die „App"). Der YouNow Service und alle damit verbundenen Leistungen, Aspekte, Funktionen, Softwareplattformen oder Ableitungen davon (zusammen als „Service" bezeichnet) wurden von YouNow („YouNow", „wir", „uns" oder „unser") als Mittel zur persönlichen Kommunikation und zur Unterhaltung erstellt, und die folgenden Nutzungsbedingungen von YouNow (die „Bedingungen") stellen eine Zusammenstellung der Regeln dar, nach denen wir uns dabei richten.
 
@@ -15,13 +15,13 @@ Durch die Nutzung oder den Zugriff auf den Service erklären Sie sich mit den Be
 
 YouNow gewährt Ihnen hiermit die Erlaubnis, auf den Service zuzugreifen und ihn zu nutzen, vorausgesetzt, Sie halten sich an diese Bedingungen. WENN SIE NICHT DAMIT EINVERSTANDEN SIND, SICH VOLL UND GANZ AN DIESE BEDINGUNGEN ZU HALTEN, GREIFEN SIE BITTE NICHT AUF DEN SERVICE ZU UND NUTZEN SIE IHN NICHT. Bitte beachten Sie, dass wir uns das Recht vorbehalten, nach unserem eigenen Ermessen zu jedem beliebigen Zeitpunkt diese ganz oder teilweise zu revidieren, zu modifizieren, zu verändern oder entfernen. Wenngleich wir uns bemühen mögen, Sie zu benachrichtigen, wenn wir größere Veränderungen an den Bedingungen durchführen, sollten Sie sie dennoch regelmäßig einsehen, um sicherzustellen, dass Sie sie einhalten. Sie sollten sich alle Bedingungen sorgfältig durchlesen, da diese einen rechtsgültigen Vertrag zwischen Ihnen und uns darstellen.
 
-## 2. REGISTRIERUNG
+## Registrierung
 
 Um auf bestimmte Funktionen des Service zugreifen zu können und um als Darsteller Inhalte (gemäß der folgenden Definition) einreichen zu können, müssen Sie ein YouNow-Konto über Ihr Konto bei Facebook®, Google+ oder Twitter anlegen, wobei dieselben Informationen erfasst werden, die Sie diesem jeweiligen Netzwerk gegeben haben. Sie können diese Informationen durch eine Aktualisierung Ihres Kontos bei Facebook®, Google+ oder Twitter ändern (dann wird automatisch auch Ihr Konto bei YouNow aktualisiert, wenn Sie sich das nächste Mal einloggen). Dazu gehen Sie zu den Optionen in Ihrem YouNow-Konto, indem Sie sich beim Service einloggen und oben rechts auf der Website „Meine Einstellungen" (My Settings) anklicken oder indem Sie auf Ihre Einstellungen über Ihre Profilseite innerhalb der App-Konten zugreifen.
 
 Sie sind für die Aktivitäten, die über Ihr Konto ablaufen, allein verantwortlich. Wir empfehlen Ihnen daher, Ihr Passwort für das Konto unbedingt geheim zu halten und sich immer auszuloggen, wenn Sie Ihren Computer oder Ihr Mobilgerät unbeaufsichtigt lassen. Obwohl YouNow keine Haftung für Schäden übernimmt, die durch eine unautorisierte Nutzung Ihres Kontos entstehen, können Sie YouNow oder anderen Parteien gegenüber für Schäden aus solch unautorisierter Nutzung haften - daher empfehlen wir nachdrücklich, dass Sie uns über jede unautorisierte Nutzung Ihres Kontos oder über jede damit in Verbindung stehende Sicherheitsverletzung unverzüglich informieren. Wenn Sie aus irgendeinem Grund den Zugang Ihrer Kinder zu dieser Website bzw. App einschränken wollen, gibt es dazu eine Reihe von elterlichen Kontrolleinrichtungen, die im Handel erhältlich sind.
 
-## 3. EIGENTUM AN DEM IHNEN ZUR VERFÜGUNG GESTELLTEN SERVICE
+## Eigentum an dem Ihnen zur VERFÜGUNG GESTELLTEN SERVICE
 
 Die dem Service zugrundeliegenden Plattformen sind entweder gesetzlich geschütztes Eigentum von YouNow oder gesetzlich geschütztes Eigentum unserer Lizenzgeber oder Lizenznehmer. „YouNowTM" und andere Handelsmarken, Slogans, Dienstleistungsmarken, Handelsnamen und Markenzeichen, die beim Service sichtbar werden, sind Eigentum von YouNow. Sofern dies nicht ausdrücklich in diesen Bedingungen enthalten ist, entsteht kein Recht, keine Lizenz und kein Anspruch an solchen Markenzeichen und wird auch hiermit nicht gewährt. Sie dürfen Hinweise auf den Urheberschutz oder andere proprietäre oder einschränkende Hinweise oder Legenden, die Materialien von YouNow hinzugefügt sind, nicht entfernen oder verändern. Durch die Nutzung des Service erklären Sie sich damit einverstanden, Inhalte, die durch den Service zur Verfügung gestellt werden, nicht zu kopieren, zu extrahieren, neu zu posten, Screenshots davon anzufertigen, sie zu speichern, an andere zu verteilen, zu modifizieren oder abgeleitete Werke davon anzufertigen. Außer, wenn dies ausdrücklich in diesen Bedingungen ausgesagt wird, wird Ihnen durch den Zugriff auf oder die Nutzung des Service keine Lizenz gewährt und werden Ihnen keine Rechte übertragen. Alle Rechte, die nicht durch diese Bedingungen gewährt werden, sind YouNow vorbehalten.
 
