@@ -11,7 +11,7 @@ Willkommen bei YouNow Service, zu finden unter www.younow.com (die „Website") 
 
 Wie Sie mittlerweile wahrscheinlich wissen, ist der Service eine soziale Unterhaltungsplattform für Live-Videos zur Selbstdarstellung. YouNow ermöglicht es jedem Menschen von jedem Ort der Welt sein Live-Video (das mit einer Webcam oder einem Mobilgerät aufgenommen wurde) auszustrahlen, so dass es - IN ECHTZEIT - von einem Online-Publikum sowie von Anhängern und Fans angesehen werden kann.
 
-Durch die Nutzung oder den Zugriff auf den Service erklären Sie sich mit den Bedingungen einverstanden und unterwerfen Sie sich ihnen sowie unserer [Datenschutzrichtlinie](http://www.younow.com/privacy.php). Wenngleich sie viel mehr beinhalten, besteht der Grundgedanke der Bedingungen darin, dass, obgleich wir die Verantwortung für das tragen, was wir erstellt haben, wir Sie bitten, die Verantwortung dafür zu übernehmen, was Sie zu unserer Plattform beisteuern, sei es als Ersteller von Inhalten oder als Zuschauer. Zudem bitten wir Sie, andere - wie auch sonst überall im Leben - respektvoll zu behandeln, unsere Plattform für nichts zu nutzen, was als illegal oder obszön betrachtet werden könnte, immer an die Goldene Regel zu denken („Was du nicht willst, dass man dir tu …") und vor allem - Spaß zu haben. Weitere Informationen zur Nutzung des Service finden Sie auf unserer Seite [Häufig gestellte Fragen](https://younow.zendesk.com/forums/20597213-basics-of-younow).
+Durch die Nutzung oder den Zugriff auf den Service erklären Sie sich mit den Bedingungen einverstanden und unterwerfen Sie sich ihnen sowie unserer [Datenschutzrichtlinie](/policy/de/privacy). Wenngleich sie viel mehr beinhalten, besteht der Grundgedanke der Bedingungen darin, dass, obgleich wir die Verantwortung für das tragen, was wir erstellt haben, wir Sie bitten, die Verantwortung dafür zu übernehmen, was Sie zu unserer Plattform beisteuern, sei es als Ersteller von Inhalten oder als Zuschauer. Zudem bitten wir Sie, andere - wie auch sonst überall im Leben - respektvoll zu behandeln, unsere Plattform für nichts zu nutzen, was als illegal oder obszön betrachtet werden könnte, immer an die Goldene Regel zu denken („Was du nicht willst, dass man dir tu …") und vor allem - Spaß zu haben. Weitere Informationen zur Nutzung des Service finden Sie auf unserer Seite [Häufig gestellte Fragen](https://younow.zendesk.com/forums/20597213-basics-of-younow).
 
 YouNow gewährt Ihnen hiermit die Erlaubnis, auf den Service zuzugreifen und ihn zu nutzen, vorausgesetzt, Sie halten sich an diese Bedingungen. WENN SIE NICHT DAMIT EINVERSTANDEN SIND, SICH VOLL UND GANZ AN DIESE BEDINGUNGEN ZU HALTEN, GREIFEN SIE BITTE NICHT AUF DEN SERVICE ZU UND NUTZEN SIE IHN NICHT. Bitte beachten Sie, dass wir uns das Recht vorbehalten, nach unserem eigenen Ermessen zu jedem beliebigen Zeitpunkt diese ganz oder teilweise zu revidieren, zu modifizieren, zu verändern oder entfernen. Wenngleich wir uns bemühen mögen, Sie zu benachrichtigen, wenn wir größere Veränderungen an den Bedingungen durchführen, sollten Sie sie dennoch regelmäßig einsehen, um sicherzustellen, dass Sie sie einhalten. Sie sollten sich alle Bedingungen sorgfältig durchlesen, da diese einen rechtsgültigen Vertrag zwischen Ihnen und uns darstellen.
 
@@ -21,7 +21,7 @@ Um auf bestimmte Funktionen des Service zugreifen zu können und um als Darstell
 
 Sie sind für die Aktivitäten, die über Ihr Konto ablaufen, allein verantwortlich. Wir empfehlen Ihnen daher, Ihr Passwort für das Konto unbedingt geheim zu halten und sich immer auszuloggen, wenn Sie Ihren Computer oder Ihr Mobilgerät unbeaufsichtigt lassen. Obwohl YouNow keine Haftung für Schäden übernimmt, die durch eine unautorisierte Nutzung Ihres Kontos entstehen, können Sie YouNow oder anderen Parteien gegenüber für Schäden aus solch unautorisierter Nutzung haften - daher empfehlen wir nachdrücklich, dass Sie uns über jede unautorisierte Nutzung Ihres Kontos oder über jede damit in Verbindung stehende Sicherheitsverletzung unverzüglich informieren. Wenn Sie aus irgendeinem Grund den Zugang Ihrer Kinder zu dieser Website bzw. App einschränken wollen, gibt es dazu eine Reihe von elterlichen Kontrolleinrichtungen, die im Handel erhältlich sind.
 
-## Eigentum an dem Ihnen zur VERFÜGUNG GESTELLTEN SERVICE
+## Eigentum an dem Ihnen zur Verügung gestellten Sevice
 
 Die dem Service zugrundeliegenden Plattformen sind entweder gesetzlich geschütztes Eigentum von YouNow oder gesetzlich geschütztes Eigentum unserer Lizenzgeber oder Lizenznehmer. „YouNowTM" und andere Handelsmarken, Slogans, Dienstleistungsmarken, Handelsnamen und Markenzeichen, die beim Service sichtbar werden, sind Eigentum von YouNow. Sofern dies nicht ausdrücklich in diesen Bedingungen enthalten ist, entsteht kein Recht, keine Lizenz und kein Anspruch an solchen Markenzeichen und wird auch hiermit nicht gewährt. Sie dürfen Hinweise auf den Urheberschutz oder andere proprietäre oder einschränkende Hinweise oder Legenden, die Materialien von YouNow hinzugefügt sind, nicht entfernen oder verändern. Durch die Nutzung des Service erklären Sie sich damit einverstanden, Inhalte, die durch den Service zur Verfügung gestellt werden, nicht zu kopieren, zu extrahieren, neu zu posten, Screenshots davon anzufertigen, sie zu speichern, an andere zu verteilen, zu modifizieren oder abgeleitete Werke davon anzufertigen. Außer, wenn dies ausdrücklich in diesen Bedingungen ausgesagt wird, wird Ihnen durch den Zugriff auf oder die Nutzung des Service keine Lizenz gewährt und werden Ihnen keine Rechte übertragen. Alle Rechte, die nicht durch diese Bedingungen gewährt werden, sind YouNow vorbehalten.
 
@@ -29,7 +29,7 @@ Sie erkennen an und erklären sich einverstanden, dass nichts in diesen Bedingun
 
 Der Service kann Links zu Websites von dritten Parteien beinhalten, die sich nicht im Besitz von YouNow befinden und über die YouNow keine Kontrolle ausübt. YouNow hat keinen Einfluss auf und übernimmt keine Verantwortung für den Inhalt, die Datenschutzbestimmungen oder die Praktiken von Websites Dritter. Außerdem wird und kann YouNow den Inhalt einer Fremdwebsite nicht zensieren oder bearbeiten. Durch Nutzung des Service stellen Sie YouNow ausdrücklich von jeglicher Haftung frei, die sich aus Ihrer Nutzung einer Fremdwebsite ergeben könnte.
 
-## 4. BENUTZERGENERIERTE INHALTE
+## Benutzergenerierte Inhalte
 
 Der Begriff „Inhalte" im Sinne dieser Bedingungen bezieht sich auf jedwede Handlungen, Informationen, Videos, Texte, Software, Skripten, Grafiken, Fotos, Musikstücke, audiovisuelle Kombinationen, interaktive Merkmale und andere Materialien, die Sie sich im Rahmen des Service ansehen, auf die Sie zugreifen oder die Sie beisteuern können. YouNow ist nicht für die Inhalte Dritter verantwortlich. Wenn Sie Inhalte zum Service beisteuern möchten, gilt Folgendes:
 
@@ -48,7 +48,7 @@ Sie stimmen auch zu, dass Sie (i) den Service nicht dazu verwenden werden, um an
 
 Sie stimmen zu, vom Service keine persönlich identifizierbaren Informationen zu erfassen oder zu sammeln, einschließlich Kontonamen, noch die vom Service zur Verfügung gestellten Kommunikationssysteme (z. B. Kommentare, E-Mail-Nachrichten) für kommerzielle Anwerbezwecke zu nutzen. Sie stimmen zu, keine Service-Nutzer in Bezug auf ihre Inhalte zu kommerziellen Zwecken anzusprechen.
 
-## 5. VIRTUELLE WÄHRUNG / EINKAUF INNERHALB DES SERVICE
+## Virtuelle Währung / Einkauf innerhalb des Service
 
 Gelegentlich können Sie (a) virtuelle Währung „kaufen", unter anderem virtuelle Goldbarren für die Verwendung innerhalb des Service oder (b) virtuelle Gegenstände im Rahmen des Service, unter anderem Fanpost und Verlobungsringe/Heiratsangebote, 50 Daumen hoch, Trinkgelder (zusammen mit der virtuellen Währung als „virtuelle Gegenstände" bezeichnet). Sie verstehen, dass diese unter realen Bedingungen existierenden Gegenstände hier nur symbolisch angeboten werden. Sie werden diese virtuellen Gegenstände nicht in der Tat „besitzen" und die Beträge der virtuellen Gegenstände beziehen sich nicht auf Guthaben in realen Währungen oder deren Entsprechungen. Vielmehr gewährt Ihnen YouNow eine beschränkte Lizenz zur Verwendung des Service, einschließlich der Softwareprogramme, die sich als diese Gegenstände manifestieren können.
 
@@ -58,7 +58,7 @@ Wenn Sie einem Darsteller innerhalb des Service ein Geschenk in Form von bestimm
 
 Trinkgelder und andere virtuelle Gegenstände, die Künstlern zum Geschenk gemacht werden, können solchen Darstellern einige Einnahmen einbringen, die von YouNow nach eigenem Ermessen bestimmt werden; allerdings gibt YouNow keine Gewähr, dass die Menge oder der Wert der Goldbarren oder virtuellen Gegenstände, die Sie einem Darsteller geben mögen, den Einnahmen entsprechen werden, die ein solcher Darsteller von YouNow erhalten mag.
 
-## 6. RECHT ZUM ABSCHALTEN, VERWEIGERN ODER EINSCHRÄNKEN DES ZUGANGS UND BESEITIGUNG VON INHALTEN
+## Recht zum Abschalten, Verweigern oder Einschränken des Zugangs und Beseitigung von Inhalten
 
 YouNow hat das Recht, aber nicht die Pflicht, jederzeit und aus jedwedem oder ohne jeglichen Grund nach seinem alleinigen Ermessen Inhalte zu prüfen, ihre Veröffentlichung zu verweigern, die Inhalte zu entfernen oder sie zu bearbeiten. YouNow trifft Vorkehrungen zur Überwachung der Inhalte und zur Aufrechterhaltung der Sicherheit der Website, der App und des Service, aber YouNow kann ihre Sicherheit nicht garantieren. Sie betreten die Website bzw. App und nutzen den YouNow-Service auf eigenes Risiko. YouNow behält sich das Recht vor, jedoch übernimmt keine Verpflichtung, Inhalte zu entfernen, die beleidigend, illegal oder störend sind oder anderweitig gegen diese Bedingungen verstoßen, und Ihren Zugang zu dem Service ganz oder teilweise nach unserem alleinigen Ermessen jederzeit und aus beliebigen Gründen, unter anderem wegen technischen Schwierigkeiten oder Verletzungen dieser Bedingungen, einzuschränken oder Ihnen den Zugang ganz zu entziehen.
 
@@ -66,13 +66,13 @@ Neben den Rechten oder Rechtsmitteln, die YouNow gemäß diesen Bedingungen oder
 
 Angesichts der Tatsache, dass der Service in Echtzeit erfolgt, sind wir für Ihre Hilfe beim Anzeigen aller Inhalte dankbar, die Ihrer Meinung nach gegen diese Bedingungen verstoßen. Bitte richten Sie relevante Informationen, einschließlich der IP-Adresse, die bei den vermutlichen Verstößen verwendet wurde und des Datums und der Uhrzeit des angeblichen Verstoßes mit Angabe der Zeitzone an: support.younow.com.
 
-## 7. FEEDBACK VON IHNEN
+## Feeback von Ihnen
 
 Wir begrüßen Anregungen und Kommentare von Ihnen, bitte Sie jedoch zu beachten, dass alle unverlangten Ideen, Feedback oder Anregungen im Zusammenhang mit unserem Geschäft, wie z. B. Ideen für neue oder verbesserte Produkte oder Technologien, Website- oder Tool-Erweiterungen, Prozesse, Materialien, Marketingpläne oder neue Produktnamen nach der Einsendung automatisch Eigentum von YouNow werden, ohne dass Sie eine Entschädigung dafür erhalten. YouNow ist nicht verpflichtet, solche Einsendungen zu prüfen oder sie vertraulich zu behandeln und kann alle solchen Einsendungen und ihre Inhalte zu jedem beliebigen Zweck und auf jede sinnvoll erscheinende Weise nutzen oder verbreiten.
 
 Wenn Sie uns solche Einsendungen oder Feedback zukommen lassen möchten, senden Sie sie bitte per E-Mail an: [feedback@younow.com](mailto:feedback@younow.com)
 
-## 8. RICHTLINIE ZU COPYRIGHT-VERSTÖSSEN
+## Richtlinie zu Copyright-Verstössen
 
 YouNow engagiert sich für den Schutz der Rechte der Inhaber des Copyrights und bemüht sich um die Einhaltung aller geltenden Gesetze und Vorschriften zum Schutz des geistigen Eigentums.
 
@@ -96,7 +96,7 @@ YouNow kann dem Besitzer oder Administrator der betroffenen Inhalte eine Mitteil
 
 Mitteilungen über angebliche Verletzungen und Gegendarstellungen sind samt aller erforderlichen Unterlagen an den designierten Vertreter unter der Anschrift „YouNow, 25 W. 36th Street, 5th Floor New York, NY 10018, ATTN: COPYRIGHT INFRINGEMENT DESIGNATED AGENT" zu richten oder per E-Mail an [feedback@younow.com](mailto:feedback@younow.com) zu senden, wobei in der Betreffzeile die Wörter „Attn Copyright Infringement Designated Agent" einzutragen sind.
 
-## 9. KEINE GEWÄHR
+## Keine Gewähr
 
 SIE ERKENNEN AN, DASS DER SERVICE, DIE WEBSITE, DIE APP, DIE INHALTE UND ANDERE MATERIALIEN, DIE IHNEN GEMÄß DIESER VEREINBARUNG ZUR VERFÜGUNG GESTELLT WERDEN, IM HÖCHSTEN GESETZLICH ZULÄSSIGEN MAßE IN IHREM IST-ZUSTAND ZUR VERFÜGUNG GESTELLT WERDEN. YOUNOW LEHNT JEGLICHE GEWÄHRLEISTUNGEN, SEIEN SIE AUSDRÜCKLICH ODER IMPLIZIERT, IN BEZUG AUF DEN SERVICE, DIE WEBSITE, DIE APP, DIE INHALTE UND ANDERE MATERIALIEN AB. DAZU ZÄHLEN IMPLIZIERTE GEWÄHRLEISTUNGEN DER NICHTVERLETZUNG DER RECHTE DRITTER, DER MARKTGÄNGIGKEIT UND DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. WIR GEWÄHRLEISTEN NICHT, DASS INHALTE FEHLERFREI SEIN WERDEN, DASS DER ZUGANG ZU IHNEN UNUNTERBROCHEN SEIN WIRD, DASS MÄNGEL BEHOBEN WERDEN ODER DASS DIE WEBSITE ODER DIE SERVER, DIE UNSERE INHALTE VERFÜGBAR MACHEN, FREI VON VIREN ODER ANDEREN SCHADKOMPONENTEN SIND ODER SEIN WERDEN.
 
@@ -104,7 +104,7 @@ Der Service kann die Meinungen und Ansichten anderer Benutzer enthalten. Angesic
 
 Bitte beachten Sie auch, dass der Service von YouNow von seinen Einrichtungen in den Vereinigten Staaten von Amerika aus gesteuert und angeboten wird. Die Gesetze anderer Länder hinsichtlich des Zugangs und der Nutzung von YouNow unterschiedlich sein können. YouNow macht keine Zusicherungen, dass der Service für die Verwendung an anderen Standorten geeignet oder verfügbar ist. Wer aus anderen Ländern auf den Service zugreift oder ihn nutzt, tut dies aus freiem Willen und ist selbst für die Einhaltung örtlicher Gesetze verantwortlich.
 
-## 10. HAFTUNGEN UND SCHADLOSHALTUNGEN
+## Haftungen und Schadloshaltungen
 
 Sie haben YouNow und seine Direktoren, Amtsträger, Mitarbeiter, Vertreter und Erfüllungsgehilfen („verbundene Parteien") gegenüber allen Forderungen, Ansprüchen, Klagen, Verbindlichkeiten, Verlusten, Kosten, Schäden oder Aufwendungen, gleich welcher Art, bekannt und unbekannt (einschließlich angemessener Anwaltskosten) („Schäden") freizustellen und schadlos zu halten, die YouNow oder einer verbundenen Partei gegenüber infolge eines Verstoßes gegen diese Bedingungen durch Sie und die Nutzung Ihrer Inhalte sowie, unter anderem, Verletzungen von Rechten Dritter durch Ihre Nutzung des Service oder durch von Ihnen zur Verfügung gestellte Inhalte geltend gemacht werden, auferlegt werden oder entstehen. WENN SIE IN KALIFORNIEN ANSÄSSIG SIND, VERZICHTEN SIE AUF DIE BESTIMMUNG 1542 DES CALIFORNIA CIVIL CODE, DIE BESAGT: „EINE ALLGEMEINE FREISTELLUNG ERSTRECKT SICH NICHT AUF ANSPRÜCHE, VON DENEN DER GLÄUBIGER NICHTS WEISS ODER DEREN EXISTENZ ZU SEINEN GUNSTEN ER ZUM ZEITPUNKT DER AUSFÜHRUNG DER FREIGABE NICHT VERMUTET, WENN DIESE, FALLS SIE IHM BEKANNT GEWESEN WÄREN, SEINE REGELUNG MIT DEM SCHULDNER WESENTLICH BEEINFLUSST HÄTTEN." WIR HAFTEN GEGENÜBER FÜR KEINE VERLOREN GEWINNE ODER ANDERE FOLGE-, SONDER- ODER NEBENSCHÄDEN SOWIE INDIREKTE ODER ZUFÄLLIG ENTSTANDENE SCHÄDEN, DIE AUS ODER IM ZUSAMMENHANG MIT DIESER ANWEISUNG ODER MIT YOUNOW ENTSTEHEN SOLLTEN, AUCH WENN WIR AUF DER MÖGLICHKEIT SOLCHER SCHÄDEN HINGEWIESEN WURDEN.
 
@@ -112,19 +112,19 @@ YOUNOW HAFTEN NICHT FÜR SCHÄDEN JEGLICHER ART, EINSCHLIEßLICH, OHNE EINSCHRÄ
 
 DIE BESCHRÄNKUNGEN, AUSSCHLÜSSE UND HAFTUNGSAUSSCHLÜSSE IN DIESEM ABSCHNITT UND ANDERSWO IN DIESEN NUTZUNGSBEDINGUNGEN GELTEN IM GRÖßTMÖGLICHEN DURCH DAS ANWENDBARE RECHT GESTATTETEN UMFANG.
 
-## 11. PLATTFORMANBIETER
+## Plattformanbieter
 
 Plattformanbieter wie Apple Inc. und Google Inc., die die App zum Download zur Verfügung zu stellen („Plattformanbieter") sind nicht Parteien dieser Vereinbarung. Plattformanbieter sind in keiner Weise verpflichtet, irgendwelche Wartungs- und Support-Dienstleistungen in Bezug auf die App zu erbringen. Falls die App nicht den hier gegebenen Gewährleistungen entspricht, können Sie den entsprechenden Plattformanbieter informieren und dieser Plattformanbieter kann Einkäufe, die eventuell über die App getätigt wurden, zurückerstatten. Soweit gesetzlich zulässig haben Plattformanbieter keine andere Garantie-Verpflichtung in Bezug auf die App. Sie erkennen an, dass die Plattformanbieter nicht für den Umgang mit Forderungen verantwortlich sind, die in Bezug auf die App oder Ihren Besitz bzw. Ihre Nutzung der App gestellt werden. Dazu gehören unter anderem: (i) Produkthaftungsansprüche, (ii) Behauptungen, dass die App nicht allen geltenden Rechts- und Verwaltungsvorschriften entspricht, und (iii) Ansprüche im Rahmen des Verbraucherschutzes oder ähnlicher Gesetze. Wir, nicht die Plattformanbieter, sind allein für die Untersuchung, die Verteidigung, die Beilegung und die Entlastung jeglicher Forderungen in Bezug auf Verletzungen des geistigen Eigentums verantwortlich. Plattformanbieter sind als Drittparteien Nutznießer dieses Vertrags und sie haben das Recht (und es wird davon ausgegangen, dass sie das Recht angenommen haben) zur Durchsetzung dieser Vereinbarung gegen Sie als dessen dritte Nutznießer.
 
-## 12. DATENSCHUTZ
+## Datenschutz
 
-Um mehr darüber zu erfahren, wie YouNow Ihre persönlichen Angaben schützt, verweisen wir auf die [Datenschutzbestimmungen](http://www.younow.com/privacy.php) von YouNow.
+Um mehr darüber zu erfahren, wie YouNow Ihre persönlichen Angaben schützt, verweisen wir auf die [Datenschutzbestimmungen](/policy/de/privacy) von YouNow.
 
-## 13. SCHIEDSGERICHT
+## Schiedsgericht
 
 SIE VERZICHTEN HIERMIT AUF ALLE RECHTE, VOR GERICHT BEI KLAGEN AUFZUTRETEN, DIE IM ZUSAMMENHANG MIT DEM SERVICE ODER DIESEN BEDINGUNGEN EINGELEITET WERDEN. Diese Bedingungen unterliegen dem Recht von New York ohne Rücksicht auf Kollisionsnormen. Alle Streitigkeiten oder Ansprüche, die aus oder im Zusammenhang mit diesen Bedingungen oder Verstößen gegen diese entstehen, sind durch Schiedsgerichtsverfahren unter dem Vorsitz der American Arbitration Association nach ihren Commercial Arbitration Rules beizulegen. Das Schiedsgerichtsverfahren unterliegt dem Recht von New York und findet in New York, Bundesstaat New York, statt. Der Schiedsrichter wird ein Experte auf dem Gebiet der Internetdienstleistungen sein. Der Schiedsspruch ist endgültig und bindend und das Urteil des Schiedsrichters kann bei jedem Gericht eingeklagt werden. Es werden keine Sammelklagen zur Schlichtung gemäß diesen Bedingungen angenommen.
 
-## 14. VERSCHIEDENES
+## Verschiedenes
 
 (a) Diese Bedingungen stellen den gesamten Vertrag zwischen den Parteien über den Gegenstand dieser Vereinbarung dar. (b) Sollte ein Teil dieser Geschäftsbedingungen aus irgendeinem Grund von einem Gericht der zuständigen Gerichtsbarkeit als ungültig oder nicht durchsetzbar erachtet oder beurteilt werden, wird diese Bestimmung unwirksam, aber andere Teile dieser Geschäftsbedingungen werden dadurch nicht berührt. (c) Sie bestätigen, dass Sie entweder über achtzehn (18) Jahre alt sind oder ein mündiger Minderjähriger sind oder eine rechtswirksame Einwilligung der Eltern oder Erziehungsberechtigten besitzen und völlig fähig und kompetent sind, die Vorgaben, Bedingungen, Verpflichtungen, Bestätigungen, Zusicherungen und Gewährleistungen, die in diesen Bedingungen festgelegt sind, einzugehen und diese zu befolgen und ihnen zu entsprechen. In jedem Fall bestätigen Sie, dass Sie die älter als dreizehn (13) Jahre sind, da der Service nicht für Kinder unter dreizehn (13) Jahren vorgesehen ist. Wenn Sie unter dreizehn (13) Jahren alt sind, dann nutzen Sie den Service bitte nicht.
 
