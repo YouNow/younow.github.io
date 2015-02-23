@@ -3,9 +3,7 @@ title: Terms Of Use
 layout: default
 category: EN
 ---
-# YOUNOW TERMS OF USE
-
-## 1. WELCOME
+## Welcome
 
 Welcome to the YouNow Service, located at www.younow.com (the "Site") and available as a mobile application (the "App"). The YouNow Service and any related services, aspects, functions, software platforms or derivatives thereof (collectively, the "Service") were created by YouNow ("YouNow", "we", "us" or "our") as a source of personal communication and entertainment, and the following YouNow Terms of Use (the "Terms") constitute a set of rules by which we operate them.
 
@@ -15,13 +13,13 @@ By using or accessing the Service, you acknowledge that you agree and are subjec
 
 YouNow hereby grants you permission to access and use the Service provided that you comply with these Terms. IF YOU DO NOT AGREE TO BE FULLY BOUND BY ANY AND ALL OF THESE TERMS, PLEASE DO NOT ACCESS OR USE THE SERVICE. Please note that we reserve the right, at our sole discretion, to revise modify or change or remove portions or all of these, at any time. While we may attempt to notify you when major changes are made to the Terms you should nonetheless periodically review them to make sure you comply. You should read through all the Terms carefully as they constitute a legally binding agreement between you and us.
 
-## 2. REGISTRATION
+## Registration
 
 In order to access some features of the Service, and to be able to submit Content (as defined below) as a performer, you will have to create a YouNow account via your Facebook®, Google+, or Twitter account, using the same information provided to one of these networks. You can alter such information by updating your Facebook®, Google+, or Twitter account (it will automatically update your YouNow account the next time you log in) by accessing your YouNow account options by logging into the Serice and clicking the "My Settings" at the top right of the site or by accessing your settings, available through your profile page within the App Accounts.
 
 You are solely responsible for the activity that occurs through your account, so we urge you to keep your account password secure and to always log-off when leaving your computer or mobile device unattended. Although YouNow will not be liable for losses caused by any unauthorized use of your account, you may be liable for the losses of YouNow or others due to such unauthorized use – so we strongly recommend notifying us immediately of unauthorized use of your account or of any related security breach. If for any reason you want to limit your children's access to this Site and/or App, there are a number of parental control protections, which are commercially available.
 
-## 3. OWNERSHIP OF THE SERVICE PROVIDED TO YOU
+## Ownership of the service provided to you
 
 The underlying platforms of the Service are either the proprietary property of YouNow or the proprietary property of our licensors or licensees. "YouNowTM" and other trademarks, slogans, service marks, trade names, and trademarks which appear via the Service are proprietary to YouNow. Except as expressly set forth herein, no right, license, or interest to such trademarks are generated or granted hereunder. You shall not remove or alter any copyright notice, trademark or other proprietary or restrictive notice or legend affixed to any material provided by YouNow. By using the Service, you agree not to copy, scrape, re-post, take screen shots of, save, share, distribute, modify or make derivative works of any Content provided through the Service. Except as expressly set forth in these Terms, no license is granted to you and no rights are conveyed by virtue of accessing or using the Service. All rights not granted under these Terms are reserved by YouNow.
 
@@ -29,7 +27,7 @@ You acknowledge and agree that nothing in these Terms shall have the effect of t
 
 The Service may contain links to third party websites that are not owned or controlled by YouNow. YouNow has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, YouNow will not and cannot censor or edit the content of any third-party site. By using the Service, you expressly relieve YouNow from any and all liability arising from your use of any third-party website.
 
-## 4. USER GENERATED CONTENT
+## User generated content
 
 The term "Content" as used within these Terms refers to any, action, information, data, communication, video, text, software, scripts, graphics, photos, sounds, music, audiovisual combinations, interactive features and/or other materials you may view on, access through, or contribute to the Service. YouNow is not responsible for the Content of third parties. If you choose to contribute Content to the Service:
 
@@ -48,7 +46,7 @@ You also agree that you will not (i) use the Service to spam others or create ma
 
 You agree not to collect or harvest any personally identifiable information, including account names, from the Service, nor to use the communication systems provided by the Service (e.g., comments, email) for any commercial solicitation purposes. You agree not to solicit, for commercial purposes, any users of the Service with respect to their Content.
 
-## 5. VIRTUAL CURRENCY/IN-SERVICE PURCHASES
+## Virtual currency/in-service purchases
 
 You understand that while, at times, you may "buy" or "purchase" (a) virtual currency, including but not limited to virtual bars, for use in the Service; or (b) virtual in-Service items, including but not limited to fan mail and engagement rings/proposals, 50 thumbs up, tipping (together with virtual currency, "Virtual Items"), these real world terms are only being used as shorthand. You do not in fact "own" the Virtual Items, and the amounts of any Virtual Item do not refer to any credit balance of real currency or its equivalent. Rather, YouNow grants you a limited license to use the Service, including software programs that may manifest themselves as these items.
 
@@ -58,7 +56,7 @@ Your gift of certain Virtual Items to a performer on the Service may, but will n
 
 Tips and other Virtual Items gifted to performers may result in some revenue to such performers, as determined in YouNow's sole discretion; however, YouNow makes no guarantee that the amount or value of the bars or Virtual Items you may give a performer will correlate to the revenue such performer may receive from YouNow.
 
-## 6. RIGHT TO SHUT DOWN, DENY OR LIMIT ACCESS, REMOVE CONTENT
+## Right to shut down, deny or limit access, remove content
 
 YouNow has the right, but not the obligation, to screen, refuse to post, remove or edit the Content, at any time and for any or no reason at all, at our sole discretion. YouNow takes steps to monitor Content and keep the Site, App, and Service safe, but YouNow cannot guarantee their safety. You enter the Site and/or App and use the YouNow Service at your own risk. YouNow reserves the right, but assumes no obligation, to remove Content, which is abusive, illegal or disruptive, or that otherwise fails to comply with these Terms, and to limit or revoke your access in full or in part to the Service, in our sole discretion, at any time, and for any reason, including, but not limited to reasons such as technical difficulties or violation of these Terms.
 
@@ -66,13 +64,13 @@ In addition to any right or remedy that may be available to YouNow under these T
 
 Given that the Service is provided in real-time - we would appreciate your help in reporting to us any Content that you believe violates these Terms. Please direct the relevant information, including the IP address used to commit the alleged violation and the date and time of the alleged violation, including the time zone to [support.younow.com](https://younow.zendesk.com/home).
 
-## 7. FEEDBACK FROM YOU
+## Feedback from you
 
 While we welcome any feedback or comments from you, please note that any unsolicited ideas, feedback or suggestions pertaining to our business, such as ideas for new or improved products or technologies, website or tool enhancements, processes, materials, marketing plans or new product names, will automatically upon submission become the property of YouNow, without any compensation to you. While under no obligation to review such submissions or to keep such submissions confidential, YouNow may use or redistribute any such submission and its contents for any purpose and in any way it deems fit.
 
 To provide such submissions or feedback, please email [feedback@younow.com](mailto:feedback@younow.com)
 
-## 8. COPYRIGHT INFRINGEMENT POLICY
+## Copyright infringement policy
 
 YouNow is committed to protecting the rights of copyright rights holders and seeks to comply with all applicable laws and regulations regarding the protection of intellectual property.
 
@@ -96,7 +94,7 @@ YouNow may notify the owner or administrator of the affected Content so that he 
 
 Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by mailing all required documentation to: YouNow, 25 W. 36th Street, 5th Floor New York, NY 10018, ATTN: COPYRIGHT INFRINGEMENT DESIGNATED AGENT or by email to [feedback@younow.com](mailto:feedback@younow.com) with the words "Attn Copyright Infringement Designated Agent" in the subject line.
 
-## 9. NO WARRANTY
+## No warranty
 
 YOU ACKNOWLEDGE, THAT TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THAT THE SERVICE, THE SITE, THE APP THE CONTENT AND OTHER MATERIALS PROVIDED TO YOU UNDER THIS AGREEMENT ARE PROVIDED ON AN "AS IS" BASIS. YOUNOW DISCLAIMS ANY AND ALL WARRANTIES RELATING TO THE SERVICE, THE SITE, THE APP, THE CONTENT AND OTHER MATERIALS, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF NON-INFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT ANY CONTENT WILL BE ERROR-FREE, THAT ACCESS THERETO WILL BE UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, OR THAT THE Site OR THE SERVERS THAT MAKE OUR CONTENT AVAILABLE ARE OR WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 
@@ -104,7 +102,7 @@ The Service may contain the opinions and views of other users. Given the user-ge
 
 Please also note that the Service is controlled and offered by YouNow from its facilities in the United States of America. The laws of other countries may differ regarding the access and use of the YouNow. YouNow makes no representations that the Service is appropriate or available for use in other locations. Those who access or use the Service from other jurisdictions do so at their own volition and are responsible for compliance with local law.
 
-## 10. LIABILITIES AND INDEMNITIES
+## Liabilities and indemnities
 
 You shall release, indemnify and hold harmless YouNow and its directors, officers, employees, representatives and agents ("Related Parties") against all demands, claims, actions, liabilities, losses, costs, damages or expenses whatsoever, known and unknown (including reasonable attorneys' fees) ("Damages") asserted against, imposed upon or incurred by YouNow and/or any of its Related Parties resulting from or arising out of any violation of these Terms by you, and the use of your Content, including, without limitation, any infringement of any third party's rights by your use of the Service or through Content you provide.. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE §1542, WHICH SAYS: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR." WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR YOUNOW, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
@@ -112,19 +110,19 @@ YOUNOW WILL NOT BE LIABLE FOR DAMAGES OF ANY KIND INCLUDING, WITHOUT LIMITATION,
 
 THE LIMITATIONS, EXCLUSIONS AND DISCLAIMERS IN THIS SECTION AND ELSEWHERE IN THESE TERMS OF USE APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
 
-## 11. PLATFORM PROVIDERS
+## Platform providers
 
 Platform providers, such as Apple Inc. and Google Inc., that make the App available for download ("Platform Providers") are not party to this Agreement. Platform Providers have no obligation whatsoever to furnish any maintenance and support services with respect to the App. In the event of any failure of the App to conform to the warranties herein, you may notify the applicable Platform Provider, and such Platform Provider may refund any purchases made through the App (if applicable). To the maximum extent permitted by applicable law, Platform Providers will have no other warranty obligation whatsoever with respect to the App. You acknowledge that Platform Providers are not responsible for addressing any claims relating to the App or your possession and/or use of the App, including but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation. We, not the Platform Providers, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim. Platform Providers are third party beneficiaries of this Agreement, and Platform Providers will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary thereof.
 
-## 12. PRIVACY
+## Privacy
 
 To learn more about how YouNow protects your personal information, please refer to the YouNow [Privacy Policy](http://www.younow.com/privacy.php).
 
-## 13. ARBITRATION
+## Arbitrition
 
 YOU HEREBY WAIVE ALL RIGHTS TO TRIAL IN ANY ACTION OR PROCEEDING INSTITUTED IN CONNECTION WITH THE SERVICE OR THESE TERMS. These Terms are governed by New York law without regard to conflict of law provisions. Any controversy or claim arising out of or relating to these Terms, or the breach thereof, will be settled by arbitration, and administered by the American Arbitration Association under its Commercial Arbitration Rules. Any such arbitration will be governed by New York law and will be held in New York, New York. The arbitrator will be an expert in the field of Internet services. The arbitrator's award will be final and binding and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof. There will be no class action arbitration pursuant to these Terms.
 
-## 14. MISCELLANEOUS
+## Miscellaneous
 
 (a) These Terms constitute the entire agreement between the parties concerning the subject matter hereof; (b) If any part of these Terms and Conditions shall be held or declared to be invalid or unenforceable for any reason by any court of competent jurisdiction, such provision shall be ineffective but shall not affect any other part of these Terms and Conditions; (c) You affirm that you are either more than eighteen (18) years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms, and to abide by and comply with these Terms. In any case, you affirm that you are over the age of thirteen (13), as the Service is not intended for children under thirteen (13). If you are under thirteen (13) years of age, then please do not use the Service.
 
