@@ -149,7 +149,7 @@ Die Abteilung für Sicherheit (Team Trust & Safety) bei YouNow arbeitet engagier
 
 **Verfügbare Nutzerdaten von YouNow**
 
-_User Profil Informationen _
+_User Profil Informationen_
 
 - Informationen die uns durch das Einloggen über den Social Media Account bereitgestellt werden, dies beinhaltet: E-mail, generelle Social Media Informationen (Name, Spitzname etc.), den aktuellen YouNow Nutzernamen, Gerätenummer von mobilen Usern, das Geburtsdatum wenn dies im Social Media hinterlegt wurde, sowie die Adresse des Users wenn diese hinterlegt wurde.
 
