@@ -59,7 +59,7 @@ Es ist untersagt den Ablauf einer Chat Session mit ständigen Wiederholungen zu 
 
 Es ist Teilnehmern nicht gestattet Zweitkonten zu eröffnen oder ihren Chat Namen zu ändern um sich als seine andere Person auszugeben. Es stört die Gemeinschaft und verstösst gegen YouNow 's Terms of Service sich als jemand anders oder als Mitglied einer nicht existierenden Organisation auszugeben, oder mehrere Konten zu eröffnen. Es ist ausserdem verboten mehrere Konten zu benutzen oder zu eröffnen, und alle Konten die auf einen einzelnen Teilnehmer zurückgeführt werden können werden permanent von der Site verbannt.
 
-## Verstösse gegen dass Urheberrecht
+## Verstöße gegen dass Urheberrecht
 
 YouNow verpflichtet sich zum Schutz des Urheberrechts eines jeden, und wird alle Gesetzen und Regelungen die sich auf Geistiges Eigentum beziehen, beachten, Nicht gestattetes kopieren, verbreiten, ändern, öffentich zur-Schau-stellen oder Ausübung Urheberrechtlich geschützter Werke ist ein Verstoss gegen das Urheberrecht, und YouNow wird angemessen gegen jeden Teilnehmer vorgehen der wiederholt gegen das Urheberrecht verstösst. Das wiedergeben von Inhalten anderer Broadcasts in der eigenen Sendung ohne der schriftlichen Eingenehmigung dessen dem dieser Inhalt zuzuschreiben ist, wird als Urheberrechtsverstoss betrachtet und ist daher verboten.
 
