@@ -132,16 +132,11 @@ It's important to maintain your privacy and security while broadcasting live. Be
 
 To ensure that you have the best experience possible on YouNow, please familiarize yourself with YouNow's official rules and policies, below.
 
-- YouNow Terms of Use&nbsp;
-- YouNow Rules & Community Standards&nbsp;
-- YouNow Privacy Policy&nbsp;
+- [YouNow Terms of Use](/policy/en/terms) &nbsp;
+- [YouNow Rules & Community Standards](/policy/en/rules)&nbsp;
+- [YouNow Privacy Policy](/policy/en/privacy)&nbsp;
 
 For further questions regarding any of the above, technical support, or for unbanning requests, please contact the [YouNow Help Desk here](http://support.younow.com).
-
-## Guide for Parents
-
-  YouNow is a live broadcasting platform
-
 
 ## Guide for Law Enforcement
 
@@ -173,11 +168,11 @@ New York, NY 10018
 
 _E-mail Address (best contact to receive immediate response)_
 
-  [privacy@younow.com](mailto:privacy@younow.com)
+  - [privacy@younow.com](mailto:privacy@younow.com)
 
 
 _Our Help Center_
 
-  support.younow.com
+  - support.younow.com
 
 _We are not able to accept inquiries via phone or fax._
