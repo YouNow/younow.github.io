@@ -5,7 +5,7 @@ category: DE
 ---
 YouNow nimmt den Schutz persönlicher Informationen sehr wichtig, die eventuell durch unsere Website (die „Website") und die mobile Anwendung (die „App", und zusammen mit der Website als der „Service" bezeichnet) erfasst werden, und wir betrachten es als unsere Pflicht zu gewährleisten, dass Sie umfassend darüber informiert werden, wie Ihre persönlichen Informationen verwendet werden. Die folgenden Bestimmungen beschreiben diese Erfassung und Nutzung.
 
-## WELCHE INFORMATIONEN WIR ERFASSEN UND WIE WIR ES TUN
+## Welche Informationen wir erfassen und wie wir es tun
 
 Der primäre Zweck, warum wir Ihre persönlichen Daten erfassen, besteht darin, Ihnen die von Ihnen gewünschten Dienstleistungen zu bieten und solche, von denen wir glauben, dass sie Ihre Nutzung unserer Website und der dazugehörigen Dienstleistungen optimieren und verbessern können. Uns Ihre Daten mitzuteilen ist keine Voraussetzung für die Nutzung unserer Website, der App oder des Service, aber beachten Sie, dass wir Ihnen möglicherweise bestimmte Dienste oder Funktionen der Website, App bzw. des Service nicht bieten können, wenn Sie sich entscheiden, uns bestimmte Informationen nicht zu geben.
 
@@ -16,7 +16,7 @@ Es gibt mehrere unterschiedliche Wege, über die wir von Ihnen persönliche Info
 - Durch Umfragen: Wir erfassen Ihre Benutzerinformationen eventuell auch durch Umfragen, die wir von Zeit zu Zeit in Bezug auf unsere Dienstleistungen durchführen. Die Teilnahme und Bereitstellung von Informationen bei solchen Umfragen ist optional.&nbsp;
 - Aggregierte Informationen: Immer, wenn Sie unsere Website oder App &nbsp;aufrufen, erfasst und sammelt unser Webserver automatisch Informationen in Bezug auf Ihren Besuch. Diese Informationen umfassen URLs oder Domänen von verweisenden Websites, Browsertyp, Betriebssystem, die Seiten, auf die Sie zugreifen, und Datum und Uhrzeit des Besuchs. Im Allgemeinen werden Sie durch diese aggregierten Informationen nicht persönlich identifiziert, aber wenn wir solche Informationen Ihrer Person zuordnen, werden wir sie gemäß diesen Datenschutzbestimmungen behandeln.&nbsp;
 
-## WAS WIR EVENTUELL MIT DEN GESAMMELTEN INFORMATIONEN TUN
+## Was wir eventuell mit den gesammelten Informationen tun
 
 Wir könnten die uns zur Verfügung gestellten Informationen folgendermaßen verwenden:
 
@@ -31,7 +31,7 @@ Wir könnten die uns zur Verfügung gestellten Informationen folgendermaßen ver
 
 Informationen, die Sie freiwillig über den Service übermitteln, sind öffentlich zugänglich und können von anderen ohne Einschränkungen angesehen und genutzt werden. Wir kontrollieren nicht solche Nutzungen Ihrer persönlich identifizierbaren Informationen und durch die Nutzung des Service übernehmen Sie das Risiko und bestätigen, dass die persönlich identifizierbaren Informationen, die von Ihnen bereitgestellt wurden, von Dritten und von uns angesehen und für beliebige Zwecke verwendet werden können und dass die Nutzungsbeschränkungen, die in diesen Datenschutzbestimmungen dargelegt sind, nicht gelten.
 
-## OFFENLEGUNG VON INFORMATIONEN
+## Offenlegung von Informationen
 
 Obwohl wir uns sehr bemühen, die Privatsphäre der Nutzer aufrecht zu erhalten, müssen wir manchmal persönliche Informationen offenlegen, wenn wir dazu gesetzlich verpflichtet sind oder wenn es im Zuge eines laufenden Gerichtsverfahrens, einer gerichtlichen Anordnung oder eines Gerichtsverfahrens gegen unseren Service nötig ist, oder wenn wir davon überzeugt sind, dass die Weitergabe von Informationen notwendig ist, um unmittelbar drohende Körperverletzungen oder finanzielle Verluste zu verhindern oder vermutete rechtswidrige Tätigkeit zu melden. Wir können Ihre persönlichen Daten auch offenlegen, um unsere Richtlinien durchzusetzen oder auf Behauptungen zu reagieren, dass ein Inserat oder andere Inhalte das Recht einer anderen Person verletzt. In allen Fällen werden solche Informationen gemäß der geltenden Gesetze und Bestimmungen weitergegeben.
 
@@ -40,7 +40,7 @@ Wir könnten Ihre Informationen auch anderen mitteilen:
 - einer dritten Partei, die für uns Leistungen in unserem Auftrag erbringt und sich bereit erklärt hat, solche Informationen vertraulich zu behandeln (z. B. um Bedrohungen durch potenzielle Cyber-Angriffe oder Trolle abzuwenden oder aus anderen Gründen der Sicherheit, ggf. zur Bearbeitung Ihrer Kreditkartenzahlung oder zur Durchführung einer Online-Umfrage). Das schließt unseren Partner Maker Studios ein, um Ihnen im Rahmen unseres RPM/YouNow -Treueprogramms Vorteile zu bieten. Maker Studios werden diese Daten vertraulich behandeln. &nbsp;
 - einem unserer Partner, aber nur, wenn Sie dies im Voraus gewünscht haben. Bitte beachten Sie, dass in solchen Fällen diese Datenschutzbestimmungen nicht deren Informationspraktiken abdecken und wir nicht für die Datenschutzpraktiken, die durch solche Partner ausgeübt werden, haften.&nbsp;
 
-## SICHERUNG DER INFORMATIONEN
+## Sicherung der Informationen
 
 Wir ergreifen angemessene technische und organisatorische Maßnahmen zum Schutz gegen nicht autorisierte oder ungesetzliche Verarbeitung der gesammelten Informationen und gegen zufälligen Verlust oder die Zerstörung oder Beschädigung Ihrer persönlichen Daten. Wenngleich kein System vollkommen sicher ist, glauben wir, dass die Maßnahmen, die durch unseren Service durchgeführt werden, die Wahrscheinlichkeit von Sicherheitsproblemen auf einer der Art der betreffenden Daten angemessenen Ebene verringert.
 
@@ -48,7 +48,7 @@ Informationen, die wir über Facebook Connect erhalten, werden mit einem Secure 
 
 Darüber hinaus wird empfohlen, dass auch Sie Ihren Teil beitragen, um sich gegen unautorisierten Zugriff auf Ihr Konto zu schützen, indem Sie sicherstellen, dass niemand außer Ihnen Ihr Gerät nutzt, wenn Sie eingeloggt sind, indem Sie sich aus unserer Website ausloggen, &nbsp;wenn Sie sie nicht gerade nutzen, und Ihr Passwort geheim halten.
 
-## HAT JEMAND GERADE „COOKIE" GESAGT?
+## Hat jemand gerade „Cookie" gesagt?
 
 Wir können eventuell „Cookies" auf unserer Website verwenden. Ein Cookie ist eine kleine Textdatei, die beim Besuch einer Website auf die Festplatte Ihres Computers platziert und zu Zwecken der Datenaufbewahrung gespeichert werden kann. Ein Cookie selbst ist nicht dazu geschaffen oder gedacht, um Informationen aus dem Computer eines Benutzers zu lesen (mit Ausnahme der Inhalte des Cookies selbst); vielmehr handelt es sich um ein Identifikationsmittel der Website, die ihn ursprünglich auf Ihrer Festplatte abgelegt hat. Der tatsächliche Inhalt der Cookie-Informationen kann vom gleichen Server abgerufen werden, um den Computer zu identifizieren und anschließend die Nutzung einer Website auf der Grundlage von Informationen, die auf dem Hostserver gespeichert wurden, anzupassen, zu überwachen oder zu regeln. Daher identifizieren Cookies den Computer des Benutzers nur gegenüber der Website, die dann weitere Informationen, einschließlich persönlich identifizierbarer Informationen, mit dem Cookie korrelieren kann.
 
@@ -56,15 +56,15 @@ Wir verwenden Cookies, da sie es uns ermöglichen, den Zugriff auf unsere Websit
 
 Die meisten Webbrowser können so eingestellt werden, dass sie Sie entweder auf die Verwendung von Cookies hinweisen oder es grundsätzlich verweigern, Cookies zu akzeptieren. Wenn Sie nicht sicher sind, wie Sie diese Einstellung vornehmen sollen oder ob Ihnen diese Option überhaupt zur Verfügung steht, sehen Sie in der Begleitdokumentation Ihres Webbrowsers nach. Beachten Sie, dass manche Teile unserer Website möglicherweise nicht richtig funktionieren oder Ihnen keinen Zugriff gestatten werden, wenn Sie sich dafür entscheiden, Cookies nicht anzunehmen.
 
-## LINKS
+## Links
 
 Wir bieten unter Umständen Links von unserer Website zu anderen Websites an, die von unseren Partnern oder von unabhängigen Unternehmen gehostet werden und von denen wir glauben, dass sie für Sie von Interesse sein können. Diese Websites, einschließlich Facebook, Twitter und Google (durch welche Sie sich für den YouNow-Service registrieren müssen) unterliegen nicht dieser Datenschutzerklärung und YouNow macht keine Zusicherungen hinsichtlich ihrer Vorgehensweisen beim Umgang mit Ihren persönlichen Daten. YouNow ist nicht verantwortlich dafür, wie die Websites Dritter Ihre persönlichen Informationen nutzen und weitergeben. Es wird empfohlen, dass Sie zu Beginn Ihres Besuches die Datenschutzerklärung jeder Website einsehen.
 
-## KINDER UNTER 13 JAHREN
+## Kinder unter 13 Jahren
 
 Dieser Service ist eine Dienstleistung, die sich an die breite Bevölkerung richtet und weder dazu geschaffen ist noch beabsichtigt, persönliche Informationen von Kindern zu erfassen, die jünger als dreizehn (13) Jahre sind. Um die Einhaltung der Bestimmungen des Children's Online Privacy Protection Act zu gewährleisten ist es gemäß unseren Geschäftsbedingungen Kindern unter dem Alter von dreizehn (13) Jahren nicht gestattet, auf den Service zuzugreifen oder ihn zu nutzen, und Kinder unter dreizehn (13) Jahren sollten auch keine personenbezogenen Daten auf der Website oder App eingeben. Wir bitten Eltern, ihre Kinder beim Internetbesuchen bzw. beim Umgang mit mobilen Geräten zu beaufsichtigen.
 
-## Zugang, MODIFIKATION UND RICHTIGKEIT DER ERFASSTEN INFORMATIONEN
+## Zugang, Modifikation und Richtigkeit der erfassten Informationen
 
 Die Informationen, die wir von Ihnen erfassen, sind dieselben Informationen, die Sie zuvor auf Facebook, Google+, Twitter oder relevanten Teilen davon zur Verfügung gestellt haben. Durch die Aktualisierung der Informationen in Ihrem Facebook-, Google+- oder Twitter-Konto aktualisieren Sie wahrscheinlich auch automatisch die Informationen in Ihrem YouNow-Konto, wenn Sie sich das nächste Mal einloggen. Sie können auf Ihre Kontoinformationen bei YouNow auch direkt zugreifen und sie ändern, indem Sie sich bei YouNow einloggen und auf das „Zahnradsymbol" oben rechts klicken; auf diese Weise können Sie auch Änderungen an jeglichen Zustimmungen durchführen, die Sie uns gegenüber in Bezug auf unsere Kontaktaufnahme mit Ihnen im Zusammenhang mit Informationen, die Sie von uns erhalten, gegeben haben. Sie können außerdem jederzeit verlangen, dass Ihre Präferenzen hinsichtlich der Art der Kommunikation, die Sie von uns erhalten, geändert werden, indem Sie Zusendungen wieder abbestellen oder sich unserer Mailing-Liste hinzufügen lassen. Sie können dies auch Anhand der Anweisungen tun, die in jeder Mitteilung und jedem Newsletter von uns enthalten sind.
 
