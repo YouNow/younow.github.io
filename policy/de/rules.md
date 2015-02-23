@@ -3,8 +3,6 @@ title: Regeln
 layout: default
 category: DE
 ---
-# YouNow Regeln & Gesellschaftliche Standards
-
 YouNow bietet Menschen auf der ganzen Welt die Möglichkeit eine neue Art von Interaktivem Inhalt in Realzeit durch Liveübertragung zu entdecken und zu kreieren. Damit YouNow eine sichere Plattform bleibt, auf der man neue Leute kennenlernen, und an interessanten Diskussionen teilnehmen kann, ist es wichtig dass wir Gesellschaftliche Standards erstellen um das Wohlbefinden unserer Teilnehmer so gut wir können, zu sichern. Wir werden unser Möglichstes tun um Ihre Sicherheit auf YouNow zu gewähren, aber wir können es nicht garantieren. Was folgt ist eine Liste von Regeln und Richtlinien die, bei Verstoß, zur Suspendierung oder permanentem Zugangsverbot zu YouNow führen können.
 
 Bitte beachten Sie dass, im Falle von verdächtigen oder kriminellen Aktivitäten, wir uns das Recht beibehalten diese an Ihre lokalen Behörden zu melden.
