@@ -3,9 +3,6 @@ title: DATENSCHUTZRICHTLINIE
 layout: default
 category: DE
 ---
-
-# DATENSCHUTZRICHTLINIE
-
 YouNow nimmt den Schutz persönlicher Informationen sehr wichtig, die eventuell durch unsere Website (die „Website") und die mobile Anwendung (die „App", und zusammen mit der Website als der „Service" bezeichnet) erfasst werden, und wir betrachten es als unsere Pflicht zu gewährleisten, dass Sie umfassend darüber informiert werden, wie Ihre persönlichen Informationen verwendet werden. Die folgenden Bestimmungen beschreiben diese Erfassung und Nutzung.
 
 ## 1. WELCHE INFORMATIONEN WIR ERFASSEN UND WIE WIR ES TUN
