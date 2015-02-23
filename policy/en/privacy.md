@@ -94,7 +94,7 @@ Any requests for access to your information, modification of your information or
 11th Floor  
 New York, NY 10018, USA
 
-## Unsubscribinh
+## Unsubscribing
 
 If you wish to no longer receive our newsletters or emails, you can unsubscribe anytime by clicking the link in the footer of all our emails, or by contacting us at the [YouNow Help Desk](https://younow.zendesk.com/anonymous_requests/new).
 
