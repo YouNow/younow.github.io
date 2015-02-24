@@ -1,5 +1,5 @@
 ---
-title: خصوصية
+title: Privacy Policyة
 layout: default
 category: EN
 ---
