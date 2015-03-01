@@ -1,4 +1,4 @@
 html {
-	overflow: auto;
-	overflow-x: hidden;
+	overflow: auto !important;
+	overflow-x: hidden !important;
 }
