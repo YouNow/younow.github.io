@@ -1,0 +1,4 @@
+html.embed {
+	overflow: auto;
+	overflow-x: hidden;
+}
