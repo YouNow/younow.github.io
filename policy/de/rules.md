@@ -63,6 +63,6 @@ Es ist Teilnehmern nicht gestattet Zweitkonten zu eröffnen oder ihren Chat Name
 
 YouNow verpflichtet sich zum Schutz des Urheberrechts eines jeden, und wird alle Gesetzen und Regelungen die sich auf Geistiges Eigentum beziehen, beachten, Nicht gestattetes kopieren, verbreiten, ändern, öffentich zur-Schau-stellen oder Ausübung Urheberrechtlich geschützter Werke ist ein Verstoss gegen das Urheberrecht, und YouNow wird angemessen gegen jeden Teilnehmer vorgehen der wiederholt gegen das Urheberrecht verstösst. Das wiedergeben von Inhalten anderer Broadcasts in der eigenen Sendung ohne der schriftlichen Eingenehmigung dessen dem dieser Inhalt zuzuschreiben ist, wird als Urheberrechtsverstoss betrachtet und ist daher verboten.
 
-Mehr Informationen finden sie bei YouNow [hier](http://www.younow.com/terms.php)
+Mehr Informationen finden sie bei YouNow [hier](http://www.younow.com/policy/de/terms)
 
 Letzte Aktualisierung der Seitenregeln: February 2015
