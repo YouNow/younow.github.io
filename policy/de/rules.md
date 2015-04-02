@@ -3,66 +3,69 @@ title: Regeln
 layout: default
 category: DE
 ---
-YouNow bietet Menschen auf der ganzen Welt die Möglichkeit eine neue Art von Interaktivem Inhalt in Realzeit durch Liveübertragung zu entdecken und zu kreieren. Damit YouNow eine sichere Plattform bleibt, auf der man neue Leute kennenlernen, und an interessanten Diskussionen teilnehmen kann, ist es wichtig dass wir Gesellschaftliche Standards erstellen um das Wohlbefinden unserer Teilnehmer so gut wir können, zu sichern. Wir werden unser Möglichstes tun um Ihre Sicherheit auf YouNow zu gewähren, aber wir können es nicht garantieren. Was folgt ist eine Liste von Regeln und Richtlinien die, bei Verstoß, zur Suspendierung oder permanentem Zugangsverbot zu YouNow führen können.
+YouNow bietet Menschen auf der ganzen Welt die Möglichkeit, eine neue Form, interaktiver Inhalte in Echtzeit durch Liveübertragung zu entdecken und selbst zu kreieren. Damit YouNow ein sicheres Angebot bleibt, auf dem man neue Menschen kennenlernen und an interessanten Diskussionen teilnehmen kann, ist es wichtig, dass wir für alle geltende und verbindliche Nutzungsregeln aufstellen. Jeder Einzelne soll sich bei YouNow sicher und wohl fühlen. 
+Wir werden unser Möglichstes tun, um eine hohes Maß an Sicherheit auf YouNow zu gewährleisten. Dafür brauchen wir jedoch auch Deine Unterstützung und Mithilfe. Denn Dein Verhalten prägt YouNow. Bitte beachte deshalb die folgenden Regeln. Eine Nichtbeachtung oder ein Verstoß führt zu einer befristeten Sperre oder einem permanenten Ausschluss von YouNow. 
 
-Bitte beachten Sie dass, im Falle von verdächtigen oder kriminellen Aktivitäten, wir uns das Recht beibehalten diese an Ihre lokalen Behörden zu melden.
+In Fällen von verdächtigen oder kriminellen Aktivitäten behalten wir uns das Recht vor, diese an die jeweiligen Verfolgungsbehörden weiterzuleiten. 
 
-## Keine Gewalt und/oder Selbstverletzung
+## Verbot von Gewalt und/oder Selbstverletzung
 
-Sicherheit ist bei YouNow höchste Priorität und wir nehmen Gewalt- und Selbstverletzungsdrohungen sehr ernst. Inhalt welcher gegen diese Regel verstößt, kann von YouNow entfernt werden und wir behalten uns das Recht vor solchen Inhalt an Ihre lokalen Behörden zu melden. Drohungen sind ebenfalls verboten, und Drohungen, oder der Versuch anderen Teilnehmern zu drohen, können zu permanentem Zugangsverbot führen.
+Sicherheit hat bei YouNow höchste Priorität, und wir nehmen Gewalt- und Selbstverletzungsdrohungen sehr ernst. Inhalte, die gegen diese Regel verstoßen, werden von YouNow entfernt. Außerdem behalten wir uns das Recht vor, solche Inhalte an die jeweiligen Verfolgungsbehörden weiterzuleiten. Drohungen sind ebenfalls verboten. Drohungen oder Drohversuche gegen andere Teilnehmer werden mit einem Ausschluss aus YouNow bestraft.
 
-## Absolut keine Nacktheit oder sexuell provokatives Benehmen
 
-YouNow's Grundregel ist dass Männer sowohl als auch Frauen unter 18 Jahren während der Sendezeit ständig voll bekleidet sein müssen. Teilnehmer unter 18 Jahren die sich in irgendeiner Weise unbekleidet zeigen können suspendiert oder permanent von der Site verbannt werden.
+## Verbot von Nacktheit oder sexuell provokativem Benehmen
 
-Teilnehmer dürfen keine nackte Haut unter den Kleidern zeigen. Andere Teilnehmer in irgendeiner Form zur Nacktheit anzustiften kann ebenfalls mit Suspendierung oder permanentem Zugangsverbot bestraft werden.
+Frauen und Männer unter 18 Jahren müssen während der Sendezeit ständig bekleidet sein. Nutzer unter 18 Jahren ohne Oberbekleidung wie T-Shirts usw. werden vorrübergehend gesperrt oder sogar dauerhaft aus YouNow ausgeschlossen.
 
-Weibliche Teilnehmerinnen müssen darauf achten dass der Busen jederzeit vollkommen bedeckt ist. Teilnehmerinnen die gegen diese Regel verstoßen, können suspendiert oder permanent von der Site verbannt werden.
+Livestreamer dürfen keine durchsichtige Kleidung tragen. Andere Teilnehmer in irgendeiner Form zur Nacktheit anzustiften, kann ebenfalls mit einer vorübergehenden Sperrung oder permanentem Ausschluss von YouNow bestraft werden.
+
+Weibliche Teilnehmerinnen müssen darauf achten, dass die Brust jederzeit vollkommen bedeckt ist. Teilnehmerinnen, die gegen diese Regel verstoßen, können vorübergehend gesperrt oder permanent von YouNow ausgeschlossen werden.
 
 Teilnehmern ist folgendes nicht gestattet:
 
-- Vulgäre, profane, beleidigende, oder eindeutig sexuelle Kommentare im broadcast oder im Chat.&nbsp;
-- Beleidigende oder eindeutig sexuelle Bilder oder Zeichnungen von sich selbst oder anderen im broadcast zu zeigen.&nbsp;
-- Das Zurschaustellung von sexuellem oder provokativem Benehmen und/oder Sexartikeln, sowie sexuell provokatives Tanzen.&nbsp;
+- vulgäre, lästernde, beleidigende oder eindeutig sexuelle Kommentare im Livestream oder im Chat.&nbsp;
+- anstößige oder eindeutig sexuelle Bilder oder Zeichnungen von sich selbst oder anderen im Livestream zu zeigen
+.&nbsp;
+- sexuelles oder provokatives Verhalten sowie sexuell provokatives Tanzen und/oder das zur Schau stellen von Sexartikeln.&nbsp;
 
-## Verbot von Schikanieren, Mobbing, Belästigungen, oder Hassreden
+## Verbot von Schikanieren, Mobbing, Belästigungen oder Hassreden
 
-Benutzer von YouNow müssen alle anderen Teilnehmer der Site mit Respekt behandeln. YouNow duldet keine Verspottungen, Schikanieren, Mobbing, Hassreden, Rassismus oder irgendwelche anderen Arten der Belästigung anderer. Während wir die Prinzipien der Freien Sprache unterstützen, erlauben wir keine Angriffe auf andere, welche auf Rasse, Herkunft, Nationalität, Religion, Geschlecht, Alter, Sexueller Orientierung, Behinderung oder Gesundheitszustand basieren.
+Nutzer von YouNow müssen alle anderen Community-Mitglieder mit Respekt behandeln. YouNow duldet kein Schikanieren, Mobbing und Rassismus sowie keine Verspottungen, Beleidigungen, Hassreden oder andere Arten der Belästigung anderer Personen. Wir unterstützen das Prinzip der Meinungsfreiheit, erlauben aber keine Angriffe auf andere bezüglich Rasse, Herkunft, Nationalität, Religion, Geschlecht, Alter, sexueller Orientierung, Behinderung oder Gesundheitszustand.
 
-## Keine Drogennutzung in Broadcasts
+## Verbot von Drogenkonsum in Livestreams
 
-Die Einnahme von Drogen während der Sendungen ist verboten. Konsum von Alkohol während der Sendung von Benutzern jünger als 21 Jahre ist ebenfalls verboten. Ebenfalls verboten ist das Rauchen unter 18 Jahren.
+Die Einnahme von Drogen oder das Zeigen von Drogenutensilien während der Sendungen ist verboten. Konsum von Alkohol und das Rauchen durch unter 18-Jährige sind während der Sendung ebenfalls verboten.
 
-## Mindestalter für Mitgliedschaft
+## Beachten des Mindestalters von 13 Jahren für die Mitgliedschaft
 
-YouNow Teilnehmer müssen mindestens 13 Jahre alt sein. Wenn wir ein Konto finden dass einem Benutzer unter dem Alter von 13 Jahren gehört, wird dieses sofort gelöscht. Wenn Teilnehmer Gäste in ihr Broadcast einladen, welche unter dem Mindestalter von 13 Jahren sind, werden diese Broadcasts ebenfalls sofort gelöscht.
+YouNow-Mitglieder müssen mindestens 13 Jahre alt sein. Wenn wir ein Konto finden, das einem Benutzer unter 13 Jahren gehört, wird dieses sofort gelöscht. Wenn Teilnehmer Gäste in ihren Livestream einladen, die unter dem Mindestalter von 13 Jahren sind, werden diese ebenfalls sofort gelöscht.
 
-## Keine Veröffentlichung privater Kontaktinformation
+## Keine Veröffentlichung privater Kontaktinformationen
 
-Das herausgeben von Privatinformation anderer Teilnehmer ist verboten. Dies gilt, unter anderem, für E-mail-Adressen, Telefonnummern, sowie auch Wohnadressen. Wir schlagen vor dass Sie auch Ihre eigenen Personaldaten nicht mit anderen teilen.
+Die Herausgabe von persönlichen Daten anderer Teilnehmer ist verboten. Dies gilt u.a. für E-Mail-Adressen, Telefonnummern und Wohnadressen. Wir raten auch dringend davon ab, Deine eigenen persönlichen Informationen mit anderen zu teilen.
 
-## Keine Scherzanrufe an Notrufnummern, Telefonseelsorgen oder andere Hilfsdienste
+## Keine Scherzanrufe an Notrufnummern, Telefonseelsorgen oder andere Hilfs- und Beratungsdienste
 
-YouNow verbietet Scherzanrufe an Notrufnummern, Telefonseelsorgen oder andere Hilfsdienste, und Benutzer der Site, die solche Anrufe machen, werden auf Lebenszeit von der Site verbannt.
+YouNow verbietet Scherzanrufe an Notrufnummern, Telefonseelsorgen oder andere Hilfs- und Beratungsdienste. Nutzer, die solche Anrufe machen, werden dauerhaft von YouNow ausgeschlossen.
 
-## Kein Anwerben oder Ermutigung zum Regelverstoss
+## Keine Aufforderung oder Ermutigung zum Regelverstoß
 
-- Es ist untersagt andere Teilnehmer zu Sexuellen oder Illegalen Taten anzustiften. Es ist ebenfalls untersagt andere Teilnehmer dazu zu bringen Nacktbilder oder Pornografische Materialien zur Schau zu stellen. Es ist ebenfalls verboten andere Teilnehmer nach Ihrer persönlichen Information zu fragen.&nbsp;
-- Illegale oder unangemessene kommerzielle Aktivitäten oder Verkauf irgendwelcher Waren sind auf YouNow strengstens untersagt. Beispiele solcher Aktivitäten wären Schneeballsysteme, Pyramidensysteme, Multi-Level-Marketing, und Gewinnspiele.&nbsp;
-- Es ist verboten andere Teilnehmer zum Brechen irgendwelcher YouNow Regeln anzustiften, ob im Chat oder während einer Sendung.&nbsp;
+- Es ist untersagt, andere Nutzer zu sexuellen oder illegalen Handlungen anzustiften oder sie dazu zu bringen, Nacktbilder oder pornografisches Material zur Schau zu stellen. Es ist ebenfalls verboten, andere Teilnehmer nach Ihren persönlichen Informationen zu fragen.&nbsp;
+- Illegale, unangemessene kommerzielle Aktivitäten oder der Verkauf irgendwelcher Waren sind auf YouNow strengstens untersagt. Beispiele solcher Aktivitäten wären Schneeballsysteme, Pyramidensysteme, Multi-Level-Marketing und private Wetten.&nbsp;
+- Es ist verboten, andere Teilnehmer im Chat oder während eines Livestreams zum Brechen der YouNow-Regeln anzustiften.&nbsp;
 
-## Kein Chat Spam
+## Kein Chat-Spam
 
-Es ist untersagt den Ablauf einer Chat Session mit ständigen Wiederholungen zu bombardieren, oder in irgendeiner anderen Weise den ungestörten Verlauf einer Chat Session zu unterbrechen oder diese zu erschweren. Es ist ebenfalls verboten Links zu irgendwelchen pornografischen Seiten, schädlichen downloads, oder anderweitig unangemessenen Seiten im Chat zu veröffentlichen.
+Es ist untersagt, den Ablauf eines Chats mit ständigen Wiederholungen zu bombardieren oder in irgendeiner anderen Weise den Verlauf zu stören, zu unterbrechen oder zu erschweren. Darüber hinaus ist es verboten, Links zu pornografischen Seiten, schädlichen Downloads oder anderweitig unangemessenen Inhalten im Chat zu veröffentlichen.
 
-## Es ist Untersagt sich als andere Teilnehmer auszugeben oder mehrfache Konten zu eröffnen
+## Es ist untersagt, sich als ein anderer Teilnehmer auszugeben oder mehrfache Konten zu eröffnen.
 
-Es ist Teilnehmern nicht gestattet Zweitkonten zu eröffnen oder ihren Chat Namen zu ändern um sich als seine andere Person auszugeben. Es stört die Gemeinschaft und verstösst gegen YouNow 's Terms of Service sich als jemand anders oder als Mitglied einer nicht existierenden Organisation auszugeben, oder mehrere Konten zu eröffnen. Es ist ausserdem verboten mehrere Konten zu benutzen oder zu eröffnen, und alle Konten die auf einen einzelnen Teilnehmer zurückgeführt werden können werden permanent von der Site verbannt.
+Es ist Teilnehmern nicht gestattet, Zweitkonten zu eröffnen oder ihren Chatnamen zu ändern, um sich als eine andere Person auszugeben. Sich als jemand anderes auszugeben, ein falsches Profil für eine Organisation anzulegen oder mehrere Konten zu eröffnen, stört die Gemeinschaft und verstößt gegen die Nutzungsregeln von YouNow. Außerdem ist es verboten, mehrere Konten zu benutzen. Alle Konten, die auf einen einzelnen Teilnehmer zurückgeführt werden können, werden permanent von der Seite ausgeschlossen.
 
 ## Verstöße gegen das Urheberrecht
 
-YouNow verpflichtet sich zum Schutz des Urheberrechts eines jeden, und wird alle Gesetzen und Regelungen die sich auf Geistiges Eigentum beziehen, beachten, Nicht gestattetes kopieren, verbreiten, ändern, öffentich zur-Schau-stellen oder Ausübung Urheberrechtlich geschützter Werke ist ein Verstoss gegen das Urheberrecht, und YouNow wird angemessen gegen jeden Teilnehmer vorgehen der wiederholt gegen das Urheberrecht verstösst. Das wiedergeben von Inhalten anderer Broadcasts in der eigenen Sendung ohne der schriftlichen Eingenehmigung dessen dem dieser Inhalt zuzuschreiben ist, wird als Urheberrechtsverstoss betrachtet und ist daher verboten.
+YouNow engagiert sich für den Schutz des Urheberrechts und wird alle Gesetze und Regelungen, die sich auf geistiges Eigentum beziehen, beachten. Das nicht autorisierte Kopieren, Verbreiten, Ändern, öffentliche Zeigen oder Vorführen urheberrechtlich geschützter Werke ist ein Verstoß gegen das Urheberrecht und YouNow wird angemessen gegen jeden Teilnehmer vorgehen, der wiederholt gegen das Urheberrecht verstößt. Das Wiedergeben von Livestreams anderer Benutzer im eigenen Livestream ohne dessen schriftliche Genehmigung wird als Urheberrechtsverstoß betrachtet und ist daher verboten.
 
-Mehr Informationen finden sie bei YouNow [hier](http://www.younow.com/policy/de/terms)
+Mehr Informationen finden Sie bei YouNow [hier](http://www.younow.com/policy/de/terms)
 
-Letzte Aktualisierung der Seitenregeln: February 2015
+Letzte Aktualisierung der Nutzungsregeln: April 2015
