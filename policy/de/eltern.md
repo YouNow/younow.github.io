@@ -23,4 +23,8 @@ b) Kontaktrisiken:
 
 Überall dort, wo Menschen miteinander kommunizieren, können sie mit dritten Personen oder Gruppen mit negativen Absichten in Kontakt kommen. Oftmals ist dies mit der Übermittlung von problematischen Inhalten oder der Aufforderung zu selbstschädigendem Verhalten verbunden. Jugendliche müssen lernen, die potentielle Gefahr zu erkennen und geeignete Gegenmaßnahmen zu ergreifen, z.B. das Blockieren und Melden eines Users, Verlassen des jeweiligen Chats oder Angebotes etc. Niemals sollten sie jedoch zweifelhaften Aufforderungen – etwa zur Preisgabe von Adressdaten, Telefonnummern etc. – Folge leisten.
 
+- Richten Sie ein eigenes Benutzerkonto für Ihr Kind ein. So können auch spezielle Schutzeinstellungen – z.B. Zeitbeschränkungen – die Ihr Betriebssystem anbietet, verwendet werden.
+- Nutzen Sie geeignete Jugendschutzprogramme, z.B. solche, die von der KJM anerkannt wurden – [Weitere Informationen](http://www.kjm-online.de/telemedien/jugendschutzprogramme.html)(KJM – Website)
+
+
 
