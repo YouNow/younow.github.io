@@ -1,5 +1,5 @@
 ---
-title: Elterninformation YouNow
+title: Information für Eltern
 layout: default
 category: DE
 ---
