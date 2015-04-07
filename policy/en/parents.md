@@ -1,4 +1,3 @@
-
 ---
 title: Guide for Parents
 layout: default
