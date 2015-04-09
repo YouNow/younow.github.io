@@ -1,5 +1,5 @@
 ---
-title: YouNow Partner Broadcasting Guidelines
+title: Partner Guidelines
 layout: default
 category: EN
 ---
