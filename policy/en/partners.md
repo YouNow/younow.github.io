@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-As a member of the Partner Program on YouNow, you serve as an example to other YouNowers, who look to you as a success story and a representative of the YouNow service. Our viewers turn to you for ideas on content for their broadcasts and are inspired by your words and deeds. As such, YouNow partnership comes not only with benefits, but also with responsibility – a responsibility to serve as an example to our users, upholding YouNow’s Rules, Terms of Service, and the following additional guidelines, laid out especially for you, as a partner.
+As a member of the Partner Program on YouNow, you serve as an example to other YouNowers, who look to you as a success story and a representative of the YouNow service. Our viewers turn to you for ideas on content for their broadcasts and are inspired by your words and deeds. As such, YouNow partnership comes not only with benefits, but also with responsibility – a responsibility to serve as an example to our users, upholding YouNow’s [Rules] (policy/en/rules), [Terms of Service] (policy/en/terms), and the following additional guidelines, laid out especially for you, as a partner.
 
 ## No sexually suggestive dancing.
 Are you a great dancer? Awesome. Entertain your audience. But please don't do sexually suggestive moves, such as grinding or twerking.
