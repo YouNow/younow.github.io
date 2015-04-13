@@ -7,6 +7,14 @@ category: DE
 
 Unsere Abteilung für Sicherheit bedient sich aus der Kombination eines automatischen Systems und eines manuellen Prozesses, um zu gewährleisten dass die YouNow Community sicher bleibt. Wir monitoren YouNow Übertragungen in Bezug auf unsere Community Standards, Site- und Service-Regeln, um User zu verwarnen, zu suspendieren, oder zu verbannen die gegen diese Regeln verstoßen.
 
+## Sind Sie die Eltern?
+
+Weitere Informationen über YouNow für Eltern finden sie [hier](/policy/de/eltern).
+
+In Fällen von verdächtigen oder kriminellen Aktivitäten behalten wir uns das Recht vor, diese an die jeweiligen Verfolgungsbehörden weiterzuleiten.
+
+Regeln in einfacher Sprache findest Du [hier](http://www.younow.com/policy/de/kindgerecht).
+
 ## Methoden YouNow zu sichern
 
 _Blocken eines Users_
