@@ -51,7 +51,7 @@ YouNow does not permit prank calls to emergency authorities or emergency hotline
 
 Interrupting the flow of chat sessions with the use of repetitive typing or activity that makes it difficult for users to maintain a conversation is forbidden, as is the posting of links to pornographic or malicious sites.
 
-## No impersonating other memebers or having multiple accounts
+## No impersonating other members or having multiple accounts
 
 Changing your chat name or creating an account in order to impersonate another member is forbidden. Claiming to be another person, creating a false presence for an organization, or creating multiple accounts undermines the community and violates YouNow's Terms of Service. Additionally, creating and using multiple profiles on YouNow is prohibited and all accounts made by a single user are subject to be permanently banned.
 
