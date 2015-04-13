@@ -5,6 +5,14 @@ category: DE
 ---
 # Nutzungsbedingungen von YouNow
 
+## Sind Sie die Eltern?
+
+Weitere Informationen über YouNow für Eltern finden sie [hier](/policy/de/eltern).
+
+In Fällen von verdächtigen oder kriminellen Aktivitäten behalten wir uns das Recht vor, diese an die jeweiligen Verfolgungsbehörden weiterzuleiten.
+
+Regeln in einfacher Sprache findest Du [hier](http://www.younow.com/policy/de/kindgerecht).
+
 ## Willkommen
 
 Willkommen bei YouNow Service, zu finden unter www.younow.com (die „Website") und verfügbar als App für Mobiltelefone (die „App"). Der YouNow Service und alle damit verbundenen Leistungen, Aspekte, Funktionen, Softwareplattformen oder Ableitungen davon (zusammen als „Service" bezeichnet) wurden von YouNow („YouNow", „wir", „uns" oder „unser") als Mittel zur persönlichen Kommunikation und zur Unterhaltung erstellt, und die folgenden Nutzungsbedingungen von YouNow (die „Bedingungen") stellen eine Zusammenstellung der Regeln dar, nach denen wir uns dabei richten.
