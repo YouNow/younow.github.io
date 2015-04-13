@@ -41,7 +41,7 @@ Giving out another individual's personal information, including but not limited 
 
 YouNow does not permit prank calls to emergency authorities or emergency hotlines, and any user who in engages in such will be subject to a permanent ban.
 
-## No soliciation or encouragement of rule-breaking
+## No solicitation or encouragement of rule-breaking
 
 - Any solicitation of a member to engage in a sexual or illegal act is forbidden. Similarly, any behavior intending to lure or manipulate another member into producing sexual images of him or herself, or asking him or her to provide personal information is forbidden.
 - Engagement in illegal or inappropriate commercial activities or sales is also strictly forbidden. Such activities include, but are not limited to, pyramid schemes, Multi-level Marketing offers, and homegrown sweepstakes.
