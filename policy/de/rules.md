@@ -4,15 +4,15 @@ layout: default
 category: DE
 ---
 YouNow bietet Menschen auf der ganzen Welt die Möglichkeit, eine neue Form, interaktiver Inhalte in Echtzeit durch Liveübertragung zu entdecken und selbst zu kreieren. Damit YouNow ein sicheres Angebot bleibt, auf dem man neue Menschen kennenlernen und an interessanten Diskussionen teilnehmen kann, ist es wichtig, dass wir für alle geltende und verbindliche Nutzungsregeln aufstellen. Jeder Einzelne soll sich bei YouNow sicher und wohl fühlen. 
-Wir werden unser Möglichstes tun, um eine hohes Maß an Sicherheit auf YouNow zu gewährleisten. Dafür brauchen wir jedoch auch Deine Unterstützung und Mithilfe. Denn Dein Verhalten prägt YouNow. Bitte beachte deshalb die folgenden Regeln. Eine Nichtbeachtung oder ein Verstoß führt zu einer befristeten Sperre oder einem permanenten Ausschluss von YouNow. 
+Wir werden unser Möglichstes tun, um eine hohes Maß an Sicherheit auf YouNow zu gewährleisten. Dafür brauchen wir jedoch auch Deine Unterstützung und Mithilfe. Denn Dein Verhalten prägt YouNow. Bitte beachte deshalb die folgenden Regeln. Eine Nichtbeachtung oder ein Verstoß führt zu einer befristeten Sperre oder einem permanenten Ausschluss von YouNow.
+
+Regeln in einfacher Sprache findest Du [hier](http://www.younow.com/policy/de/kindgerecht).
 
 ## Sind Sie die Eltern?
 
-Weitere Informationen über YouNow für Eltern finden sie [hier](/policy/de/eltern).
+Weitere Informationen über YouNow für Eltern finden Sie [hier](/policy/de/eltern).
 
 In Fällen von verdächtigen oder kriminellen Aktivitäten behalten wir uns das Recht vor, diese an die jeweiligen Verfolgungsbehörden weiterzuleiten.
-
-Regeln in einfacher Sprache findest Du [hier](http://www.younow.com/policy/de/kindgerecht).
 
 ## Verbot von Gewalt und/oder Selbstverletzung
 
