@@ -38,7 +38,7 @@ Du darfst bei YouNow keine Drogen nehmen. Du darfst auch keine Sachen zeigen, mi
 
 ## Wenn du unter 13 Jahre alt bist, darfst du YouNow nicht nutzen.
 
-Für YouNow musst du über 13 Jahre alt sein. Wenn du unter 13 Jahre alt bist, löschen wir dein Profil wieder von YouNow. Dein Profil wird auch gelöscht, wenn jemand mit dir vor der Kamera zu sehen ist, der noch nicht 13 Jahre alt ist. 
+Für YouNow musst du über 13 Jahre alt sein. Wenn du unter 13 Jahre alt bist, löschen wir dein Profil wieder von YouNow. Dein Profil kann auch gelöscht werden, wenn jemand mit dir vor der Kamera zu sehen ist, der noch nicht 13 Jahre alt ist. 
 
 
 ## Du darfst keine privaten Informationen über jemand anderen rausgeben.
