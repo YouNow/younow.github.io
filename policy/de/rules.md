@@ -44,7 +44,7 @@ Die Einnahme von Drogen oder das Zeigen von Drogenutensilien während der Sendun
 
 ## Beachten des Mindestalters von 13 Jahren für die Mitgliedschaft
 
-YouNow-Mitglieder müssen mindestens 13 Jahre alt sein. Wenn wir ein Konto finden, das einem Benutzer unter 13 Jahren gehört, wird dieses sofort gelöscht. Wenn Teilnehmer Gäste in ihren Livestream einladen, die unter dem Mindestalter von 13 Jahren sind, werden diese ebenfalls sofort gelöscht.
+YouNow-Mitglieder müssen mindestens 13 Jahre alt sein. Wenn wir ein Konto finden, das einem Benutzer unter 13 Jahren gehört, wird dieses sofort gelöscht. Wenn Teilnehmer Gäste in ihren Livestream einladen, die unter dem Mindestalter von 13 Jahren sind, behalten wir uns das Recht vor, diese Teilnehmer ebenfalls zu löschen.
 
 ## Keine Veröffentlichung privater Kontaktinformationen
 
