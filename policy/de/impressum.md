@@ -8,8 +8,11 @@ category: DE
 Die Webseiten unter www.younow.com und die auf diesen Seiten vorgehaltenen Services werden Ihnen angeboten von:
 
 YouNow Inc.
+
 25 West 36th Street
+
 New York, NY 10018
+
 USA
 
 Web: [www.support.younow.com](www.support.younow.com) 
