@@ -1,9 +1,9 @@
 ---
-title: Informationen für Eltern
+title: Impressum
 layout: default
 category: DE
 ---
-## Impressum
+
 
 Die Webseiten unter www.younow.com und die auf diesen Seiten vorgehaltenen Services werden Ihnen angeboten von:
 
