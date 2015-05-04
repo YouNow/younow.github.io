@@ -48,6 +48,11 @@ If you come across content on YouNow relating to suicide or self-harm, please fl
 - BeyondBlue
   - 1300 22 4636  
 
+**Austria:**
+
+- Telefonseelsorge
+  - 142  
+
 **Belgium:**
 
 - Zelfmoordlijn1813
@@ -107,6 +112,11 @@ If you come across content on YouNow relating to suicide or self-harm, please fl
 **Sweden:**
 
 - Självmordsupplysningen (Föreningen Psykisk Hälsa)
+
+**Switzerland:**
+
+- Die Dargebotene Hand (Telefonseelsorge)
+  - 143
 
 **United Kingdom:**
 
