@@ -49,38 +49,43 @@ Bitte wende Dich an eine der unten angegebenen Hotline-Nummern für sofortige Hi
 
 Wenn Dir Inhalte auf YouNow in Bezug auf Selbstmord oder jegliches selbstverletzendes Verhalten auffällt, flagge bitte diesen Inhalt umgehend, so dass ein Moderator sich sofort darum kümmern kann. Wenn ein YouNow Broadcast aus diesen Gründen suspendiert wurde, werden dem Broadcaster Hotlines zur Verfügung gestellt, die Selbstmord und Selbstverletzung umgehend vorbeugen.
 
-**Australia:**
+**Australien:**
 
 - BeyondBlue
   - 1300 22 4636  
 
-**Belgium:**
+**Österreich:**
+
+- Telefonseelsorge
+  - 142
+
+**Belgien:**
 
 - Zelfmoordlijn1813
   - 1813
 
-**Denmark:**
+**Dänemark:**
 
 - Livslinien
   - 70 201 201
 
-**Greece:**
+**Griechenland:**
 
 - Klimaka NGO
   - 1018
 
-**Germany:**
+**Deutschland:**
 
 - Telefonseelsorge
   - 0800 111 0 111
   - 0800 111 0 222
 
-**Ireland:**
+**Irland:**
 
 - Samaritans
   - 116 123
 
-**Italy:**
+**Italien:**
 
 - Telefono Amico
   - 199 284 284
@@ -95,35 +100,40 @@ Wenn Dir Inhalte auf YouNow in Bezug auf Selbstmord oder jegliches selbstverletz
 - TELL
   - 03-5774-0992
 
-**Netherlands:**
+**Niederlande:**
 
 - Foundation 113 Online
   - 0900-113 0 113
 
-**South Africa:**
+**Süd Africa:**
 
 - SADAG
   - 0800 567 567
 
-**Spain:**
+**Spanien:**
 
 - Teléfono de la Esperanza
   - 902500002
 
-**Sweden:**
+**Schweden:**
 
 - Självmordsupplysningen (Föreningen Psykisk Hälsa)
 
-**United Kingdom:**
+**Vereinigtes Königreich:**
 
 - Samaritans
   - 08457 90 90 90
 
-**United States:**
+**Vereinigte Staaten:**
 
 - National Network to End Domestic Violence
 - National Suicide Prevention Lifeline
   - 1-800-273-TALK (8255)
+
+**Schweiz:**
+
+- Die Dargebotene Hand (Telefonseelsorge)
+  - 143
 
 ## Broadcasting Sicherheits-Tipps
 
