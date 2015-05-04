@@ -54,11 +54,6 @@ Wenn Dir Inhalte auf YouNow in Bezug auf Selbstmord oder jegliches selbstverletz
 - BeyondBlue
   - 1300 22 4636  
 
-**Österreich:**
-
-- Telefonseelsorge
-  - 142
-
 **Belgien:**
 
 - Zelfmoordlijn1813
@@ -105,6 +100,11 @@ Wenn Dir Inhalte auf YouNow in Bezug auf Selbstmord oder jegliches selbstverletz
 - Foundation 113 Online
   - 0900-113 0 113
 
+**Österreich:**
+
+- Telefonseelsorge
+  - 142 
+  
 **Süd Africa:**
 
 - SADAG
