@@ -119,6 +119,11 @@ Wenn Dir Inhalte auf YouNow in Bezug auf Selbstmord oder jegliches selbstverletz
 
 - Självmordsupplysningen (Föreningen Psykisk Hälsa)
 
+**Schweiz:**
+
+- Die Dargebotene Hand (Telefonseelsorge)
+  - 143
+
 **Vereinigtes Königreich:**
 
 - Samaritans
@@ -130,10 +135,6 @@ Wenn Dir Inhalte auf YouNow in Bezug auf Selbstmord oder jegliches selbstverletz
 - National Suicide Prevention Lifeline
   - 1-800-273-TALK (8255)
 
-**Schweiz:**
-
-- Die Dargebotene Hand (Telefonseelsorge)
-  - 143
 
 ## Broadcasting Sicherheits-Tipps
 
