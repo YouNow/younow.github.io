@@ -7,7 +7,7 @@ category: DE
 
 Die Webseiten unter www.younow.com und die auf diesen Seiten vorgehaltenen Services werden Ihnen angeboten von:
 
-Trust & Safety at YouNow  
+YouNow Inc. 
 25 West 36th Street, 11th Floor  
 New York, NY 10018  
 
