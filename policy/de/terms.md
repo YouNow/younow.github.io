@@ -137,3 +137,7 @@ SIE VERZICHTEN HIERMIT AUF ALLE RECHTE, VOR GERICHT BEI KLAGEN AUFZUTRETEN, DIE 
 (a) Diese Bedingungen stellen den gesamten Vertrag zwischen den Parteien über den Gegenstand dieser Vereinbarung dar. (b) Sollte ein Teil dieser Geschäftsbedingungen aus irgendeinem Grund von einem Gericht der zuständigen Gerichtsbarkeit als ungültig oder nicht durchsetzbar erachtet oder beurteilt werden, wird diese Bestimmung unwirksam, aber andere Teile dieser Geschäftsbedingungen werden dadurch nicht berührt. (c) Sie bestätigen, dass Sie entweder über achtzehn (18) Jahre alt sind oder ein mündiger Minderjähriger sind oder eine rechtswirksame Einwilligung der Eltern oder Erziehungsberechtigten besitzen und völlig fähig und kompetent sind, die Vorgaben, Bedingungen, Verpflichtungen, Bestätigungen, Zusicherungen und Gewährleistungen, die in diesen Bedingungen festgelegt sind, einzugehen und diese zu befolgen und ihnen zu entsprechen. In jedem Fall bestätigen Sie, dass Sie die älter als dreizehn (13) Jahre sind, da der Service nicht für Kinder unter dreizehn (13) Jahren vorgesehen ist. Wenn Sie unter dreizehn (13) Jahren alt sind, dann nutzen Sie den Service bitte nicht.
 
 Letzte Aktualisierung der Bedingungen: November 2014
+
+## Impressum
+
+[Hier](http://www.younow.com/policy/de/impressum) geht es zum [Impressum](http://www.younow.com/policy/de/impressum)
