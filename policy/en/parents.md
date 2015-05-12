@@ -3,7 +3,7 @@ title: Guide for Parents
 layout: default
 category: EN
 ---
-## A Guide for Parents
+## Understanding risk
 
 Complete protection from harmful content is never a guarantee. There are, however, best practices for using the Internet safely. As parents, you should be aware of the following and be prepared to take countermeasures.
 
@@ -65,7 +65,7 @@ When you flag a user, the flag goes to live moderators who will review the situa
 
 Use the "Contact Mod" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report to a moderator in real time.
 
-## What minors should be aware of
+## What minors should be aware of on YouNow
 
 Children under 13 do not have the necessary maturity to handle sensitive online interactions and should not use YouNow. Older minors should ensure that they:
 
