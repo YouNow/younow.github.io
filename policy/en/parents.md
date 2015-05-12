@@ -7,11 +7,11 @@ category: EN
 
 Complete protection from harmful content is never a guarantee. There are, however, best practices for using the Internet safely. As parents, you should be aware of the following and be prepared to take countermeasures.
 
-**A. The risks of inappropriate content**
+**The risks of inappropriate content**
 
 Viewing inappropriate content can cause anxiety in children and negatively impact their development. This can include pornographic material, violence, propaganda, racism, and encouragement of self-destructive behavior. If you see such content on YouNow, please report it immediately by using our flagging or “Contact Mod” systems (see “Trust & Safety”).
 
-**B. Protecting against risk**
+**Protecting against risk**
 
 Children should learn to recognize inappropriate users and block and report them. They should also be careful not to disclose personal information, such as their address or phone number, on any of their social accounts. Here are some steps parents can take to minimize their child’s risk:
 
