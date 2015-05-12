@@ -51,17 +51,17 @@ You can find a detailed description of YouNow’s rules [here](www.http://www.yo
 
 If you see a user breaking YouNow’s rules, you may take the following measures:
 
-**Blocking a User
+**Blocking a User**
 
 On YouNow, users can block any other user from contacting them in broadcasts and on their YouNow profile pages. Simply click on the  offending the user's name and use the drop-down menu under “Report” to find the option to "block." On the app, you’ll find the “Report” button by tapping the user’s name.
 
-**Flagging a User
+**Flagging a User**
 
 Do your part! All users should flag any content that violates YouNow's policies or puts any member of the community at risk.
 
 When you flag a user, the flag goes to live moderators who will review the situation and take action as they see fit. Please only flag content that you deem to be inappropriate! 
 
-**Contact a Mod
+**Contact a Mod**
 
 Use the "Contact Mod" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report to a moderator in real time.
 
