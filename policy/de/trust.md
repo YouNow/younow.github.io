@@ -184,18 +184,21 @@ _IP Adresse_
 
 Das Team für Sicherheitsfragen (Team Trust & Safety) hier bei YouNow ist bestrebt auf Anliegen schnell zu reagieren, die sich auf die Strafverfolgung beziehen. Bitte kontaktiere uns über die folgenden Wege:
 
-_Mail-Adresse_
+_Post-Adresse_
 
 Trust & Safety at YouNow  
 25 West 36th Street, 11th Floor  
 New York, NY 10018  
 
+[Hier](http://www.younow.com/policy/de/impressum) geht es zum [Impressum](http://www.younow.com/policy/de/impressum)
+
 _E-mail Adresse (die beste und schnellste Möglichkeit mit uns in Kontakt zu treten)_
 
 [privacy@younow.com](mailto:privacy@younow.com)
 
-_Unser Hilfe Zentrum_
+_Unser Support Center_
 
-support.younow.com
+Web: [support.younow.com](support.younow.com)
+Email: [support@younow.com](mailto:support@younow.com)
 
-Wir akzeptieren keine Anfragen per Telefon oder Fax
+Wir nehmen keine Anfragen per Telefon oder Fax entgegen.
