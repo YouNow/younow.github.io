@@ -11,7 +11,7 @@ To thrive at YouNow, your ambition should match our world-changing aspirations. 
 
 ### Open positions:
 
-<div id="infoJobs" class="infoJobs" info="do not edit this line">
+<div id="infoJobs" info="do not edit this line">
 
 #### Community 
 - Community Manager
