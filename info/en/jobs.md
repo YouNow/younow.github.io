@@ -12,7 +12,17 @@ To thrive at YouNow, your ambition should match our world-changing aspirations. 
 ### Open positions:
 
 #### Community 
-
 - Community Manager
+  - New York, NY
 - German Community Manager
+  - New York, NY
 - Spanish Community Manager
+  - New York, NY
+
+#### Data & Analytics
+- Economist
+  - New York, NY
+
+---
+
+Interested in working with us, but not seeing an opening that fits you? Tell us why you'd be a great addition to our team: [jobs@younow.com](jobs@younow.com)
