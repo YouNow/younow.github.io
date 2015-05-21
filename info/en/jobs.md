@@ -11,11 +11,12 @@ To thrive at YouNow, your ambition should match our world-changing aspirations. 
 
 ### Open positions:
 
-<div id="infoJobs" info="do not edit this line">
+<div id="jobsColumn" note="do not edit this line">
+<div id="jobsC1" note="do not edit this line">
 
 #### Community 
-- Community Manager
-  - New York, NY
+- [http://younow.com](Community Manager)
+  - [http://younow.com/about](New York, NY)
 - German Community Manager
   - New York, NY
 - Spanish Community Manager
@@ -45,6 +46,9 @@ To thrive at YouNow, your ambition should match our world-changing aspirations. 
 - Office Manager
   - New York, NY
 
+</div note="do not edit this line">
+<div id="jobsC2" note="do not edit this line">
+
 #### Partnership
 - Partner Program Manager
   - New York, NY
@@ -57,7 +61,8 @@ To thrive at YouNow, your ambition should match our world-changing aspirations. 
 - Product Manager
   - New York, NY
 
-</div info="do not edit this line">
+</div note="do not edit this line">
+</div note="do not edit this line">
     
 ---
 
