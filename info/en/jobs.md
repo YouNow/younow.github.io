@@ -11,6 +11,8 @@ To thrive at YouNow, your ambition should match our world-changing aspirations. 
 
 ### Open positions:
 
+    <div class="infoJobs"><!-- do not change this line, including the 4 spaces before this tag -->
+
 #### Community 
 - Community Manager
   - New York, NY
@@ -55,6 +57,8 @@ To thrive at YouNow, your ambition should match our world-changing aspirations. 
 - Product Manager
   - New York, NY
 
+    </div><!-- do not change this line, including the 4 spaces before this tag -->
+    
 ---
 
 Interested in working with us, but not seeing an opening that fits you? Tell us why you'd be a great addition to our team: [jobs@younow.com](jobs@younow.com)
