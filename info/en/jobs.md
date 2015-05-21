@@ -12,7 +12,7 @@ To thrive at YouNow, your ambition should match our world-changing aspirations. 
 ### Open positions:
 
 <div id="jobsColumn" note="do not edit this line">
-<div id="jobsC1" note="do not edit this line">
+<div id="column1" note="do not edit this line">
 
 #### Community 
 - [Community Manager](http://younow.com)
@@ -42,12 +42,12 @@ To thrive at YouNow, your ambition should match our world-changing aspirations. 
 - Senior Video Software Engineer / Team Lead
   - New York, NY
 
+</div note="do not edit this line">
+<div id="column2" note="do not edit this line">
+
 #### Operations
 - Office Manager
   - New York, NY
-
-</div note="do not edit this line">
-<div id="jobsC2" note="do not edit this line">
 
 #### Partnership
 - Partner Program Manager
