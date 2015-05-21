@@ -15,8 +15,8 @@ To thrive at YouNow, your ambition should match our world-changing aspirations. 
 <div id="jobsC1" note="do not edit this line">
 
 #### Community 
-- [http://younow.com](Community Manager)
-  - [http://younow.com/about](New York, NY)
+- [Community Manager](http://younow.com)
+  - [New York, NY](http://younow.com/about)
 - German Community Manager
   - New York, NY
 - Spanish Community Manager
