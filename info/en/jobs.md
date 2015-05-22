@@ -33,6 +33,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 - 
 [Partner Program Manager](http://www.indeed.com/job/partner-program-manager-9dca7a0aa2cc087e)
  - New York, NY
+<div id="column2" note="do not edit this line"> 
 - 
 [Product Designer](http://www.indeed.com/job/product-designer-32cc54da1dfb228a)
  - New York, NY
