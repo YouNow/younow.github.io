@@ -8,7 +8,7 @@ category: EN
 To thrive at YouNow, your ambition should match our world-changing aspirations. We are a small, close-knit team that works hard to craft an experience that touches the lives of hundreds of millions of people.
 
 YouNow is a vibrant ecosystem for discovery, creation and connection. We're inspired by the creativity of the community we've built and the imaginative, interactive content YouNowers create together in real-time. Our mission is to empower creators to engage with live audiences -- uniting people through authentic converstation and shared interests. And we're passionate about doing this in the most beautiful, simple and magical way possible.
-
+ 
 ---
 
 ### Open Positions
