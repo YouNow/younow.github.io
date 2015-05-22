@@ -3,7 +3,7 @@ title: Jobs at YouNow
 layout: default
 category: EN
 ---
-## Join the YouNow Team
+## Join the YouNow team
 
 To thrive at YouNow, your ambition should match our world-changing aspirations. We are a small, close-knit team that works hard to craft an experience that touches the lives of hundreds of millions of people.
 
