@@ -25,7 +25,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 [Economist](http://www.indeed.com/job/economist-cff6159426a74d82)
 - New York, NY
 
-[iOS Developer] (http://www.indeed.com/job/ios-developer-6af2fc2a7f94b383)
+[iOS Developer](http://www.indeed.com/job/ios-developer-6af2fc2a7f94b383)
 New York, NY
 
 [Office Manager](http://www.indeed.com/job/office-manager-7bad5cd53afbc1ed)
@@ -50,7 +50,7 @@ New York, NY
 - New York, NY
 
 [Talent Manager - Arab Markets](http://www.indeed.com/job/talent-manager-arab-markets-46af7f95d65d25dc)
-New York, NY
+- New York, NY
 
 [Talent Manager - Spanish Markets](http://www.indeed.com/job/talent-manager-spanish-markets-1df170ee252ef477)
 - New York, NY
