@@ -36,6 +36,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 
 </div note="do not edit this line">
 <div id="column2" note="do not edit this line">
+- 
 [Product Designer](http://www.indeed.com/job/product-designer-32cc54da1dfb228a)
  - New York, NY
 -  
