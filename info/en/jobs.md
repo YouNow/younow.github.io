@@ -12,10 +12,10 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 
 ---
 
+## Open Positions
+
 <div id="jobsColumns" note="do not edit this line">
 <div id="column1" note="do not edit this line">
-
-## Open Positions
 
 ### Community 
 - [Community Manager](http://www.indeed.com/job/community-manager-ec423aa225d31f93)
