@@ -15,8 +15,8 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 <div id="jobsColumns" note="do not edit this line">
 <div id="column1" note="do not edit this line">
 
-[Community Manager](http://www.indeed.com/job/community-manager-ec423aa225d31f93)
-- New York, NY
+####[Community Manager](http://www.indeed.com/job/community-manager-ec423aa225d31f93)
+ - New York, NY
 
 [Director, Product Design](http://www.indeed.com/job/director-product-design-7d1284466b02a612)
  - New York, NY
@@ -37,7 +37,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 <div id="column2" note="do not edit this line">
 
 [Product Designer](http://www.indeed.com/job/product-designer-32cc54da1dfb228a)
-New York, NY
+ - New York, NY
 
 [Product Manager](http://www.indeed.com/job/product-manager-4869b6bc4fb4de47)
  - New York, NY
