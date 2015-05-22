@@ -4,8 +4,6 @@ layout: default
 category: EN
 ---
 # Empower others. Empower yourself.
-## Empower others. Empower yourself.
-
 
 To thrive at YouNow, your ambition should match our world-changing aspirations. We are a small, close-knit team that works hard to craft an experience that touches the lives of hundreds of millions of people.
 
@@ -16,7 +14,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 <div id="jobsColumns" note="do not edit this line">
 <div id="column1" note="do not edit this line">
 
-### Open Positions
+## Open Positions
 
 ### Community 
 - [Community Manager](http://www.indeed.com/job/community-manager-ec423aa225d31f93)
