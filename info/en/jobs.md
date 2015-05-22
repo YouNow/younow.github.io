@@ -14,7 +14,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 <div id="jobsColumns" note="do not edit this line">
 <div id="column1" note="do not edit this line">
 
-### Community 
+Community 
 - [Community Manager](http://www.indeed.com/job/community-manager-ec423aa225d31f93)
  - New York, NY
 - [Spanish Community Manager](http://www.indeed.com/job/spanish-community-manager-232226af95da87ec)
