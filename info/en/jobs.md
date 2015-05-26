@@ -59,4 +59,4 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
     
 ---
 
-Interested in working with us, but not seeing an opening that fits you? Tell us why you'd be a great addition to our team: [jobs@younow.com](jobs@younow.com)
+Interested in working with us, but not seeing an opening that fits you? Tell us why you'd be a great addition to our team: [jobs@younow.com](mailto:jobs@younow.com)
