@@ -16,7 +16,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 <div id="column1" note="do not edit this line">
 
 - 
-[Community Manager](http://www.indeed.com/job/community-manager-ec423aa225d31f93)
+[Community Operations Manager](http://www.indeed.com/cmp/YouNow/jobs/Community-Operation-Manager-893af8e99bce5a15)
  - New York, NY
 - 
 [Director, Product Design](http://www.indeed.com/job/director-product-design-7d1284466b02a612)
@@ -27,25 +27,14 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 - 
 [iOS Developer](http://www.indeed.com/job/ios-developer-6af2fc2a7f94b383)
  - New York, NY
-- 
-[Office Manager](http://www.indeed.com/job/office-manager-7bad5cd53afbc1ed)
- - New York, NY
-- 
-[Partner Program Manager](http://www.indeed.com/job/partner-program-manager-9dca7a0aa2cc087e)
- - New York, NY
+-
 </div note="do not edit this line">
 <div id="column2" note="do not edit this line">
-- 
-[Product Designer](http://www.indeed.com/job/product-designer-32cc54da1dfb228a)
- - New York, NY
 -  
 [Product Manager](http://www.indeed.com/job/product-manager-4869b6bc4fb4de47)
  - New York, NY
 - 
 [Spanish Community Manager](http://www.indeed.com/job/spanish-community-manager-232226af95da87ec)
- - New York, NY
-- 
-[Talent Executive](http://www.indeed.com/job/talent-executive-1557ed08943a837e)
  - New York, NY
 - 
 [Talent Manager - Arab Markets](http://www.indeed.com/job/talent-manager-arab-markets-46af7f95d65d25dc)
