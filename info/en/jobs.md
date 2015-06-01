@@ -24,7 +24,6 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 - 
 [Economist](http://www.indeed.com/job/economist-cff6159426a74d82)
  - New York, NY
--
 - 
 [iOS Developer](http://www.indeed.com/job/ios-developer-6af2fc2a7f94b383)
  - New York, NY
