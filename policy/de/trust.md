@@ -198,7 +198,7 @@ _E-mail Adresse (die beste und schnellste Möglichkeit mit uns in Kontakt zu tre
 
 _Unser Support Center_
 
-Web: [support.younow.com](www.support.younow.com)
+Web: [support.younow.com](https://younow.zendesk.com/home)
 Email: [support@younow.com](mailto:support@younow.com)
 
 Wir nehmen keine Anfragen per Telefon oder Fax entgegen.
