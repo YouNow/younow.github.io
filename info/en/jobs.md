@@ -19,7 +19,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 [Community Operations Manager](http://www.indeed.com/cmp/YouNow/jobs/Community-Operation-Manager-893af8e99bce5a15)
  - New York, NY
 - 
-[Director, Product Design](http://www.indeed.com/job/director-product-design-7d1284466b02a612)
+[Product Designer](http://www.indeed.com/job/director-product-design-7d1284466b02a612)
  - New York, NY
 - 
 [Economist](http://www.indeed.com/job/economist-cff6159426a74d82)
