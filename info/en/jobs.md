@@ -5,7 +5,7 @@ category: EN
 ---
 ## Join the YouNow team
 
-To thrive at YouNow, your ambition should match our world-changing aspirations. We are a small, close-knit team that works hard to craft an experience that touches the lives of hundreds of millions of people.
+To thrive at YouNow, you should be passionate and frighteningly ambitious. We are a close-knit, hardworking team aspiring to craft a meaningful experience that touches hundreds of millions of people.
 
 YouNow is a vibrant ecosystem for discovery, creation and connection. We're inspired by the creativity of the community we've built and the imaginative, interactive content YouNowers create together in real-time. Our mission is to empower creators to engage with live audiences -- uniting people through authentic converstation and shared interests. And we're passionate about doing this in the most beautiful, simple and magical way possible.
  
@@ -19,7 +19,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 [Community Operations Manager](http://www.indeed.com/cmp/YouNow/jobs/Community-Operation-Manager-893af8e99bce5a15)
  - New York, NY
 - 
-[Product Designer](http://www.indeed.com/job/director-product-design-7d1284466b02a612)
+[Product Designer](http://www.indeed.com/job/product-designer-32cc54da1dfb228a)
  - New York, NY
 - 
 [Economist](http://www.indeed.com/job/economist-cff6159426a74d82)
