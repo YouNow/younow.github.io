@@ -25,6 +25,9 @@ _Contact a Mod_
 
 Use the "[Contact Mod](https://younow.wufoo.com/forms/contact-a-younow-moderator/)" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report to a moderator in real-time.
 
+_Guide for Parents_
+Are you a parent of a user on YouNow? Feel free to visit our [Guide for Parents](/policy/en/parents) to learn important information regarding your teen using YouNow, and the Internet in general. 
+
 ## Underage Users
 
 YouNow users must be at least thirteen years of age. If you are a user who comes in contact with a user who is under the age of thirteen, please make sure to flag the user (reason: "User under 13").
