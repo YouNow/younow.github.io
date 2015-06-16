@@ -7,6 +7,8 @@ YouNow gives people around the world the opportunity to discover and create new 
 
 Please also be advised that in applicable situations, we reserve the right to report highly suspicious and/or criminal activity to your local authorities.
 
+Also, if you are a parent, read through our [Guide for Parents](/policy/en/parents) for other applicable information. 
+
 ## No violence and/or self harm
 
 Safety is YouNow's top priority and we take threats of violence and self-harm very seriously. We may remove content that breaches these terms and may also report such content to law enforcement, if we perceive a genuine risk of physical harm or a direct threat to public safety. Similarly, we prohibit threats and any threat or attempt to threaten other persons may result in a permanent ban.
