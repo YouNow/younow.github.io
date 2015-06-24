@@ -30,8 +30,14 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 - 
 [iOS Developer](http://www.indeed.com/job/ios-developer-6af2fc2a7f94b383)
  - New York, NY
+- 
+[Senior Systems Engineer](http://www.indeed.com/job/senior-systems-engineer-74d572a8203dce59)
+ - New York, NY
 </div note="do not edit this line">
 <div id="column2" note="do not edit this line">
+-  
+[Senior Systems/DevOps Engineer](http://www.indeed.com/job/senior-systemsdevops-engineer-b88c07571485d774)
+ - New York, NY
 -  
 [Product Manager](http://www.indeed.com/job/product-manager-4869b6bc4fb4de47)
  - New York, NY
