@@ -38,9 +38,6 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 -  
 [Senior Systems/DevOps Engineer](http://www.indeed.com/job/senior-systemsdevops-engineer-b88c07571485d774)
  - New York, NY
--  
-[Product Manager](http://www.indeed.com/job/product-manager-4869b6bc4fb4de47)
- - New York, NY
 - 
 [Spanish Community Manager](http://www.indeed.com/job/spanish-community-manager-232226af95da87ec)
  - New York, NY
