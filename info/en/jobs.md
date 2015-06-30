@@ -16,9 +16,6 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 <div id="column1" note="do not edit this line">
 
 - 
-[Community Operations Manager](http://www.indeed.com/cmp/YouNow/jobs/Community-Operation-Manager-893af8e99bce5a15)
- - New York, NY
-- 
 [QA Engineer](http://www.indeed.com/cmp/YouNow/jobs/QA-Engineer-f57b34e03d2752ba)
  - New York, NY
 - 
@@ -37,6 +34,9 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 <div id="column2" note="do not edit this line">
 -  
 [Senior Systems/DevOps Engineer](http://www.indeed.com/job/senior-systemsdevops-engineer-b88c07571485d774)
+ - New York, NY
+- 
+[Community Operations Manager](http://www.indeed.com/cmp/YouNow/jobs/Community-Operation-Manager-893af8e99bce5a15)
  - New York, NY
 - 
 [Spanish Community Manager](http://www.indeed.com/job/spanish-community-manager-232226af95da87ec)
