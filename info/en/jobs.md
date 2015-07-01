@@ -25,7 +25,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 [Senior Data Engineer](http://www.indeed.com/job/senior-data-engineer-b03e01c97c27f029)
  - New York, NY
 - 
-[iOS Developer](http://www.indeed.com/job/ios-developer-6af2fc2a7f94b383)
+[iOS Developer](http://www.indeed.com/job/ios-developer-a02f7e564c570761)
  - New York, NY
 - 
 [Senior Systems Engineer](http://www.indeed.com/job/senior-systems-engineer-74d572a8203dce59)
@@ -39,7 +39,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 [Community Operations Manager](http://www.indeed.com/cmp/YouNow/jobs/Community-Operation-Manager-893af8e99bce5a15)
  - New York, NY
 - 
-[Spanish Community Manager](http://www.indeed.com/job/spanish-community-manager-232226af95da87ec)
+[Spanish Community Manager](http://www.indeed.com/job/spanish-community-manager-20994b0c8edf228a)
  - New York, NY
 - 
 [Talent Manager - Arab Markets](http://www.indeed.com/job/talent-manager-arab-markets-46af7f95d65d25dc)
