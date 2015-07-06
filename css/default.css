@@ -12,18 +12,18 @@
 */
 
 body {
-  color: #fff;
-  background: #000;
+  color: #999999;
+  background: #ffffff;
   font-family: "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 1em;
   line-height: 1.2em;
   -webkit-font-smoothing: antialiased;
 }
 h2 {
-  color: #f5ab2e;
+  color: #333333;
   font-size: 1.2em;
   font-weight: normal;
 }
 a {
-  color: #fff;
+  color: #333333;
 }
