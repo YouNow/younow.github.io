@@ -7,7 +7,7 @@ YouNow gives people around the world the opportunity to discover and create new 
 
 Please also be advised that in applicable situations, we reserve the right to report highly suspicious and/or criminal activity to your local authorities.
 
-Also, if you are a parent, read through our [Guide for Parents](/policy/en/parents) for other applicable information. 
+Also, if you are a parent, read through our [Guide for Parents](/policy/en/parents.md) for other applicable information. 
 
 ## No violence and/or self harm
 
