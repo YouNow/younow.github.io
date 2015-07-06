@@ -7,7 +7,7 @@ YouNow gives people around the world the opportunity to discover and create new 
 
 Please also be advised that in applicable situations, we reserve the right to report highly suspicious and/or criminal activity to your local authorities.
 
-Also, if you are a parent, read through our [Guide for Parents](/policy/en/parents.md) for other applicable information. 
+Also, if you are a parent, read through our [Guide for Parents](/policy/en/parents) for other applicable information.
 
 ## No violence and/or self harm
 
@@ -61,6 +61,6 @@ Changing your chat name or creating an account in order to impersonate another m
 
 YouNow is committed to protecting the rights of copyright holders and seeks to comply with all applicable laws regarding the protection of intellectual property. Unauthorized copying, distribution, modification, public display or public performance of copyrighted works is a copyright infringement, and YouNow will undertake appropriate steps against repeat copyright offenders. Re-broadcasting other user's content without such users' written permission is considered copyright infringement and is therefore prohibited.
 
-For more information, check out YouNow's Terms of Use [here](/policy/en/terms.md).
+For more information, check out YouNow's Terms of Use [here](/policy/en/terms).
 
 Site Rules last updated: November 2014

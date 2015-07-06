@@ -5,7 +5,7 @@ category: EN
 ---
 ## Our Philosophy
 
-The Trust & Safety team uses a combination of automated systems and manual monitoring to ensure that all members of the YouNow community are kept safe. Guided by our [Community Standards & Site Rules](/policy/en/rules.md) and [Terms of Service](/policy/en/terms.md), we continuously monitor YouNow broadcasts to warn, suspend, or ban any users who violate our policies.
+The Trust & Safety team uses a combination of automated systems and manual monitoring to ensure that all members of the YouNow community are kept safe. Guided by our [Community Standards & Site Rules](/policy/en/rules) and [Terms of Service](/policy/en/terms), we continuously monitor YouNow broadcasts to warn, suspend, or ban any users who violate our policies.
 
 ## Tools To Stay Safe on YouNow
 
@@ -27,7 +27,7 @@ Use the "[Contact Mod](https://younow.wufoo.com/forms/contact-a-younow-moderator
 
 _Guide for Parents_
 
-Are you a parent of a user on YouNow? Feel free to visit our [Guide for Parents](/policy/en/parents.md) to learn important information regarding your teen using YouNow, and the Internet in general. 
+Are you a parent of a user on YouNow? Feel free to visit our [Guide for Parents](/policy/en/parents) to learn important information regarding your teen using YouNow, and the Internet in general.
 
 ## Underage Users
 
@@ -146,9 +146,9 @@ It's important to maintain your privacy and security while broadcasting live. Be
 
 To ensure that you have the best experience possible on YouNow, please familiarize yourself with YouNow's official rules and policies, below.
 
-- [YouNow Terms of Use](/policy/en/terms.md) &nbsp;
-- [YouNow Rules & Community Standards](/policy/en/rules.md)&nbsp;
-- [YouNow Privacy Policy](/policy/en/privacy.md)&nbsp;
+- [YouNow Terms of Use](/policy/en/terms) &nbsp;
+- [YouNow Rules & Community Standards](/policy/en/rules)&nbsp;
+- [YouNow Privacy Policy](/policy/en/privacy)&nbsp;
 
 For further questions regarding any of the above, technical support, or for unbanning requests, please contact the [YouNow Help Desk here](http://support.younow.com).
 

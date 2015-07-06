@@ -9,7 +9,7 @@ Complete protection from harmful content is never a guarantee. There are, howeve
 
 **The risks of inappropriate content**
 
-Viewing inappropriate content can cause anxiety in children and negatively impact their development. This can include pornographic material, violence, propaganda, racism, and encouragement of self-destructive behavior. If you see such content on YouNow, please report it immediately by using our flagging or “Contact Mod” systems (see [“Trust & Safety”](/policy/en/trust.md)).
+Viewing inappropriate content can cause anxiety in children and negatively impact their development. This can include pornographic material, violence, propaganda, racism, and encouragement of self-destructive behavior. If you see such content on YouNow, please report it immediately by using our flagging or “Contact Mod” systems (see [“Trust & Safety”](/policy/en/trust)).
 
 **Protecting against risk**
 
