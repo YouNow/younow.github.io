@@ -48,9 +48,6 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 [Talent Manager - Arab Markets](http://www.indeed.com/job/talent-manager-arab-markets-46af7f95d65d25dc)
  - New York, NY
 - 
-[Talent Manager - Spanish Markets](http://www.indeed.com/job/talent-manager-spanish-markets-1df170ee252ef477)
- - New York, NY
-- 
 [Turkish Community & Marketing Manager](http://www.indeed.com/job/turkish-community-marketing-manager-7c77cbc2513542cd)
  - New York, NY
 - 
