@@ -39,9 +39,6 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 </div note="do not edit this line">
 <div id="column2" note="do not edit this line">
 - 
-[Community Operations Manager](http://www.indeed.com/cmp/YouNow/jobs/Community-Operation-Manager-893af8e99bce5a15)
- - New York, NY
-- 
 [Spanish Community Manager](http://www.indeed.com/job/spanish-community-manager-20994b0c8edf228a)
  - New York, NY
 - 
