@@ -16,9 +16,6 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 <div id="column1" note="do not edit this line">
 
 - 
-[QA Engineer](http://www.indeed.com/cmp/YouNow/jobs/QA-Engineer-f57b34e03d2752ba)
- - New York, NY
-- 
 [VP Marketing](http://www.indeed.com/job/vp-marketing-747b7164bf31432e)
  - New York, NY
 - 
