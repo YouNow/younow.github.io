@@ -41,6 +41,9 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
 - 
 [Turkish Moderator](http://www.indeed.com/job/turkish-moderator-716966c99665af30)
  - Worldwide
+- 
+[Spanish Moderator](http://www.indeed.com/cmp/YouNow/jobs/Spanish-Moderator-ad27f989db863582)
+ - New York, NY
 
 </div note="do not edit this line">
 </div note="do not edit this line">
