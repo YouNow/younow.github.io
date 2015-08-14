@@ -43,7 +43,7 @@ YouNow is a vibrant ecosystem for discovery, creation and connection. We're insp
  - Worldwide
 - 
 [Spanish Moderator](http://www.indeed.com/cmp/YouNow/jobs/Spanish-Moderator-ad27f989db863582)
- - New York, NY
+ - Worldwide
 
 </div note="do not edit this line">
 </div note="do not edit this line">
