@@ -1,87 +1,89 @@
 ---
-title: Confiança & Segurança
+title: Trust & Safety
 layout: default
 category: EN
 ---
-## Nossa Filosofia
+## Our Philosophy
 
-A equipe de Confiança & Segurança usa uma combinação de sistemas automatizados e monitoramento manual para garantir que todos os membros da comunidade do YouNow estejam seguros. Tendo como guia os nossos [Padrões de Comunidade & Regras do Site](/policy/pt/rules) e o [Termo de Serviço](/policy/pt/terms), estamos continuamente monitorando as transmissões YouNow para advertir, suspender ou excluir qualquer usuário que viole nossas políticas. 
+The Trust & Safety team uses a combination of automated systems and manual monitoring to ensure that all members of the YouNow community are kept safe. Guided by our [Community Standards & Site Rules](/policy/en/rules) and [Terms of Service](/policy/en/terms), we continuously monitor YouNow broadcasts to warn, suspend, or ban any users who violate our policies.
 
-## Ferramentas para se manter seguro no YouNow
+## Tools To Stay Safe on YouNow
 
-_Bloquear um usuário_
+_Blocking a User_
 
-No YouNow, qualquer usuário pode bloquear outro usuário impedindo assim que este os contate. Simplesmente use o menu (na web) ou clique no nome do usuário (no aplicativo) ofensor no perfil do mesmo e encontre a opção “bloquear”.
+On YouNow, any user can block any other user from contacting him or her. Simply use the drop down menu (on web) or click the user's name (on mobile) of the offending user's profile and find the option to "block".
 
-Bloquear um usuário proíbe que esta pessoa bata papo nas suas transmissões, envie mensagens para você ou poste no seu perfil YouNow.
+Blocking a user prohibits that user from chatting in your broadcasts, private messaging you, or posting on your YouNow profile.
 
-_Sinalizar um usuário_
+_Flagging a User_
 
-Faça a sua parte! Todo usuário deve sinalizar qualquer conteúdo que acredite viola a política de uso de YouNow ou que coloca em risco os membros da comunidade. Quando você sinaliza um usuário, este aviso chega a moderadores ao vivo que avaliarão a situação e tomarão as medidas que se julguem necessárias. Por favor, somente sinalize conteúdo que você considera inadequado! A reincidência de falsas sinalizações de conteúdo que não é adequada pode resultar em uma curta suspensão.
+Do your part! All users should flag any content that he or she believes violates YouNow's policies, or puts any member of the community at risk.
 
-_Contato com um Mod (Moderador)_
+When you flag a user, the flag goes to a live moderator in real time who will review the situation and take action immediately as he or she sees fit. Please only flag content that you deem to be inappropriate! Repetitive false flagging on content that is not inappropriate could result in a short suspension.
 
-Utilize o formulário “Contatar Mod” no sítio web de YouNow para submeter um pedido de atenção de um moderador. Este formulário permite que você crie em tempo real um relato com maiores detalhes para um moderador.
+_Contact a Mod_
 
-_Guia para os pais_
+Use the "[Contact Mod](https://younow.wufoo.com/forms/contact-a-younow-moderator/)" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report to a moderator in real-time.
 
-Você é mãe ou pai de um usuário YouNow? Sinta-se a vontade de visitar nosso [Guia para os Pais](policy/pt/parentes) para conhecer informações importantes relacionadas ao uso que sua criança ou adolescente pode fazer do YouNow e sobre o uso da internet em geral.
+_Guide for Parents_
 
-## Usuários menores de idade
+Are you a parent of a user on YouNow? Feel free to visit our [Guide for Parents](/policy/en/parents) to learn important information regarding your teen using YouNow, and the Internet in general.
 
-Os usuários do YouNow devem ter pelo menos treze anos de idade. Se você é um usuário que venha a ter contato com outro usuário que tem idade menor do que treze, por favor sinalize este usuário (motivo: “Usuário menor de treze anos”).
+## Underage Users
 
-## Conteúdo sexual
+YouNow users must be at least thirteen years of age. If you are a user who comes in contact with a user who is under the age of thirteen, please make sure to flag the user (reason: "User under 13").
 
-De acordo com as políticas oficiais do YouNow, conteúdo sexual explicito não é permitido no nosso serviço. Se você se deparar com uma imagem ou transmissão que é explicita sexualmente ou de natureza pornográfica, por favor sinalize imediatamente o usuário para que um moderador possa revisar o conteúdo e se encarregue da situação conforme necessário.
+## Sexual Content
 
-Transmitir, compartilhar, baixar ou estimular conteúdos sexuais explícitos de menores pode ser criminoso. Saiba que reportamos todo tipo de exploração de crianças ao Centro Nacional de Crianças Perdidas e Exploradas (National Center for Missing and Exploited Children). Para obter mais informações sobre como reportar no NCMEC, [por favor clique aqui ](http://www.missingkids.com/CyberTipline). 
+As per YouNow's official policies, sexually explicit content is not allowed on our service. If you come across an image or broadcast that is explicitly sexual or pornographic in nature, please flag the user immediately so a moderator can review the content and handle the situation accordingly.
 
-## Suicídio e prevenção de auto-flagelo
+Broadcasting, sharing, downloading, or encouraging sexually explicit content of minors can be criminal. Note that we report all instances of child exploitation to the National Center for Missing and Exploited Children. For more information on reporting to NCMEC, [please click here](http://www.missingkids.com/CyberTipline).
 
-**Se você ou alguém que você conhece corre risco de auto-flagelo ou está fazendo ameaças de suicídio, procure ajuda imediatamente.**
+## Suicide and Self-Harm Prevention
 
-Por favor consulte abaixo a lista de linhas diretas para ajuda imediata. 
+**If you or someone you know is at risk of self-harm or making suicidal threats, seek help immediately.**
 
-Se você se deparar com conteúdo no YouNow relacionado a suicídio ou auto-flagelo, por favor sinalize imediatamente o conteúdo para que um moderador se encarregue da situação conforme necessário. Leve em consideração que se uma transmissão YouNow é interrompida por este motivo, o usuário receberá informações de contato de linhas diretas de prevenção de suicídio e auto-flagelação para ajuda imediata. 
+Please consult the list of hotline numbers below for immediate help.
 
-**Austrália:**
+If you come across content on YouNow relating to suicide or self-harm, please flag the content immediately so a moderator can handle it appropriately. Note that if a YouNow broadcast is terminated for this reason, the broadcaster will be given self-harm and suicide prevention hotlines to contact for immediate help.
+
+**Australia:**
 
 - BeyondBlue
   - 1300 22 4636  
 
-**Áustria:**
+**Austria:**
 
 - Telefonseelsorge
   - 142  
 
-**Bélgica:**
+**Belgium:**
 
 - Zelfmoordlijn1813
   - 1813
 
-**Dinamarca:**
+**Denmark:**
 
 - Livslinien
   - 70 201 201
 
-**Grécia:**
+**Greece:**
 
 - Klimaka NGO
   - 1018
 
-**Alemanha:**
+**Germany:**
 
 - Telefonseelsorge
   - 0800 111 0 111
   - 0800 111 0 222
 
-**Irlanda:**
+**Ireland:**
 
 - Samaritans
   - 116 123
 
-**Itália:**
+**Italy:**
 
 - Telefono Amico
   - 199 284 284
@@ -91,58 +93,58 @@ Se você se deparar com conteúdo no YouNow relacionado a suicídio ou auto-flag
 - ERAN
   - 09 889 1333
 
-**Japão:**
+**Japan:**
 
 - TELL
   - 03-5774-0992
 
-**Países Baixos:**
+**Netherlands:**
 
 - Foundation 113 Online
   - 0900-113 0 113
 
-**África do Sul:**
+**South Africa:**
 
 - SADAG
   - 0800 567 567
 
-**Espanha:**
+**Spain:**
 
 - Teléfono de la Esperanza
   - 902500002
 
-**Suécia:**
+**Sweden:**
 
 - Självmordsupplysningen (Föreningen Psykisk Hälsa)
 
-**Suíça:**
+**Switzerland:**
 
 - Die Dargebotene Hand (Telefonseelsorge)
   - 143
 
-**Reino Unido:**
+**United Kingdom:**
 
 - Samaritans
   - 08457 90 90 90
 
-**Estados Unidos da América:**
+**United States:**
 
 - National Network to End Domestic Violence
 - National Suicide Prevention Lifeline
   - 1-800-273-TALK (8255)
 
-## Dicas de Segurança para Transmissões 
+## Broadcasting Safety Tips
 
-É importante manter a sua privacidade e segurança nas transmissões ao vivo. Veja abaixo algumas dicas que recomendamos a você para o uso no YouNow, na Internet e mídias sociais em geral.
+It's important to maintain your privacy and security while broadcasting live. Below are a few tips we recommend you keep in mind while on YouNow, and on the Internet and social media, in general.
 
-- Não compartilhe informações pessoais. Todos amamos YouNow porque podemos nos conectar com amigos de todos os cantos do planeta, mas o compartilhamento público de informações pessoais (incluindo número telefônico, endereços, correio eletrônico, etc.) pode dar margem a contatos indesejados. Recomendamos que você não compartilhe informações sensíveis como estas online com pessoas que você não conhece.&nbsp;
-- Não acesse links irreconhecíveis. No bate papo, usuários podem compartilhar URLs que conectam a sítios web inapropriados ou de phishing. Solicitamos que você sinalize os usuários que postem este tipo de URLs e tenha cuidado para não clicar neles!&nbsp;
-- Não faça nada online que você não queira que os seus pais vejam. YouNow é um espaço público, como qualquer outro. Pais, amigos, professores ou outras pessoas conhecidas podem estar assistindo, portanto você deve se comportar de acordo com isso.&nbsp;
-- Lembre-se que tudo que você faz é gravado. Quando você terminar a sua transmissão, o vídeo gravado fica hospedado no seu perfil por três dias ou se torna permanente se for a sua transmissão mais recente. Porém, você tem a opção de remover qualquer vídeo do seu perfil ao navegar no botão “transmissões”.&nbsp;
+- Don't share personal information. We all love YouNow because we can connect with friends from all corners of the world, but sharing personal information publicly (including phone numbers, addresses, email addresses, etc.) can open unwanted communications. We strongly discourage you from sharing this sensitive information online with people you don't know.&nbsp;
+- Don't click unrecognizable links. In the chat, users may share URLs that link to inappropriate or phishing websites. We ask that you flag the users posting such URLs, and make sure not to click them!&nbsp;
+- Don't do anything online that you wouldn't want your parents seeing. YouNow is a public place, like any other. Parents, friends, teachers, or others you know might be watching, and so you should behave accordingly.&nbsp;
+- Remember that everything you do gets recorded. After you end your broadcast, the recorded video lives on your profile for 3 days, or is permanent if it's your most recent broadcast. You do, however, have the ability to remove any video from your profile by navigating to the "broadcasts" tab.&nbsp;
 
-## Recursos
+## Resources
 
-Para garantir que você tenha a melhor experiência possível no YouNow, por favor familiarize-se com as regras e políticas oficiais do YouNow, logo abaixo.
+To ensure that you have the best experience possible on YouNow, please familiarize yourself with YouNow's official rules and policies, below.
 
 - [YouNow Terms of Use](/policy/en/terms) &nbsp;
 - [YouNow Rules & Community Standards](/policy/en/rules)&nbsp;
@@ -150,41 +152,41 @@ Para garantir que você tenha a melhor experiência possível no YouNow, por fav
 
 For further questions regarding any of the above, technical support, or for unbanning requests, please contact the [YouNow Help Desk here](http://support.younow.com).
 
-## Guia para a Aplicação da Lei
+## Guide for Law Enforcement
 
-A equipe de Confiança & Segurança do YouNow dedica-se a garantir a aplicação da lei para providenciar informações alinhadas com o nosso Termo de Uso e Política de Privacidade. Nós levamos muito a sério a segurança e privacidade dos nossos usuários e trabalhamos arduamente para salvaguardar o bem-estar dos usuários, na medida do possível.
+The Trust & Safety team at YouNow is dedicated to working with law enforcement to provide information that is in line with our Terms of Use and Privacy Policy. We take the safety and privacy of our users very seriously and work hard to safeguard the wellbeing of our users to the best of our ability.
 
-**Dados do usuário disponíveis pelo YouNow**
+**User Data Available from YouNow**
 
-_Informações do Perfil de Usuário_
+_User Profile Information_
 
-- A informação fornecida a nós pelo usuário por meio da conexão das suas redes sociais, incluído correio eletrônico, informação básica de redes sociais (nome/ apelido, etc.), nome de usuário YouNow atual, identificação de aparelho para os usuários da versão móvel, data de nascimento se disponível em redes sociais e endereço, caso tenha sido providenciado pelo usuário.&nbsp;
+- Information provided to us by a user via their social networking login, including E-mail, social network basic info (name/handle, etc.), current YouNow username, device ID for mobile users, date of birth if supplied by social network, and address if provided by the user.&nbsp;
 
-_Histórico_
+_History_
 
-- Nós armazenamos algumas informações sobre a atividade do usuário. Estas informações incluem registros de bate-papo, transmissões, mensagens privadas, os “fãs” do usuário, de quem o usuário é “fã”, e posts feitos pelo usuário no perfil.  Por favor observe que algumas destas informações não são armazenadas indefinidamente e poderão ter expirado no momento da solicitação das mesmas.&nbsp;
+- We store some information on a user's activity. This information includes chat logs, broadcasts, private messages, a user's "fans," "fans of" that user, and posts made by a user on one's profile. Please note that some of this information is not stored indefinitely, and may expire by the time of request.&nbsp;
 
-_Endereço de IP_
+_IP Address_
 
-- Coletamos informações do endereço de IP, mas por favor observe que esta informação é providenciada por terceiros e não é verificada pelo YouNow.&nbsp;
+- We collect IP address information but&nbsp;please note that this information is provided by third parties and isn't verified by YouNow.&nbsp;
 
-## Entre em contato
+## Contact us
 
-A equipe de Confiança & Segurança do YouNow faz o que for possível para garantir uma resposta rápida a questões relacionadas à aplicação da lei. Por favor, entre em contato conosco através dos seguintes meios:
+The Trust & Safety team at YouNow does everything we can to ensure that we respond quickly to law enforcement inquiries. Please contact us via the following:
 
-_Endereço fixo_
+_Mailing Address_
 
 Trust & Safety at YouNow  
 25 West 36th Street, 11th Floor  
 New York, NY 10018  
 
-_Correio Eletrônico (melhor forma de contato para receber uma resposta imediata)_
+_E-mail Address (best contact to receive immediate response)_
 
   - [privacy@younow.com](mailto:privacy@younow.com)
 
 
-_Central de Ajuda_
+_Our Help Center_
 
   - support.younow.com
 
-_Não podemos receber dúvidas por meio de telefone ou fax._
+_We are not able to accept inquiries via phone or fax._
