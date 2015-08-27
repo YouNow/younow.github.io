@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-![Sample Image](https://octodex.github.com/images/yaktocat.png)
+![Sample Image](https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/sample-image.jpeg)
 
 ## FAQs for Partners
 
