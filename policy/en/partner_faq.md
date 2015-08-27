@@ -76,9 +76,9 @@ To help with communication with our partners, the following outlines questions t
 11. How do I receive more bar-based gifts and “likes” from my viewers during a broadcast?
  * We don’t recommend explicitly asking your viewers for “likes” and bar-based gifts, but here are some tips to encourage gifting and liking:  
   
-  a. In order to receive more “likes,” many of our partners will say “when we get to 1,000 likes, I’ll tell you a story,” or “I’ll sing the song the top fan asks for.”
+   a. In order to receive more “likes,” many of our partners will say “when we get to 1,000 likes, I’ll tell you a story,” or “I’ll sing the song the top fan asks for.”
   
-   b. Any time you receive a bar-based gift, thank them/give them a shout-out. Ultimately, your viewers are looking for your attention, so the more you acknowledge them, the more your viewers will want to give you gifts.   
+    b. Any time you receive a bar-based gift, thank them/give them a shout-out. Ultimately, your viewers are looking for your attention, so the more you acknowledge them, the more your viewers will want to give you gifts.   
 
 12. What hashtag should I use when I broadcast?
  * Try to use hashtags that are relevant to your content (e.g., #dance, #musicians) and/or hashtags that are already trending. 
@@ -90,11 +90,11 @@ To help with communication with our partners, the following outlines questions t
 14. How can I gain more YouNow viewers fans?
  * Ultimately, the better the content you create is, the more viewers and fans you’ll have. There are also a few tips that can help you gain more viewers and fans on YouNow:
   
-  a. Add your YouNow profile link to your social media profiles (e.g., your YouTube banner and “About” page. To see how, click here.
+   a. Add your YouNow profile link to your social media profiles (e.g., your YouTube banner and “About” page. To see how, click here.
   
-   b. Promote your broadcasts on all your social media channels (e.g., YouTube, Twitter, Instagram, Facebook, Vine and Snapchat) and invite your friends to watch before you go live.
+    b. Promote your broadcasts on all your social media channels (e.g., YouTube, Twitter, Instagram, Facebook, Vine and Snapchat) and invite your friends to watch before you go live.
   
-    c. Encourage your viewers to share your broadcast with their friends/followers. YouNow has a feature, where any viewer can share a broadcast in real-time to their Twitter, YouNow and Facebook fans. For more information, click here.  
+     c. Encourage your viewers to share your broadcast with their friends/followers. YouNow has a feature, where any viewer can share a broadcast in real-time to their Twitter, YouNow and Facebook fans. For more information, click here.  
 
 15. How long should I broadcast for?
  * We recommend that partners broadcast for at least 30 minutes; many partners broadcast for longer times, but 30 minutes is a good benchmark - since this is a live stream, it takes time for viewers to accumulate and join the broadcast, so very short broadcasts will not enable you to utilize your full viewership potential (viewers who whould love to see you may only see your message indicating that you’re going live when you are 10 minutes into the broadcast). 
