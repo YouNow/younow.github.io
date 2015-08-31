@@ -5,21 +5,10 @@ category: EN
 ---
 
 
-## FAQs for Partners
+## Frequently Asked Questions
 
-To help with communication with our partners, the following outlines questions that our partners frequently ask. They should be posted on the site and app in a place that’s only shared with YouNow partners. 
  
- 
- 
-**I. General YouNow Partner Questions**
-
-**II. Partner Payment Questions**
-
-**III. Questions for Internal Reference**
- 
- 
- 
-### I. General YouNow Partner Questions:
+### General
 
 1. What are "bars"?
  * Bars are the YouNow currency. Your fans buy bars and use them to purchase premium gifts that help them further engage with broadcasters and stand out from the crowd. 
@@ -141,7 +130,7 @@ To help with communication with our partners, the following outlines questions t
 
 
 
-### II Partner Payment Questions: 
+### Payment
 
 19. How do I know how much money I’ve earned?
  * At the end of every broadcast, you’ll receive an estimated summary of how much you’ve earned during that actual live stream.
