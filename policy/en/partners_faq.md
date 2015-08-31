@@ -140,93 +140,59 @@ To help with communication with our partners, the following outlines questions t
  * If you would like to receive YouNow swag, please [click here](https://docs.google.com/a/younow.com/forms/d/1C8cIaCyYAvjjTDqSazAK6O8k3snoWBmJZKDvXYz1pv4) to share your address and size.
 
 
-<!---
+
 ### II Partner Payment Questions: 
 
-How do I know how much money I’ve earned?
+19. How do I know how much money I’ve earned?
+ * At the end of every broadcast, you’ll receive an estimated summary of how much you’ve earned during that actual live stream.
 
-At the end of every broadcast, you’ll receive an estimated summary of how much you’ve earned during that actual live stream.
+20. How can I get paid? 
+ * In order to receive payment, you have to complete a W9 form found here (United States citizens only) or a W8 form found here (international citizens only). All partners need to earn at least $100 in order to receive payments each month.
+ * You can receive payment via PayPal (preferred), direct deposit (ACH) or wire transfer. Please share with us your payment details here.
 
+21. When do I get paid and how often?
+ * Partners are paid once a month at the beginning of every month if you’ve earned at least $100. YouNow will send you an email with your earnings for the previous month. For example: In the beginning of February, you’ll receive your earnings summary for your January earnings and will receive payment within 5 to 10 business days. The number of days it takes to receive earnings depends on your form of payment; PayPal is fastest).  
 
-How can I get paid? 
+22. How do I get paid as fast as possible?
+ * PayPal is the fastest form of payment. If we have your W8/W9 form and your payment details, that helps expedite the process.
 
-In order to receive payment, you have to complete a W9 form found here (United States citizens only) or a W8 form found here (international citizens only). All partners need to earn at least $100 in order to receive payments each month.
+23. How can I receive a summary of my earnings?
+ * At the beginning of every month, YouNow will send you a summary of your earnings from the previous month via email.
 
-You can receive payment via PayPal (preferred), direct deposit (ACH) or wire transfer. Please share with us your payment details here.
+24. Why do I have to complete a W8 or a W9 Form?
+ * In order to receive payment, all YouNow Partners must complete one of the following so we can keep track of payments with all partners. 
+   1. W9 form for United States citizens only - click here to complete OR
+    2. A W8 form for international partners only - click here to complete
 
+25. Why is my monthly total payment not the same as the total amount on my earnings page?
+ * The estimated earnings shown to partners are an estimation of the actual earnings. Apple / Google takes a small percentages of your earnings from the bar-based gifts. 
 
-When do I get paid and how often?
+26. I’ve been paid, but I still have an outstanding balance on my “earnings” page. Why?
+ * If you’ve been paid for your previous month’s earnings, the money displayed on your “earnings” page is most likely your revenue from the current month. Here’s an example: We paid you February 6th for your January earnings, but you still have $100 displayed on your “earnings” page. That’s because you likely broadcasted at the beginning of February and you earned $100 from February 1st through February 6th. 
 
-Partners are paid once a month at the beginning of every month if you’ve earned at least $100. YouNow will send you an email with your earnings for the previous month. For example: In the beginning of February, you’ll receive your earnings summary for your January earnings and will receive payment within 5 to 10 business days. The number of days it takes to receive earnings depends on your form of payment; PayPal is fastest).  
+ 27. I still have a question about my payment and it’s not explained in the FAQ page, can you help?
+ * Of course! If you have any payment questions, please send an email to partnerpayments@younow.com. 
 
+28. If I am getting paid via PayPal, are there any fees for me?
+ * There may be a small fee if you’re receiving a payment via PayPal; please note that we try to avoid these PayPal fees for you. 
 
-How do I get paid as fast as possible?
+29. You can review the PayPal policies directly on the site. 
+ * If I am getting paid via wire transfer, are there any fees for me?
+ * There may be a small fee if you’re receiving a wire transfer. The fee percentage depends on your bank.
 
-PayPal is the fastest form of payment. If we have your W8/W9 form and your payment details, that helps expedite the process.
+30. If I would like to receive payment via a wire transfer or direct deposit (ACH), what information do I need to send you?
+ * If you would like to receive payment via a wire transfer payment, please complete this form.
 
+31. How do I change my preferred method of payment?
+ * If you would like to change your preferred method of payment,  please complete this form and/or send an email to partnerpayments@younow.com. 
 
-How can I receive a summary of my earnings?
+32. If I need to file my taxes, how do I receive a 1099 from YouNow?
+ * If you receive your YouNow Partner payments via direct deposit (ACH), wire transfer or check, YouNow will send you a 1099 at the beginning of the year. 
 
-At the beginning of every month, YouNow will send you a summary of your earnings from the previous month via email.
+33. Are taxes withheld when I receive my YouNow Partner payment?
+ * Taxes are not withheld. Partners receive their gross income.
 
-
-Why do I have to complete a W8 or a W9 Form?
-
-In order to receive payment, all YouNow Partners must complete one of the following so we can keep track of payments with all partners. 
-
-1) W9 form for United States citizens only - click here to complete OR
-2) A W8 form for international partners only - click here to complete
-
-
-Why is my monthly total payment not the same as the total amount on my earnings page?
-
-The estimated earnings shown to partners are an estimation of the actual earnings. Apple / Google takes a small percentages of your earnings from the bar-based gifts. 
-
-
-
- I’ve been paid, but I still have an outstanding balance on my “earnings” page. Why?
-
-If you’ve been paid for your previous month’s earnings, the money displayed on your “earnings” page is most likely your revenue from the current month. Here’s an example: We paid you February 6th for your January earnings, but you still have $100 displayed on your “earnings” page. That’s because you likely broadcasted at the beginning of February and you earned $100 from February 1st through February 6th. 
-
- I still have a question about my payment and it’s not explained in the FAQ page, can you help?
-
-Of course! If you have any payment questions, please send an email to partnerpayments@younow.com. 
-
-
-If I am getting paid via PayPal, are there any fees for me?
-
-There may be a small fee if you’re receiving a payment via PayPal; please note that we try to avoid these PayPal fees for you. 
-
-You can review the PayPal policies directly on the site. 
-
-
-If I am getting paid via wire transfer, are there any fees for me?
-
-There may be a small fee if you’re receiving a wire transfer. The fee percentage depends on your bank.
-
-
-If I would like to receive payment via a wire transfer or direct deposit (ACH), what information do I need to send you?
-
-If you would like to receive payment via a wire transfer payment, please complete this form.
-
-
-How do I change my preferred method of payment?
-
-If you would like to change your preferred method of payment,  please complete this form and/or send an email to partnerpayments@younow.com. 
-
-
-If I need to file my taxes, how do I receive a 1099 from YouNow?
-
-If you receive your YouNow Partner payments via direct deposit (ACH), wire transfer or check, YouNow will send you a 1099 at the beginning of the year. 
-
-
- Are taxes withheld when I receive my YouNow Partner payment?
-
-Taxes are not withheld. Partners receive their gross income.
-
-
-
-
+<!--
 III Questions for Internal Reference: 
 The following are not recommended to publish on the site/app, but to be used as an internal reference guide only should a partner ask the question. This way, we have consistent language prepared if the question arises.
 
