@@ -38,7 +38,7 @@ To help with communication with our partners, the following outlines questions t
     
     Tip - directly supporting Partner earnings with 50 to 10,000 bars 
 
-    (https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/gifts.png)
+    ![Bar based gifts](https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/gifts.png)
 
 4. Can any YouNow broadcaster receive the four bar-based gifts?
  * All YouNow broadcasters can receive the 50-Likes, Fan Mail and the Marriage Proposal. However, only Partners receive bars from the blue tip jar. Additionally, only Partners earn revenue when receiving these four bar-based gifts. 
