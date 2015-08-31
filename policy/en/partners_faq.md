@@ -30,15 +30,15 @@ To help with communication with our partners, the following outlines questions t
 3. What gifts can people buy with bars?
  * There are four gifts that users can buy with bars: 
  
-   **50-Likes** - helping the broadcaster trend 
+   50-Likes - helping the broadcaster trend 
+   
+    Fan Mail - a personalized note that stands out in the chat 
     
-    **Fan Mail** - a personalized note that stands out in the chat 
+    Marriage Proposal -  include picture of sender. No commitments here!  
     
-    **Marriage Proposal** -  include picture of sender. No commitments here!  
-    
-    **Tip** - directly supporting Partner earnings with 50 to 10,000 bars 
+    Tip - directly supporting Partner earnings with 50 to 10,000 bars 
 
-    ![Sample Image](https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/gifts.png)
+    (https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/gifts.png)
 
 4. Can any YouNow broadcaster receive the four bar-based gifts?
  * All YouNow broadcasters can receive the 50-Likes, Fan Mail and the Marriage Proposal. However, only Partners receive bars from the blue tip jar. Additionally, only Partners earn revenue when receiving these four bar-based gifts. 
