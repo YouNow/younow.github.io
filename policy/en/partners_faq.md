@@ -35,7 +35,7 @@ To help with communication with our partners, the following outlines questions t
     
     **Marriage Proposal** -  include picture of sender. No commitments here!  
     
-    **Bars** - directly supporting Partner earnings with 50 to 10,000 bars 
+    **Tip** - directly supporting Partner earnings with 50 to 10,000 bars 
 
     ![Sample Image](https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/gifts.png)
 
