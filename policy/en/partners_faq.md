@@ -10,6 +10,7 @@ category: EN
 To help with communication with our partners, the following outlines questions that our partners frequently ask. They should be posted on the site and app in a place that’s only shared with YouNow partners. 
 
 
+
 **I. General YouNow Partner Questions**
 
 **II. Partner Payment Questions**
