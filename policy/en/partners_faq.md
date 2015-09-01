@@ -7,6 +7,8 @@ category: EN
 
 ## Frequently Asked Questions
 
+INSERT-VIMEO
+
  
 ### General
 
@@ -48,7 +50,7 @@ category: EN
 	broadcast. 
 
 9. How do I find out who my overall “Top Fans” are - not just for a specific broadcast?
- * To find the list of your overall “Top Fans,” go to your profile page and you’ll see the full list on the bottom right-hand corner; these fans have a crown image next to their name. Click here for more information on the “crown” feature.
+ * To find the list of your overall “Top Fans,” go to your profile page and you’ll see the full list on the bottom right-hand corner; these fans have a crown image next to their name. [Click here](http://blog.younow.com/post/117267922019/what-does-the-crown-symbol-mean) for more information on the “crown” feature.
 
 10. How can I trend?
  * Broadcasters can trend more easily when they are using a hashtag for their broadcast that’s already trending (for example: #musicians). Chose a topic that best describes your content, this will help viewers find you who have the same interests as you.
@@ -81,11 +83,11 @@ category: EN
 14. How can I gain more YouNow viewers fans?
  * Ultimately, the better the content you create is, the more viewers and fans you’ll have. There are also a few tips that can help you gain more viewers and fans on YouNow:
   
-   a. Add your YouNow profile link to your social media profiles (e.g., your YouTube banner and “About” page. To see how, click here.
+   a. Add your YouNow profile link to your social media profiles (e.g., your YouTube banner and “About” page. To see how, [click here](http://blog.younow.com/post/117795296724/how-to-get-more-viewers-fans-on-younow).
   
     b. Promote your broadcasts on all your social media channels (e.g., YouTube, Twitter, Instagram, Facebook, Vine and Snapchat) and invite your friends to watch before you go live.
   
-     c. Encourage your viewers to share your broadcast with their friends/followers. YouNow has a feature, where any viewer can share a broadcast in real-time to their Twitter, YouNow and Facebook fans. For more information, click here.  
+     c. Encourage your viewers to share your broadcast with their friends/followers. YouNow has a feature, where any viewer can share a broadcast in real-time to their Twitter, YouNow and Facebook fans. For more information, [click here](http://blog.younow.com/post/116569575779/new-app-update-seamless-sharing-more).  
 
 15. How long should I broadcast for?
  * We recommend that partners broadcast for at least 30 minutes; many partners broadcast for longer times, but 30 minutes is a good benchmark - since this is a live stream, it takes time for viewers to accumulate and join the broadcast, so very short broadcasts will not enable you to utilize your full viewership potential (viewers who whould love to see you may only see your message indicating that you’re going live when you are 10 minutes into the broadcast). 
@@ -136,8 +138,8 @@ category: EN
  * At the end of every broadcast, you’ll receive an estimated summary of how much you’ve earned during that actual live stream.
 
 20. How can I get paid? 
- * In order to receive payment, you have to complete a W9 form found here (United States citizens only) or a W8 form found here (international citizens only). All partners need to earn at least $100 in order to receive payments each month.
- * You can receive payment via PayPal (preferred), direct deposit (ACH) or wire transfer. Please share with us your payment details here.
+ * In order to receive payment, you have to complete a W9 form found [here](https://secure.echosign.com/public/esignWidget?wid=2AAABLblqZhD-C15ugnCAqNBJPHj185szx_wki_QSIkBMGM2ixAnTHYTwY4_VKCcE1-HGZXVn4xc*) (United States citizens only) or a W8 form found [here](https://secure.echosign.com/public/esignWidget?wid=2AAABLblqZhADqhjDuFDkVC3-tEXnrX8_NEnFujBqIYHED96mr6TUSFPAaZUdLN7bd4p3Yeycvxc*) (international citizens only). All partners need to earn at least $100 in order to receive payments each month.
+ * You can receive payment via PayPal (preferred), direct deposit (ACH) or wire transfer. Please share with us your payment details [here](https://docs.google.com/a/younow.com/forms/d/1N93s5qMbs83MBH9JNzIb4KIF8h0eyDmUF6T5CuUPfjA/viewform?c=0&w=1).
 
 21. When do I get paid and how often?
  * Partners are paid once a month at the beginning of every month if you’ve earned at least $100. YouNow will send you an email with your earnings for the previous month. For example: In the beginning of February, you’ll receive your earnings summary for your January earnings and will receive payment within 5 to 10 business days. The number of days it takes to receive earnings depends on your form of payment; PayPal is fastest).  
@@ -150,8 +152,8 @@ category: EN
 
 24. Why do I have to complete a W8 or a W9 Form?
  * In order to receive payment, all YouNow Partners must complete one of the following so we can keep track of payments with all partners. 
-   1. W9 form for United States citizens only - click here to complete OR
-    2. A W8 form for international partners only - click here to complete
+   1. W9 form for United States citizens only - [click here](https://secure.echosign.com/public/esignWidget?wid=2AAABLblqZhD-C15ugnCAqNBJPHj185szx_wki_QSIkBMGM2ixAnTHYTwY4_VKCcE1-HGZXVn4xc*) to complete OR
+    2. A W8 form for international partners only - [click here](https://secure.echosign.com/public/esignWidget?wid=2AAABLblqZhADqhjDuFDkVC3-tEXnrX8_NEnFujBqIYHED96mr6TUSFPAaZUdLN7bd4p3Yeycvxc*) to complete
 
 25. Why is my monthly total payment not the same as the total amount on my earnings page?
  * The estimated earnings shown to partners are an estimation of the actual earnings. Apple / Google takes a small percentages of your earnings from the bar-based gifts. 
@@ -160,10 +162,10 @@ category: EN
  * If you’ve been paid for your previous month’s earnings, the money displayed on your “earnings” page is most likely your revenue from the current month. Here’s an example: We paid you February 6th for your January earnings, but you still have $100 displayed on your “earnings” page. That’s because you likely broadcasted at the beginning of February and you earned $100 from February 1st through February 6th. 
 
  27. I still have a question about my payment and it’s not explained in the FAQ page, can you help?
- * Of course! If you have any payment questions, please send an email to partnerpayments@younow.com. 
+ * Of course! If you have any payment questions, please send an email to [partnerpayments@younow.com](mailto:partnerpayments@younow.com). 
 
 28. If I am getting paid via PayPal, are there any fees for me?
- * There may be a small fee if you’re receiving a payment via PayPal; please note that we try to avoid these PayPal fees for you. 
+ * There may be a small fee if you’re receiving a payment via PayPal; please note that we try to avoid these [PayPal](https://www.paypal.com) fees for you. 
 
 29. You can review the PayPal policies directly on the site. 
  * If I am getting paid via wire transfer, are there any fees for me?
@@ -173,7 +175,7 @@ category: EN
  * If you would like to receive payment via a wire transfer payment, please complete this form.
 
 31. How do I change my preferred method of payment?
- * If you would like to change your preferred method of payment,  please complete this form and/or send an email to partnerpayments@younow.com. 
+ * If you would like to change your preferred method of payment, please complete [this form](https://docs.google.com/a/younow.com/forms/d/1N93s5qMbs83MBH9JNzIb4KIF8h0eyDmUF6T5CuUPfjA/viewform?c=0&w=1) and/or send an email to [partnerpayments@younow.com](mailto:partnerpayments@younow.com). 
 
 32. If I need to file my taxes, how do I receive a 1099 from YouNow?
  * If you receive your YouNow Partner payments via direct deposit (ACH), wire transfer or check, YouNow will send you a 1099 at the beginning of the year. 
