@@ -7,7 +7,7 @@ category: EN
 
 ## Frequently Asked Questions
  
-INCLUDE-VIDEO
+INSERT-VIDEO
   
 ### General
 
