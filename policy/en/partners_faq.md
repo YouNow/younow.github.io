@@ -6,8 +6,9 @@ category: EN
 
 
 ## Frequently Asked Questions
-
  
+  
+  
 ### General
 
 1. What are "bars"?
