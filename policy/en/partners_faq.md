@@ -7,8 +7,6 @@ category: EN
 
 ## Frequently Asked Questions
 
-INSERT-VIMEO
-
  
 ### General
 
