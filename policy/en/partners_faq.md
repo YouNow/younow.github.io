@@ -5,11 +5,13 @@ category: EN
 ---
 
 
-## Frequently Asked Questions
+## YouNow Partner Program Tips & FAQs
  
 EMBED-VIDEO
   
-### General
+### Frequently Asked Questions
+
+#### General
 
 1. What are "bars"?
  * Bars are the YouNow currency. Your fans buy bars and use them to purchase premium gifts that help them further engage with broadcasters and stand out from the crowd. 
@@ -131,7 +133,7 @@ EMBED-VIDEO
 
 
 
-### Payment
+#### Payment
 
 19. How do I know how much money I’ve earned?
  * At the end of every broadcast, you’ll receive an estimated summary of how much you’ve earned during that actual live stream.
