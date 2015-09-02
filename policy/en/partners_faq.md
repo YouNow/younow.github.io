@@ -4,6 +4,18 @@ layout: default
 category: EN
 ---
 
+<!-- 
+	PRODUCT TEAM, PLEASE NOTE
+	When editing, spacing (indentation) is very important, and can break the collapse/expand functionality and paragraph structure
+	1. Question 							<- number period space
+	 * Answer paragraph					<- space asterisk space
+	   Paragraph first linebreak 			<- space space space
+	    Paragraph additional linebreak		<- space space space extraSPACE (yes, this is dumb, but better than installing a CMS)
+	    
+	    **bold text**
+	    [title](link-url)  <- link: /explore/musicians
+	    ![title](image-url)  <- image, must be uploaded somewhere on the internet, full http://www url here
+-->
 
 ## YouNow Partner Program Tips & FAQs
  
@@ -46,11 +58,8 @@ EMBED-VIDEO
  
 8. Where can I find my Top Fans?
  * During a broadcast, the Top Fans are displayed right above the chat; they rotate accordingly depending on the total bars the fan has purchased.
- * When your top fans are interacting in the chat, their names will pop up with a small
-	crown icon - so you can easily see who your biggest supporters are during your
-	broadcast. 
-
-    ![Bar based gifts](https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/topfans.png)
+ * When your top fans are interacting in the chat, their names will pop up with a small crown icon - so you can easily see who your biggest supporters are during your broadcast. 
+ * ![Bar based gifts](https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/topfans.png)
 
 9. How do I find out who my overall “Top Fans” are - not just for a specific broadcast?
  * To find the list of your overall “Top Fans,” go to your profile page and you’ll see the full list on the bottom right-hand corner; these fans have a crown image next to their name. [Click here](http://blog.younow.com/post/117267922019/what-does-the-crown-symbol-mean) for more information on the “crown” feature.
@@ -63,11 +72,11 @@ EMBED-VIDEO
     
     b. How quickly “likes” accumulate
     
-     c. Broadcast activity (e.g., chat, gifts received, etc.)
+    c. Broadcast activity (e.g., chat, gifts received, etc.)
     
-      d. Viewers
+    d. Viewers
     
-       e. Broadcast length
+    e. Broadcast length
 
 11. How do I receive more bar-based gifts and “likes” from my viewers during a broadcast?
  * We don’t recommend explicitly asking your viewers for “likes” and bar-based gifts, but here are some tips to encourage gifting and liking:  
@@ -90,7 +99,7 @@ EMBED-VIDEO
   
     b. Promote your broadcasts on all your social media channels (e.g., YouTube, Twitter, Instagram, Facebook, Vine and Snapchat) and invite your friends to watch before you go live.
   
-     c. Encourage your viewers to share your broadcast with their friends/followers. YouNow has a feature, where any viewer can share a broadcast in real-time to their Twitter, YouNow and Facebook fans. For more information, [click here](http://blog.younow.com/post/116569575779/new-app-update-seamless-sharing-more).  
+    c. Encourage your viewers to share your broadcast with their friends/followers. YouNow has a feature, where any viewer can share a broadcast in real-time to their Twitter, YouNow and Facebook fans. For more information, [click here](http://blog.younow.com/post/116569575779/new-app-update-seamless-sharing-more).  
 
 15. How long should I broadcast for?
  * We recommend that partners broadcast for at least 30 minutes; many partners broadcast for longer times, but 30 minutes is a good benchmark - since this is a live stream, it takes time for viewers to accumulate and join the broadcast, so very short broadcasts will not enable you to utilize your full viewership potential (viewers who whould love to see you may only see your message indicating that you’re going live when you are 10 minutes into the broadcast). 
@@ -106,13 +115,13 @@ EMBED-VIDEO
 
     b. Man-on-the-street interviews
 
-     c. Concert
+    c. Concert
 
-      d. Shopping
+    d. Shopping
        
-       e. Traveling 
+    e. Traveling 
 
-        f. How you create your Vine/YouTube videos
+    f. How you create your Vine/YouTube videos
 
  * Some content that our YouNow partners focus on includes, but is not limited to:
 
@@ -120,15 +129,15 @@ EMBED-VIDEO
     
     b. Singing/playing an instrument
      
-     c. Leading a Q&A session
+    c. Leading a Q&A session
 
-      d. Interviews with friends
+    d. Interviews with friends
 
-       e. Beauty/fashion tips
+    e. Beauty/fashion tips
         
-        f. Drawing/painting
+    f. Drawing/painting
          
-         g. Playing games (e.g., Hangman, Pictionary)  
+    g. Playing games (e.g., Hangman, Pictionary)  
 
 18. How do I receive a YouNow selfie-stick, t-shirt or other swag?
  * If you would like to receive YouNow swag, please [click here](https://docs.google.com/a/younow.com/forms/d/1C8cIaCyYAvjjTDqSazAK6O8k3snoWBmJZKDvXYz1pv4) to share your address and size.
