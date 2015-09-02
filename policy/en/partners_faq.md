@@ -50,6 +50,8 @@ EMBED-VIDEO
 	crown icon - so you can easily see who your biggest supporters are during your
 	broadcast. 
 
+    ![Bar based gifts](https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/topfans.png)
+
 9. How do I find out who my overall “Top Fans” are - not just for a specific broadcast?
  * To find the list of your overall “Top Fans,” go to your profile page and you’ll see the full list on the bottom right-hand corner; these fans have a crown image next to their name. [Click here](http://blog.younow.com/post/117267922019/what-does-the-crown-symbol-mean) for more information on the “crown” feature.
 
