@@ -42,7 +42,7 @@ EMBED-VIDEO
     
     Tip - directly supporting Partner earnings with 50 to 10,000 bars 
 
-    ![Bar based gifts](https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/gifts.png)
+    ![gifts](https://cloud.githubusercontent.com/assets/7524065/9689304/30550a88-5303-11e5-80e2-e5f27e7b6a1f.png)
 
 4. Can any YouNow broadcaster receive the four bar-based gifts?
  * All YouNow broadcasters can receive the 50-Likes, Fan Mail and the Marriage Proposal. However, only Partners receive bars from the blue tip jar. Additionally, only Partners earn revenue when receiving these four bar-based gifts. 
@@ -59,7 +59,7 @@ EMBED-VIDEO
 8. Where can I find my Top Fans?
  * During a broadcast, the Top Fans are displayed right above the chat; they rotate accordingly depending on the total bars the fan has purchased.
  * When your top fans are interacting in the chat, their names will pop up with a small crown icon - so you can easily see who your biggest supporters are during your broadcast. 
- * ![Bar based gifts](https://raw.githubusercontent.com/YouNow/younow.github.io/master/policy/en/partner_faq/topfans.png)
+ * ![topfans](https://cloud.githubusercontent.com/assets/7524065/9689309/38ab0570-5303-11e5-98ea-ae8d5b0d0432.png)
 
 9. How do I find out who my overall “Top Fans” are - not just for a specific broadcast?
  * To find the list of your overall “Top Fans,” go to your profile page and you’ll see the full list on the bottom right-hand corner; these fans have a crown image next to their name. [Click here](http://blog.younow.com/post/117267922019/what-does-the-crown-symbol-mean) for more information on the “crown” feature.
