@@ -12,9 +12,11 @@ category: EN
 	   Paragraph first linebreak 			<- space space space
 	    Paragraph additional linebreak		<- space space space extraSPACE (yes, this is dumb, but better than installing a CMS)
 	    
+	    *italic text*
 	    **bold text**
+	    ***bold italic text***
 	    [title](link-url)  <- link: /explore/musicians
-	    ![title](image-url)  <- image, must be uploaded somewhere on the internet, full http://www url here
+	    ![title](image-url)  <- image url (http://dskfjad.com/image.jpg), instructions here: https://github.com/YouNow/younow.github.io/issues/1
 -->
 
 ## YouNow Partner Program Tips & FAQs
