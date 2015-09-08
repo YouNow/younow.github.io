@@ -210,13 +210,14 @@ If you are a United States resident, but not a citizenship, please complete a W8
 
 
 -->
- 
+   
   
+    
 Write question like this:
 \1. What are "bars"? \<a name="what-are-bars"\>\</a\>
-
+  
 Link to it like this:
 \[Click here to go up to first question.\]\(#user-content-what-are-bars)
-
+  
 Working example:
 [Click here to go up to first question.](#user-content-what-are-bars)
