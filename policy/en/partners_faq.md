@@ -27,7 +27,7 @@ EMBED-VIDEO
 
 #### General
 
-1. What are "bars"?
+1. What are "bars"? <a id="what-are-bars"></a>
  * Bars are the YouNow currency. Your fans buy bars and use them to purchase premium gifts that help them further engage with broadcasters and stand out from the crowd. 
 
 2. How do I earn money?
@@ -211,4 +211,4 @@ If you are a United States resident, but not a citizenship, please complete a W8
 
 -->
 
-[Anchor link to the second question "How do I earn money?"](#How do I earn money?)
+[Click here to go up to first question.](#what-are-bars)
