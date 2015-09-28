@@ -17,4 +17,4 @@ Nick Bilton
 [NYTimes.com](http://NYTimes.com)
 July 22, 2015
 
-[View full release](http://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.html(http://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.htmlhttp://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.html)
+[View full release](http://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.html)
