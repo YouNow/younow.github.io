@@ -9,12 +9,12 @@ YouNow, founded in New York City in 2011 by CEO Adi Sideman, is a live social ne
 “The new show, which will stream live on YouNow each Wednesday at 6 p.m. Eastern time, is hosted by Jackie Oshry, the Huffington Post’s associate social media editor. Huffington Post has tested eight episodes to date and has already garnered 17,000 fans on YouNow. Initially, the plan was to run each episode for 30 minutes, but test episodes have run closer to an hour, as fans have remained highly engaged throughout the shows, said Ms. Oshry.” 
 
 Mike Shields
-(WSJ.com)[http://WSJ.com]
+[WSJ.com](http://WSJ.com)
 August 18, 2015
 
 **At Vidcon, Small-Screen Stars and Big-Time Fame**
 Nick Bilton
-(NYTimes.com)[http://NYTimes.com]
+[NYTimes.com](http://NYTimes.com)
 July 22, 2015
 
-(View full release)[http://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.html(http://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.htmlhttp://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.html]
+[View full release](http://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.html(http://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.htmlhttp://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.html)
