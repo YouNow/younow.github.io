@@ -1,9 +1,9 @@
-<div class="side">
+'<div class="side">'
   
   Side links
   
-</div>
-<div class="main">
+'</div>
+<div class="main">'
   
   ###About YouNow
   
@@ -24,4 +24,4 @@
   [NYTimes.com](http://NYTimes.com)
   July 22, 2015
 
-</div>
+'</div>'
