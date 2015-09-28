@@ -18,3 +18,12 @@ Nick Bilton
 July 22, 2015
 
 [View full release](http://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.html)
+
+
+##Inquiries
+Contact [Press@YouNow.com](mailto:Press@YouNow.com) for any inquiries
+
+##Press kit
+Download logos and screenshots of YouNow [here](https://younowinc.box.com/s/rs6xq5c51x7z33bcnptnwa80tysuon83).
+
+
