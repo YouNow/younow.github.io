@@ -3,9 +3,7 @@ title: Press
 layout: default
 category: EN
 ---
-[Direct](https://www2-vd.younow.com)
-
-[/Direct](https://www2-vd.younow.com/)
+[Home](https://www2-vd.younow.com)
 
 [Live Profile](https://www2-vd.younow.com/QA1qwwwwwwwwwwwwwwwwwwwww)
 
@@ -17,6 +15,17 @@ category: EN
 
 [Post](https://www2-vd.younow.com/Hungry4Wormssssssssssssss/3365/139/113/p)
 
-[explore](https://www2-vd.younow.com/dj)
+[tag](https://www2-vd.younow.com/explore/dj)
 
 [search](https://www-vd.younow.com/explore/?q=dj)
+
+[explore](https://www2-vd.younow.com/explore)
+
+[Partners](https://www2-vd.younow.com/partners)
+
+[Tracked Profile](https://www2-vd.younow.com/OzanAdiguzel?v=oi3hf33n)
+
+[Tracked Home](https://www2-vd.younow.com?v=h3r43o)
+
+
+
