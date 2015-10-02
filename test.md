@@ -1,8 +1,10 @@
 ---
-title: Press
+title: Links
 layout: default
 category: EN
 ---
+**App Links**
+
 [Home](https://www2-vd.younow.com)
 
 [Live Profile](https://www2-vd.younow.com/QA1qwwwwwwwwwwwwwwwwwwwww)
@@ -11,17 +13,43 @@ category: EN
 
 [Archive Broadcast](https://www2-vd.younow.com/mr.clown/6034274/8/1043/b)
 
-[Profile](https://www2-vd.younow.com/OzanAdiguzel)
+[Offline Profile](https://www2-vd.younow.com/OzanAdiguzel)
 
 [Post](https://www2-vd.younow.com/Hungry4Wormssssssssssssss/3365/139/113/p)
 
-[tag](https://www2-vd.younow.com/explore/dj)
+[Tag](https://www2-vd.younow.com/explore/dj)
 
-[search](https://www-vd.younow.com/explore/?q=dj)
+[Search](https://www-vd.younow.com/explore/?q=dj)
 
-[explore](https://www2-vd.younow.com/explore)
+[Explore](https://www2-vd.younow.com/explore)
 
 [Partners](https://www2-vd.younow.com/partners)
+
+**Static Links**
+
+These links should pass through to Safari (openURL)
+
+[About](https://www2-vd.younow.com/about)
+
+[Jobs](https://www2-vd.younow.com/jobs)
+
+[Press](https://www2-vd.younow.com/press)
+
+[Android](https://www2-vd.younow.com/app/android) / [iPhone](https://www2-vd.younow.com/app/iphone)
+
+**Github Links**
+
+Reformat and open in a webview
+
+/policy/en/rules = http://younow.github.io/policy/en/rules
+
+[Rules](https://www2-vd.younow.com/policy/en/rules)
+
+[Info](https://www2-vd.younow.com/info/en/manycam)
+
+**Tracked Links**
+
+Save the referralCode (v=) as field5 in arrival event
 
 [Tracked Profile](https://www2-vd.younow.com/OzanAdiguzel?v=oi3hf33n)
 
