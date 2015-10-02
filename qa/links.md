@@ -15,4 +15,4 @@ title: Links
 
 [Post](https://www2-vd.younow.com/Hungry4Wormssssssssssssss/3365/139/113/p)
 
-[explore](https://www2-vd.younow.com/?q=dj)
+[explore](https://www2-vd.younow.com/dj)
