@@ -1,7 +1,5 @@
 ---
 title: Links
-layout: default
-category: EN
 ---
 [Direct](https://www2-vd.younow.com)
 
