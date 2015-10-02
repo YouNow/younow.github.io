@@ -19,4 +19,4 @@ category: EN
 
 [explore](https://www2-vd.younow.com/dj)
 
-[Search](https://www-vd.younow.com/explore/?q=dj)
+[search](https://www-vd.younow.com/explore/?q=dj)
