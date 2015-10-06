@@ -5,7 +5,7 @@ category: EN
 ---
 ##About YouNow
 
-YouNow, founded in New York City in 2011 by CEO Adi Sideman, is a live social network that enables audiences and performers to connect in real time and is devoted to the unlimited potential of human creativity. The interactive entertainment platform has over 100 million user sessions a month and live-streams 35,000 hours of video every day. YouNow is committed to creating a community that is a safe place where people can meet, get together and connect. YouNow is backed by Oren's Capital and VC’s Union Square Ventures and Venrock.
+YouNow is a live social network that enables audiences and performers to connect in real time and is devoted to the unlimited potential of human creativity. The interactive platform has more than 100 million user sessions a month and more than 35,000 hours of live video every day. YouNow is committed to creating a safe, welcoming community in which people can meet, get together, and connect. YouNow was founded in 2011 by Adi Sideman and is backed by Oren Zeev and VCs Venrock, Union Square Ventures, and Comcast Ventures. 
 
 
 ##Recent Press
