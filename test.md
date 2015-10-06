@@ -55,7 +55,7 @@ Save the referralCode (v=) as field5 in arrival event
 
 [Tracked Home](https://www2-vd.younow.com?v=h3r43o)
 
-**Tracked Links with UserId**
+**Tracked Links with fromUserId**
 
 Sometimes we will want a tracked link to home or profile, that also includes the fromUserId, so that we can personalize the landing ("Peter invited you, chat with him!"). These look like regular deeplinks, but with 0 for the profile or entityID:
 
