@@ -65,9 +65,9 @@ younow.com/{profile}/0/{fromUserID}/{referralCode} >> Load profile
 
 younow.com/0/0/{fromUserID}/{referralCode} >> Load home
 
-[User Link to Home](https://www2-vd.younow.com?v=h3r43o)
+[User Link to Home](https://www2-vd.younow.com/0/0/34636/h3r43o)
 
-[User Link to Profile](https://www2-vd.younow.com/OzanAdiguzel?v=oi3hf33n)
+[User Link to Profile](https://www2-vd.younow.com/OzanAdiguzel/0/34636/oi3hf33n)
 
 Note: Personalized landings are not yet implemented on mobile, but these links will soon be out in the wild, so it's important to load the right page and correctly save the referral code.
 
