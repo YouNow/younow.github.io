@@ -51,9 +51,9 @@ Reformat and open in a webview
 
 Save the referralCode (v=) as field5 in arrival event
 
-[Tracked Profile](https://www2-vd.younow.com/OzanAdiguzel/0/365546/oi3hf33n)
+[Tracked Profile](https://www2-vd.younow.com/OzanAdiguzel?v=oi3hf33n)
 
-[Tracked Home](https://www2-vd.younow.com/0/0/365546/h3r43o)
+[Tracked Home](https://www2-vd.younow.com?v=h3r43o)
 
 
 
