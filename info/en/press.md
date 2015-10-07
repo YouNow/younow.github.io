@@ -20,16 +20,22 @@ Connie Loizos
 [TechCrunch](http://techcrunch.com/2015/10/05/younow-a-live-social-network-raises-15-million-in-fresh-funding/)  
 October 5, 2015
 
-###"Ordinary People are Making Money from live-streaming
-Jefferson Graham  
-[USA Today](http://www.usatoday.com/story/tech/2015/05/14/teens-flock-to-younow/27321135/)  
-May 15, 2015
 
 ###"Huffington Post Teams Up with Live Streaming Service YouNow on Weekly Show"
 Mike Shields   
 [Wall Street Journal](http://blogs.wsj.com/cmo/2015/08/18/huffington-post-teams-up-with-live-streaming-service-younow-on-weekly-show/)  
 August 18, 2015
- 
+
+###"Make Money as a Webcam Star Without Taking Your Clothes Off"
+Joshua Brustein  
+[Bloomberg Business](http://www.bloomberg.com/news/articles/2015-07-08/make-money-as-a-webcam-star-without-taking-your-clothes-off)  
+July 8, 2015  
+
+###"Ordinary People are Making Money from live-streaming
+Jefferson Graham  
+[USA Today](http://www.usatoday.com/story/tech/2015/05/14/teens-flock-to-younow/27321135/)  
+May 15, 2015
+
  
 
 ##Press Releases
