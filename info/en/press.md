@@ -23,10 +23,10 @@ Nick Bilton
 July 22, 2015  
 
 ##Press Releases
-###Live Video Network YouNow Partners With The Huffington Post On New Show, “HuffPost Now”
-NEW YORK, Aug. 18, 2015/PRNewswire/ -- The Huffington Post is the first major media outlet to partner with the dynamic YouNow platform to reach the teen and millennial audience.  The live entertainment social network that enables anyone to broadcast live to a community of fans is hosting a weekly show called "HuffPost Now," which airs Wednesday at 6pm ET.  Hosted by Jackie Oshry, The Huffington Post's Associate Social Media Editor, the 30+ minute show is authentic to the YouNow environment -- Jackie talks to the camera, to in-person guests, to fans live-chatting on the screen as well as to followers on other platforms.  The show began as a test last month. As of this week, "HuffPost Now" has 17,000 fans.
+###YouNow Secures $15 Million In Financing From Comcast Ventures And Existing Backers
 
-[View full release &raquo;](http://www.prnewswire.com/news-releases/live-video-network-younow-partners-with-the-huffington-post-on-new-show-huffpost-now-300129960.html)
+
+[View full release &raquo;](http://www.prnewswire.com/news-releases/younow-secures-15-million-in-financing-from-comcast-ventures-and-existing-backers-300153842.html)
 
 
 ##Inquiries
@@ -34,6 +34,6 @@ Contact [Press@YouNow.com](mailto:Press@YouNow.com) for any inquiries
 
 
 ##Press kit
-Download logos and screenshots of YouNow [here](https://younowinc.box.com/s/rs6xq5c51x7z33bcnptnwa80tysuon83).
+Download logos and screenshots of YouNow [here](https://younowinc.box.com/s/r24zbpn3sg2etcljqi6eaop53opyj80p).
 
 
