@@ -21,9 +21,9 @@ Connie Loizos
 October 5, 2015
 
 ###"Ordinary People are Making Money from live-streaming
-Jefferson Graham
-[USA Today](http://www.usatoday.com/story/tech/2015/05/14/teens-flock-to-younow/27321135/)
-May 15, 2015ober 5, 2015
+Jefferson Graham 
+[USA Today](http://www.usatoday.com/story/tech/2015/05/14/teens-flock-to-younow/27321135/)  
+May 15, 2015
 
 ###"Huffington Post Teams Up with Live Streaming Service YouNow on Weekly Show"
 Mike Shields   
