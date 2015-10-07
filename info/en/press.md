@@ -31,7 +31,7 @@ Joshua Brustein
 [Bloomberg Business](http://www.bloomberg.com/news/articles/2015-07-08/make-money-as-a-webcam-star-without-taking-your-clothes-off)  
 July 8, 2015  
 
-###"Ordinary People are Making Money from live-streaming
+###"Ordinary People are Making Money from live-streaming"
 Jefferson Graham  
 [USA Today](http://www.usatoday.com/story/tech/2015/05/14/teens-flock-to-younow/27321135/)  
 May 15, 2015
