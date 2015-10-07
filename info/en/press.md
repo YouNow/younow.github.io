@@ -11,13 +11,13 @@ YouNow is a live social network that enables audiences and performers to connect
 ##Recent Press
 
 ###"The revolution will be livestreamed: YouNow’s new brand of digital star"
-Rae Votta
-[Daily Dot](http://www.dailydot.com/entertainment/younow-livestreaming-platform/)
-October 6, 2015
+Rae Votta  
+[Daily Dot](http://www.dailydot.com/entertainment/younow-livestreaming-platform/)  
+October 6, 2015  
 
 ###"YouNow, A 'Live' Social Network, Raises $15 Million in Fresh Funding"
-Connie Loizos
-[TechCrunch](http://techcrunch.com/2015/10/05/younow-a-live-social-network-raises-15-million-in-fresh-funding/)
+Connie Loizos   
+[TechCrunch](http://techcrunch.com/2015/10/05/younow-a-live-social-network-raises-15-million-in-fresh-funding/)  
 October 5, 2015
 
 ###"Huffington Post Teams Up with Live Streaming Service YouNow on Weekly Show"
