@@ -21,13 +21,14 @@ Connie Loizos
 October 5, 2015
 
 ###"Huffington Post Teams Up with Live Streaming Service YouNow on Weekly Show"
-Mike Shields
-[WSJ.com](http://blogs.wsj.com/cmo/2015/08/18/huffington-post-teams-up-with-live-streaming-service-younow-on-weekly-show/)  
-August 18, 2015  
+Mike Shields   
+[Wall Street Journal](http://blogs.wsj.com/cmo/2015/08/18/huffington-post-teams-up-with-live-streaming-service-younow-on-weekly-show/)  
+August 18, 2015
+ 
 
 ###"At Vidcon, Small-Screen Stars and Big-Time Fame"
 Nick Bilton   
-[NYTimes.com](http://www.nytimes.com/2015/07/23/style/at-vidcon-small-screen-stars-and-big-time-fame.html?partner=rss&emc=rss&_r=2)  
+[New York Times](http://www.nytimes.com/2015/07/23/style/at-vidcon-small-screen-stars-and-big-time-fame.html?partner=rss&emc=rss&_r=2)  
 July 22, 2015  
 
 ##Press Releases
