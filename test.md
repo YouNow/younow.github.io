@@ -63,5 +63,8 @@ younow.com/0/0/{fromUserID}/{referralCode} >> Load home
 
 Note: Personalized landings are not yet implemented on mobile, but these links will soon be out in the wild, so it's important to load the right page and correctly save the referral code.
 
+**Old**
+
+[younow://default](younow://default)
 
 
