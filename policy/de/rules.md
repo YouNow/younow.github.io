@@ -40,7 +40,7 @@ Nutzer von YouNow müssen alle anderen Community-Mitglieder mit Respekt behandel
 
 ## Verbot von Drogenkonsum in Livestreams
 
-Die Einnahme von Drogen oder das Zeigen von Drogenutensilien während der Sendungen ist verboten. Konsum von Alkohol und das Rauchen durch unter 18-Jährige sind während der Sendung ebenfalls verboten.
+Die Einnahme von Drogen oder das Zeigen von Drogenutensilien während der Sendungen ist verboten. Konsum von Alkohol durch unter 21-Jährige und das Rauchen durch unter 18-Jährige sind während der Sendung ebenfalls verboten.
 
 ## Beachten des Mindestalters von 13 Jahren für die Mitgliedschaft
 
