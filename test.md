@@ -67,4 +67,6 @@ Note: Personalized landings are not yet implemented on mobile, but these links w
 
 [younow://default](younow://default)
 
+[Adi](https://www.younow.com)
+
 
