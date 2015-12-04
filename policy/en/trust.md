@@ -180,8 +180,8 @@ Trust & Safety at YouNow
 
 1441 Broadway  
 14th Floor  
-New York, NY 10018
-U.S.A.
+New York, NY 10018  
+U.S.A.  
 
 _E-mail Address (best contact to receive immediate response)_
 
