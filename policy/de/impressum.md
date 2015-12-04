@@ -11,7 +11,7 @@ YouNow Inc.
 1441 Broadway  
 14th Floor  
 New York, NY 10018  
-
+U.S.A.
 
 ## Kontakt
 
