@@ -90,9 +90,11 @@ Bitte beachten Sie, dass der Service von YouNow von den Einrichtungen des Untern
 
 Jegliche Ersuchen um Zugang zu Ihren Informationen oder Modifikationen Ihrer Informationen sowie Fragen zu dieser Datenschutzerklärung sind an die folgende E-Mail-Adresse zu richten: [**privacy@younow.com**](mailto:privacy@younow.com).
 
-25 West 36th Street  
-5th Floor  
-New York, NY 10018, USA
+1441 Broadway  
+14th Floor  
+New York, NY 10018  
+U.S.A.  
+
 
 ## Abmeldung
 
