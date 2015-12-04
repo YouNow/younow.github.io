@@ -191,8 +191,11 @@ Das Team für Sicherheitsfragen (Team Trust & Safety) hier bei YouNow ist bestre
 _Post-Adresse_
 
 Trust & Safety at YouNow  
-25 West 36th Street, 11th Floor  
+1441 Broadway  
+14th Floor  
 New York, NY 10018  
+U.S.A.  
+
 
 [Hier](http://www.younow.com/policy/de/impressum) geht es zum [Impressum](http://www.younow.com/policy/de/impressum)
 
