@@ -90,8 +90,8 @@ Please note that the Service is controlled and offered by YouNow from its facili
 
 Any requests for access to your information, modification of your information or questions in respect of this Privacy Policy should be sent to the following email address [privacy@younow.com](mailto:privacy@younow.com).
 
-25 West 36th Street  
-11th Floor  
+1441 Broadway
+14th Floor
 New York, NY 10018, USA
 
 ## Unsubscribing
