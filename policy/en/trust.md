@@ -177,6 +177,7 @@ The Trust & Safety team at YouNow does everything we can to ensure that we respo
 _Mailing Address_
 
 Trust & Safety at YouNow  
+
 1441 Broadway
 14th Floor
 New York, NY 10018  
