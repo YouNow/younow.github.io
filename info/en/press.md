@@ -12,8 +12,9 @@ YouNow is a live social network that enables audiences and performers to connect
 
 ###"Where the millennials are"
 Roker Labs
-[SlideShare] (http://www.slideshare.net/rokerlabs/where-the-millennials-are-the-roker-labsdextro-younow-study-infographic)
-December 3, 2015
+[SlideShare](http://www.slideshare.net/rokerlabs/where-the-millennials-are-the-roker-labsdextro-younow-study-infographic)  
+December 3, 2015  
+Roker Labs
 
 ###"The revolution will be livestreamed: YouNow’s new brand of digital star"
 Rae Votta  
