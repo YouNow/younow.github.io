@@ -114,7 +114,7 @@ YouNow may notify the owner or administrator of the affected Content so that he 
 - A statement from you under the penalty of perjury, that you have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled; and
 - Your name, physical address and telephone number, and a statement that you consent to the jurisdiction of a Federal District Court for the judicial district in which your physical address is located, or if your physical address is outside of the United States, for any judicial district in which YouNow may be found, and that you will accept service of process from the person who provided notification of allegedly infringing material or an agent of such person.
 
-Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by mailing all required documentation to: YouNow, 25 W. 36th Street, 11th Floor New York, NY 10018, ATTN: COPYRIGHT INFRINGEMENT DESIGNATED AGENT or by email to [feedback@younow.com](mailto:feedback@younow.com) with the words "Attn Copyright Infringement Designated Agent" in the subject line.
+Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by mailing all required documentation to: Trust & Safety at YouNow, 1441 Broadway, 14th Floor, New York, NY 10018 ATTN: COPYRIGHT INFRINGEMENT DESIGNATED AGENT or by email to [feedback@younow.com](mailto:feedback@younow.com) with the words "Attn Copyright Infringement Designated Agent" in the subject line.
 
 ## 12. NO WARRANTY
 
