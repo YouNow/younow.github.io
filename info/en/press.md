@@ -15,7 +15,7 @@ Amanda Hess
 [Slate](http://www.slate.com/articles/technology/users/2015/12/younow_a_live_streaming_social_network_is_making_stars.html)  
 December 9, 2015
 
-###"Where the millennials are"
+###"Where the Millennials Are"
 Roker Labs  
 [SlideShare](http://www.slideshare.net/rokerlabs/where-the-millennials-are-the-roker-labsdextro-younow-study-infographic)   
 December 3, 2015  
