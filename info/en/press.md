@@ -10,6 +10,11 @@ YouNow is a live social network that enables audiences and performers to connect
 
 ##Selected Press
 
+###"The Astonishing Power of YouNow"
+Amanda Hess 
+[Slate](http://www.slate.com/articles/technology/users/2015/12/younow_a_live_streaming_social_network_is_making_stars.html)  
+December 9,2015
+
 ###"Where the millennials are"
 Roker Labs  
 [SlideShare](http://www.slideshare.net/rokerlabs/where-the-millennials-are-the-roker-labsdextro-younow-study-infographic)   
