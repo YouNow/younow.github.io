@@ -8,9 +8,9 @@ DEV PROFILE LIVE: [https://www-vpc.younow.com/YounowIsrael](https://www-vpc.youn
 
 DEV PROFILE OFFLINE: [https://www-vpc.younow.com/PS1](https://www-vpc.younow.com/PS1)
 
-DEV PROFILE LIVE: [https://www-vpc.younow.com/YounowIsrael/6038813/755866/974f41/b](https://www-vpc.younow.com/YounowIsrael/6038813/755866/974f41/b)
+DEV BROADCAST LIVE: [https://www-vpc.younow.com/YounowIsrael/6038813/755866/974f41/b](https://www-vpc.younow.com/YounowIsrael/6038813/755866/974f41/b)
 
-DEV PROFILE OFFLINE: [https://www-vpc.younow.com/PS1/6038668/755866/dad716/b/December-8,-2015](https://www-vpc.younow.com/PS1/6038668/755866/dad716/b/December-8,-2015)
+DEV BROADCAST OFFLINE: [https://www-vpc.younow.com/PS1/6038668/755866/dad716/b/December-8,-2015](https://www-vpc.younow.com/PS1/6038668/755866/dad716/b/December-8,-2015)
 
 
 OLD: [younow://default](younow://default)
