@@ -20,7 +20,7 @@ Roker Labs
 [SlideShare](http://www.slideshare.net/rokerlabs/where-the-millennials-are-the-roker-labsdextro-younow-study-infographic)   
 December 3, 2015  
 
-###"The revolution will be livestreamed: YouNow’s new brand of digital star"
+###"The Revolution Will be Livestreamed: YouNow’s New Brand of Digital Star"
 Rae Votta  
 [Daily Dot](http://www.dailydot.com/entertainment/younow-livestreaming-platform/)  
 October 6, 2015  
