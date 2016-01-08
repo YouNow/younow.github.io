@@ -10,6 +10,11 @@ YouNow is a live social network that enables audiences and performers to connect
 
 ##Selected Press
 
+###"How YouNow Is Bringing Musicians and Fans Together — and Changing the Live-Streaming Game"
+Kyle Chayka  
+[Billboard](http://www.billboard.com/articles/business/6836149/younow-music-live-streaming-adi-sideman-hailey-knox)  
+January 8, 2016
+
 ###"The Astonishing Power of YouNow"
 Amanda Hess  
 [Slate](http://www.slate.com/articles/technology/users/2015/12/younow_a_live_streaming_social_network_is_making_stars.html)  
