@@ -190,7 +190,7 @@ EMBED-VIDEO
  * Please complete this [***form***](https://docs.google.com/a/younow.com/forms/d/1N93s5qMbs83MBH9JNzIb4KIF8h0eyDmUF6T5CuUPfjA/viewform?c=0&w=1). 
 
 32. How do I receive a 1099 tax form from YouNow?
- * If you receive payments via PayPal, you can access 1099s [*here*](https://www.paypal.com/us/webapps/helpcenter/helphub/article/?articleID=FAQ919&m=SRE). Otherwise, YouNow will send you a 1099 at the beginning of the year. 
+ * If you receive payments via PayPal, you can access 1099s [*here*](https://www.paypal.com/selfhelp/article/FAQ919/1). Otherwise, YouNow will send you a 1099 at the beginning of the year. 
 
 33. Are taxes withheld when I receive my YouNow Partner payment?
  * Taxes are not withheld.
