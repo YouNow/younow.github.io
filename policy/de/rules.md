@@ -74,4 +74,4 @@ YouNow engagiert sich für den Schutz des Urheberrechts und wird alle Gesetze un
 
 Mehr Informationen finden Sie bei YouNow [hier](http://www.younow.com/policy/de/terms)
 
-Letzte Aktualisierung der Nutzungsregeln: April 2015
+Letzte Aktualisierung der Nutzungsregeln: Januar 2016
