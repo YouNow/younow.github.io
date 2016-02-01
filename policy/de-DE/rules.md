@@ -64,9 +64,9 @@ YouNow verbietet Scherzanrufe an Notrufnummern, Telefonseelsorgen oder andere Hi
 
 Es ist untersagt, den Ablauf eines Chats mit ständigen Wiederholungen zu bombardieren oder in irgendeiner anderen Weise den Verlauf zu stören, zu unterbrechen oder zu erschweren. Darüber hinaus ist es verboten, Links zu pornografischen Seiten, schädlichen Downloads oder anderweitig unangemessenen Inhalten im Chat zu veröffentlichen.
 
-## Es ist untersagt, sich als ein anderer Teilnehmer auszugeben oder mehrfache Konten zu eröffnen.
+## Es ist untersagt, sich als ein anderer Teilnehmer auszugeben.
 
-Es ist Teilnehmern nicht gestattet, Zweitkonten zu eröffnen oder ihren Chatnamen zu ändern, um sich als eine andere Person auszugeben. Sich als jemand anderes auszugeben, ein falsches Profil für eine Organisation anzulegen oder mehrere Konten zu eröffnen, stört die Gemeinschaft und verstößt gegen die Nutzungsregeln von YouNow. Außerdem ist es verboten, mehrere Konten zu benutzen. Alle Konten, die auf einen einzelnen Teilnehmer zurückgeführt werden können, werden permanent von der Seite ausgeschlossen.
+Es ist Teilnehmern nicht gestattet, Zweitkonten zu eröffnen oder Nicknamen bestehender Konten zu ändern, um sich als eine andere Person auszugeben. Sich als jemand anderes auszugeben oder ein falsches Profil für eine Organisation anzulegen, stört die Gemeinschaft und verstößt gegen die Nutzungsregeln von YouNow. Zusätzlich muss das Erstellen und Verwenden von mehreren Profilen gemäß unserer Nutzungsbedingungen erfolgen. Jeder Missbrauch oder unsachgemäße Verwendung eines Zweitkontos kann zu einer dauerhaften Sperrung aller Konten führen.
 
 ## Verstöße gegen das Urheberrecht
 
