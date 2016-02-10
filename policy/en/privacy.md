@@ -101,9 +101,9 @@ USA
 
 *Los Angeles Mailing Address*
 
-YouNow, Inc.
+YouNow, Inc
 P.O. Box 41005 
-Long Beach, CA 90853 
+Long Beach, CA 90853,
 USA
 
 ## Unsubscribing
