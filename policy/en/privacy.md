@@ -94,7 +94,7 @@ Any requests for access to your information, modification of your information or
 
 *New York Mailing Address*
 
-Trust & Safety at YouNow
+Trust & Safety at YouNow   
 1441 Broadway  
 14th Floor  
 New York, NY 10018,  
