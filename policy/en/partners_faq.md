@@ -33,7 +33,7 @@ EMBED-VIDEO
 2. How do I earn money?
  * You earn money during your broadcasts when you receive bars. You receive bars from the four premium gifts (see more details below).
  
-3. What the premium gifts can people buy with bars?
+3. What are the premium gifts can people buy with bars?
  * There are four gifts that users can buy with bars: 
 
    50 Likes: A gift that helps the broadcaster trend 
