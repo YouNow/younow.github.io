@@ -95,20 +95,16 @@ Trust & Safety at YouNow
 *New York Mailing Address*
 
 1441 Broadway  
-
 14th Floor  
-
 New York, NY 10018,  
-
 USA  
 
 *Los Angeles Mailing Address*
 
 YouNow, Inc.
-
 P.O. Box 41005 
-
 Long Beach, CA 90853 
+USA
 
 ## Unsubscribing
 
