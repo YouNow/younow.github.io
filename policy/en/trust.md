@@ -174,13 +174,11 @@ _IP Address_
 
 The Trust & Safety team at YouNow does everything we can to ensure that we respond quickly to law enforcement inquiries. Please contact us via the following:
 
-_Mailing Address_
-
-Trust & Safety at YouNow  
 
 
 *New York Mailing Address*
 
+Trust & Safety at YouNow  
 1441 Broadway  
 14th Floor  
 New York, NY 10018,  
