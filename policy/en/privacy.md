@@ -90,11 +90,21 @@ Please note that the Service is controlled and offered by YouNow from its facili
 
 Any requests for access to your information, modification of your information or questions in respect of this Privacy Policy should be sent to the following email address [privacy@younow.com](mailto:privacy@younow.com).
 
-Trust & Safety at YouNow  
-1441 Broadway  
-14th Floor  
-New York, NY 10018,  
-USA  
+Trust & Safety at YouNow
+
+*New York Mailing Address*
+
+Trust & Safety at YouNow
+1441 Broadway
+14th Floor
+New York, NY 10018
+U.S.A.
+
+*Los Angeles Mailing Address*
+
+YouNow, Inc.
+P.O. Box 41005 
+Long Beach, CA 90853  
 
 
 ## Unsubscribing
