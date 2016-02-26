@@ -61,10 +61,10 @@ May 15, 2015
 [View full release &raquo;](http://www.prnewswire.com/news-releases/live-video-platform-younow-hits-1000-earning-creators-300115324.html)
 
 ##Inquiries
-Contact [Press@YouNow.com](mailto:Press@YouNow.com) for any inquiries
+Contact [Press@YouNow.com](mailto:Press@YouNow.com) for any inquiries.
 
 
 ##Press assets
-Download YouNow logos and other material [here](https://younowinc.box.com/s/r24zbpn3sg2etcljqi6eaop53opyj80p).
+Access YouNow logos [here](https://younowinc.box.com/s/r24zbpn3sg2etcljqi6eaop53opyj80p).
 
 
