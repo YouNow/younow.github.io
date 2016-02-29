@@ -172,7 +172,7 @@ EMBED-VIDEO
  * At any time, you can click on "Payment Settings" and update your payment method and/or details.
 
 32. How do I receive a 1099 tax form from YouNow so I can file my taxes?
- * If you receive payments via PayPal, you can access information about 1099s [*here*](https://www.paypal.com/selfhelp/article/FAQ919/1). 
+ * If you receive payments via PayPal, you can access information about 1099s [*here*](https://www.paypal.com/webapps/mpp/irs6050w). 
  * If you receive payment via wire transfer or ACH, YouNow will send you a 1099 at the beginning of the year - but only if you've earned at least $600 the previous year. 
 
 33. Are taxes withheld when I receive my YouNow Partner payment?
