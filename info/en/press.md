@@ -10,7 +10,7 @@ YouNow is a live social network that enables audiences and performers to connect
 
 ##Selected Press
 
-###["The Most Innovative Companies of 2016"](###["The Astonishing Power of YouNow"](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)
+###["The Most Innovative Companies of 2016"](["The Astonishing Power of YouNow"](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)
 [Fast Company](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)  
 February 2015)
 
