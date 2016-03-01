@@ -10,6 +10,10 @@ YouNow is a live social network that enables audiences and performers to connect
 
 ##Selected Press
 
+###["The Most Innovative Companies of 2016"] (http://www.fastcompany.com/most-innovative-companies/sectors/social-media)
+[Fast Company]
+February 2016
+
 ###["How YouNow Is Bringing Musicians and Fans Together — and Changing the Live-Streaming Game"](http://www.billboard.com/articles/business/6836149/younow-music-live-streaming-adi-sideman-hailey-knox)
 Kyle Chayka  
 [Billboard](http://www.billboard.com/articles/business/6836149/younow-music-live-streaming-adi-sideman-hailey-knox)  
