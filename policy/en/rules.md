@@ -1,9 +1,9 @@
 ---
-title: Site Rules
+title: YouNow Rules
 layout: default
 category: EN
 ---
-YouNow gives people around the world the opportunity to discover and create new kinds of interactive content in real-time, by broadcasting live. In order for YouNow to remain a safe place to meet new people and participate in vibrant discussions, it's important that we establish community standards in an effort to safeguard the wellbeing of our users to the best of our ability. We do our best to keep YouNow safe, but we cannot guarantee it. The following are a list of rules & guidelines, which, if violated, may result in a suspension or permanent ban from YouNow.
+YouNow allows broadcasters and viewers around the world to connect in real time. In order to maintain a safe community, it's important that we establish guidelines. We do our best to keep YouNow safe, but we cannot guarantee it. The following are a list of rules & guidelines, which, if violated, may result in a suspension or permanent ban from YouNow.
 
 Please also be advised that in applicable situations, we reserve the right to report highly suspicious and/or criminal activity to your local authorities.
 
