@@ -20,7 +20,7 @@ Bitte zeige keine sexuellen oder obszönen bzw. andere beleidigende Inhalte. Die
 Wenn Zuschauer dazu aufgerufen werden, andere Streams zu stören oder andere User zu mobben (swatting, trolling, spamming), dann bedeutet das unnötigerweise mehr Arbeit für das Moderatorenteam und das wirft ein schlechtes Bild auf Dich sowie auf YouNow. Bitte verzichte auf solche Aktionen.
 
 ## Bitte gehe angemessen mit Kritik um
-Wenn Du ein Problem mit anderen Nutzern hast, dann thematisiere es nicht. Du hast die Möglichkeit, Nutzer blocken, was es ihnen unmöglich macht, Dein Fan zu werden oder sich den Deinem Chat zu beteiligen bzw. auf Deine Profilseite zu schreiben. Selbstverständlich kannst Du andere Nutzer jederzeit melden (flagging) oder den „Melde einen Nutzer“-Button auf der Webseite nutzen.
+Wenn Du ein Problem mit anderen Nutzern hast, dann thematisiere es nicht in Deinem Stream. Du hast die Möglichkeit, Nutzer blocken, was es ihnen unmöglich macht, Dein Fan zu werden oder sich den Deinem Chat zu beteiligen bzw. auf Deine Profilseite zu schreiben. Selbstverständlich kannst Du andere Nutzer jederzeit melden (flagging) oder den „Melde einen Nutzer“-Button auf der Webseite nutzen.
 
 ## Bitte respektiere das Moderatorenteam
 Das Moderatorenteam arbeitet 24 Stunden an sieben Tagen in der Woche, um YouNow und die Plattform mit Millionen von Nutzern, hunderttausenden Broadcasts (pro Tag!) sicher und sauber zu halten – für alle. 
