@@ -11,12 +11,12 @@ Safety is YouNow's top priority, and we take threats of violence and self-harm v
 
 ## Nudity and/or sexually explicit behavior is not permitted
 
--Users of all genders under the age of 18 must be fully clothed on camera. Any user under the age of 18 without a shirt may be subject to a suspension or permanent ban. Users of all ages may not expose genitalia in any way.
--Encouragement of nudity is prohibited on YouNow. 
--Users are not allowed to:
-  -Use vulgar, profane, or sexually explicit language on camera or in the chat.
-  -Display offensive or sexually explicit images on camera.
-  -Perform sexual or sexually suggestive acts, show sex toys onscreen, or dance in a sexually suggestive manner.
+- Users of all genders under the age of 18 must be fully clothed on camera. Any user under the age of 18 without a shirt may be subject to a suspension or permanent ban. Users of all ages may not expose genitalia in any way.
+- Encouragement of nudity is prohibited on YouNow. 
+- Users are not allowed to:
+  - Use vulgar, profane, or sexually explicit language on camera or in the chat.
+  - Display offensive or sexually explicit images on camera.
+  - Perform sexual or sexually suggestive acts, show sex toys onscreen, or dance in a sexually suggestive manner.
 
 ## Bullying, harassment, or hate speech is not permitted
 
@@ -40,9 +40,9 @@ YouNow does not permit prank calls to emergency authorities or emergency hotline
 
 ## Solicitation or encouragement of rule-breaking is not permitted
 
--Solicitation of sexual or illegal acts is forbidden. Similarly, it is forbidden for users to request sexual images or personal information from other users. 
--Engagement in illegal or inappropriate commercial activities or sales is also strictly forbidden. Such activities include but are not limited to: pyramid schemes, multi-level marketing offers, and homegrown sweepstakes.
--It is forbidden to encourage the violation of community standards either in chat or while broadcasting.
+- Solicitation of sexual or illegal acts is forbidden. Similarly, it is forbidden for users to request sexual images or personal information from other users. 
+- Engagement in illegal or inappropriate commercial activities or sales is also strictly forbidden. Such activities include but are not limited to: pyramid schemes, multi-level marketing offers, and homegrown sweepstakes.
+- It is forbidden to encourage the violation of community standards either in chat or while broadcasting.
 
 
 ## Spam is not permitted
