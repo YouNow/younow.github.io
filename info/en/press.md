@@ -5,14 +5,16 @@ category: EN
 ---
 ##About YouNow
 
-YouNow is a live social network that enables audiences and performers to connect in real time and is devoted to the unlimited potential of human creativity. The interactive platform has more than 100 million user sessions a month and more than 35,000 hours of live video every day. YouNow is committed to creating a safe, welcoming community in which people can meet, get together, and connect. YouNow was founded in 2011 by Adi Sideman and is backed by Oren Zeev and VCs Venrock, Union Square Ventures, and Comcast Ventures. 
+YouNow’s mission is to create a truly interactive platform where anyone can participate and express themselves live. We believe that real-time engagement offers a unique opportunity for authentic social content, and our worldwide community of creators comes together to forge connections, chat, and entertain.
+
+YouNow hosts more than 100 million user sessions a month and 50,000 hours of live video every day. We are committed to fostering a safe, inclusive environment and are backed by Oren Zeev, Venrock, Union Square Ventures, and Comcast Ventures.
 
 
 ##Selected Press
 
 ###["The Most Innovative Companies of 2016"](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)
 [Fast Company](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)  
-February 2015
+February 2016
 
 ###["How YouNow Is Bringing Musicians and Fans Together — and Changing the Live-Streaming Game"](http://www.billboard.com/articles/business/6836149/younow-music-live-streaming-adi-sideman-hailey-knox)
 Kyle Chayka  
