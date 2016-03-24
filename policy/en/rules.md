@@ -51,7 +51,7 @@ It is forbidden to interrupt the flow of chat sessions with the use of repetitiv
 
 ## Impersonation is not permitted
 
-Changing your chat name or creating an account in order to impersonate another YouNow user is forbidden. Claiming to be another person, creating a false presence for an organization, or creating multiple accounts undermines the community and violates YouNow's Terms of Service. Additionally, creating and using multiple profiles on YouNow is prohibited, and all accounts made by a single user are subject to a permanent ban.
+It is forbidden to change your chat name or create a new account in order to impersonate a YouNow user. Claiming to be another person or creating a false presence for an organization undermines the community and violates YouNow's Terms of Use (/policy/en/terms). Additionally, the creation and use of multiple accounts must abide by YouNow's Terms of Use (/policy/en/terms). Any abuse or inappropriate use of one account may result in permanent termination of all accounts.
 
 ## No copyright infringement
 
