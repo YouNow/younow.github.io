@@ -21,6 +21,8 @@ DEV ARCHIVE 0:45
 
 OLD: [younow://default](younow://default)
 
+OLD: [younow://profile/10](younow://profile/10)
+
 WWW: [https://www.younow.com/PS1](https://www.younow.com/PS1)
 
 APP: [https://app.younow.com/PS1](https://app.younow.com/PS1)
