@@ -5,47 +5,45 @@ category: EN
 ---
 ## Our Philosophy
 
-The Trust & Safety team uses a combination of automated systems and manual monitoring to ensure that all members of the YouNow community are kept safe. Guided by our [Community Standards & Site Rules](/policy/en/rules) and [Terms of Service](/policy/en/terms), we continuously monitor YouNow broadcasts to warn, suspend, or ban any users who violate our policies.
+YouNow uses a combination of automated systems and manual monitoring to maintain a safe community on YouNow. Guided by our [Community Standards & Site Rules](/policy/en/rules) and [Terms of Service](/policy/en/terms), we continuously review YouNow broadcasts to warn, suspend, or ban any users who violate our policies.
 
-## Tools To Stay Safe on YouNow
+## Safety Tools
 
 _Blocking a User_
 
-On YouNow, any user can block any other user from contacting him or her. Simply use the drop down menu (on web) or click the user's name (on mobile) of the offending user's profile and find the option to "block".
-
-Blocking a user prohibits that user from chatting in your broadcasts, private messaging you, or posting on your YouNow profile.
+You can block any user from posting on your profile or interacting in your broadcasts. Click or tap on the user’s name, click or tap the red flag icon in his or her mini-profile, and select the “block” option.
 
 _Flagging a User_
 
-Do your part! All users should flag any content that he or she believes violates YouNow's policies, or puts any member of the community at risk.
+Help keep YouNow safe! All users should flag content they believe violates YouNow's policies or puts any member of the community at risk.
 
-When you flag a user, the flag goes to a live moderator in real time who will review the situation and take action immediately as he or she sees fit. Please only flag content that you deem to be inappropriate! Repetitive false flagging on content that is not inappropriate could result in a short suspension.
+When you flag a user, the flag goes to live moderators who will review the situation and take action immediately as they see fit. Please only flag content that you deem inappropriate! Repetitive false flagging could result in a short suspension.
 
 _Contact a Mod_
 
 Use the "[Contact Mod](https://younow.wufoo.com/forms/contact-a-younow-moderator/)" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report to a moderator in real-time.
 
-_Guide for Parents_
+_Report a User_
 
-Are you a parent of a user on YouNow? Feel free to visit our [Guide for Parents](/policy/en/parents) to learn important information regarding your teen using YouNow, and the Internet in general.
+Use the "Report a User" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report.
+
+_Parents' Guide_
+
+Are you a parent of a user on YouNow? Feel free to visit our [Parents' Guide] (/policy/en/parents) to learn important information about YouNow and general social media safety.
 
 ## Underage Users
 
-YouNow users must be at least thirteen years of age. If you are a user who comes in contact with a user who is under the age of thirteen, please make sure to flag the user (reason: "User under 13").
+YouNow users must be at least 13 years of age. If you come across users who are younger than 13, please make sure to flag them.
 
 ## Sexual Content
 
-As per YouNow's official policies, sexually explicit content is not allowed on our service. If you come across an image or broadcast that is explicitly sexual or pornographic in nature, please flag the user immediately so a moderator can review the content and handle the situation accordingly.
+Sexually explicit content is not allowed on YouNow. If you come across an image or broadcast that is explicitly sexual or pornographic in nature, please flag the user immediately so a moderator can review the content and handle the situation accordingly.
 
-Broadcasting, sharing, downloading, or encouraging sexually explicit content of minors can be criminal. Note that we report all instances of child exploitation to the National Center for Missing and Exploited Children. For more information on reporting to NCMEC, [please click here](http://www.missingkids.com/CyberTipline).
+Broadcasting, sharing, downloading, or encouraging sexually explicit content can be criminal. Note that we report all instances of child exploitation to the National Center for Missing and Exploited Children. For more information on reporting to NCMEC, [please click here](http://www.missingkids.com/CyberTipline).
 
 ## Suicide and Self-Harm Prevention
 
-**If you or someone you know is at risk of self-harm or making suicidal threats, seek help immediately.**
-
-Please consult the list of hotline numbers below for immediate help.
-
-If you come across content on YouNow relating to suicide or self-harm, please flag the content immediately so a moderator can handle it appropriately. Note that if a YouNow broadcast is terminated for this reason, the broadcaster will be given self-harm and suicide prevention hotlines to contact for immediate help.
+If you come across content on YouNow relating to suicide or self-harm, please flag the content immediately so a moderator can handle it appropriately. Please also note the following self-harm and suicide prevention hotlines, which offer immediate help.
 
 **Australia:**
 
@@ -135,40 +133,22 @@ If you come across content on YouNow relating to suicide or self-harm, please fl
 
 ## Broadcasting Safety Tips
 
-It's important to maintain your privacy and security while broadcasting live. Below are a few tips we recommend you keep in mind while on YouNow, and on the Internet and social media, in general.
+It's important to maintain your privacy and security while broadcasting live. Below are a few tips we recommend you keep in mind while using YouNow.
 
-- Don't share personal information. We all love YouNow because we can connect with friends from all corners of the world, but sharing personal information publicly (including phone numbers, addresses, email addresses, etc.) can open unwanted communications. We strongly discourage you from sharing this sensitive information online with people you don't know.&nbsp;
-- Don't click unrecognizable links. In the chat, users may share URLs that link to inappropriate or phishing websites. We ask that you flag the users posting such URLs, and make sure not to click them!&nbsp;
-- Don't do anything online that you wouldn't want your parents seeing. YouNow is a public place, like any other. Parents, friends, teachers, or others you know might be watching, and so you should behave accordingly.&nbsp;
-- Remember that everything you do gets recorded. After you end your broadcast, the recorded video lives on your profile for 3 days, or is permanent if it's your most recent broadcast. You do, however, have the ability to remove any video from your profile by navigating to the "broadcasts" tab.&nbsp;
+- Don't share personal information. YouNow allows users to connect with people from all corners of the world, but sharing personal information publicly (including but not limited to phone numbers, home addresses, and email addresses) can open unwanted communication. We strongly discourage you from sharing this sensitive information. 
+- Don't click unrecognizable links. In the chat, users may share URLs that link to inappropriate or phishing websites. We ask that you flag the users posting such URLs and make sure not to click on them! 
+- Remember that YouNow is a public place and behave accordingly.
+- Remember that everything you do gets recorded. After you end your broadcast, the recorded video lives on your profile for three days, and your most recent broadcast is visible until you broadcast again. You do, however, have the ability to remove any video from your profile by navigating to the "broadcasts" tab in your web profile or by tapping “view replays” on your app profile and then swiping left on the broadcast you would like to delete. 
 
 ## Resources
 
-To ensure that you have the best experience possible on YouNow, please familiarize yourself with YouNow's official rules and policies, below.
+To ensure that you have the best experience possible on YouNow, please familiarize yourself with YouNow's community standards and policies, below.
 
 - [YouNow Terms of Use](/policy/en/terms) &nbsp;
 - [YouNow Rules & Community Standards](/policy/en/rules)&nbsp;
 - [YouNow Privacy Policy](/policy/en/privacy)&nbsp;
 
 For further questions regarding any of the above, technical support, or for unbanning requests, please contact the [YouNow Help Desk here](http://support.younow.com).
-
-## Guide for Law Enforcement
-
-The Trust & Safety team at YouNow is dedicated to working with law enforcement to provide information that is in line with our Terms of Use and Privacy Policy. We take the safety and privacy of our users very seriously and work hard to safeguard the wellbeing of our users to the best of our ability.
-
-**User Data Available from YouNow**
-
-_User Profile Information_
-
-- Information provided to us by a user via their social networking login, including E-mail, social network basic info (name/handle, etc.), current YouNow username, device ID for mobile users, date of birth if supplied by social network, and address if provided by the user.&nbsp;
-
-_History_
-
-- We store some information on a user's activity. This information includes chat logs, broadcasts, private messages, a user's "fans," "fans of" that user, and posts made by a user on one's profile. Please note that some of this information is not stored indefinitely, and may expire by the time of request.&nbsp;
-
-_IP Address_
-
-- We collect IP address information but&nbsp;please note that this information is provided by third parties and isn't verified by YouNow.&nbsp;
 
 ## Contact us
 
