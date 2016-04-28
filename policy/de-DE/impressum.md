@@ -22,4 +22,4 @@ E-Mail: support@younow.com
 
 Adi Sideman (CEO)
 
-YouNow Inc. ist Mitglied der [Freiwilligen Selbstkontrolle Multimedia-Diensteanbieter](https://www.fsm.de) (FSM). Bei Beschwerden über jugendschutzrelevante Inhalte auf www.younow.de, benutzen Sie bitte das unter [www.fsm.de/de/beschwerdeformular](www.fsm.de/de/beschwerdeformular) abrufbare Beschwerdeformular der FSM.
+YouNow Inc. ist Mitglied der [Freiwilligen Selbstkontrolle Multimedia-Diensteanbieter](https://www.fsm.de) (FSM). Bei Beschwerden über jugendschutzrelevante Inhalte auf www.younow.de, besuchen Sie bitte unser Support Center [support.younow.com](support.younow.com).
