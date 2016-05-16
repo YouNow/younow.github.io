@@ -12,6 +12,30 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 ##Selected Press
 
+###["Top YouNow Standout Brent Morgan Makes $10,000 Per Month"](http://www.tubefilter.com/2016/05/11/brent-morgan-younow/?mc_cid=2206479add&mc_eid=218209051e)
+[TubeFilter](http://www.tubefilter.com/2016/05/11/brent-morgan-younow/?mc_cid=2206479add&mc_eid=218209051e)  
+May 11, 2016
+
+###["Participatory Live Streaming with YouNow's Adi Sideman"](http://www.techcrunch.com/video/participatory-live-streaming-with-younows-adi-sideman/519622218/)
+[TechCrunch](http://www.techcrunch.com/video/participatory-live-streaming-with-younows-adi-sideman/519622218/)  
+May 10, 2016
+
+###["Get to Know the Top 5 Stars of Live Streaming Platform YouNow"](http://digiday.com/brands/get-know-5-top-influencers-live-streaming-platform-younow/)
+[Digiday](http://digiday.com/brands/get-know-5-top-influencers-live-streaming-platform-younow/)  
+April 19, 2016
+
+###["YouNow is the Latest Platform Publishers Are Using to Reach Young Audiences"](http://digiday.com/publishers/facebook-live-refinery29-huffpost-others-reaching-young-audiences-younow/)
+[Digiday](http://digiday.com/publishers/facebook-live-refinery29-huffpost-others-reaching-young-audiences-younow/)  
+April 13, 2016
+
+###["Howie Mandel to Help Son Find a Potential Girlfriend Online"](http://www.people.com/article/howie-mandel-son-alex-live-stream-dates)
+[People](http://www.people.com/article/howie-mandel-son-alex-live-stream-dates)  
+April 7, 2016
+
+###["Hailee Steinfeld's Two Biggest Fans Covered 'Rock Bottom,' then Got to Hang with Her"](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/)
+[Fast Company](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/)  
+March 3, 2016
+
 ###["The Most Innovative Companies of 2016"](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)
 [Fast Company](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)  
 February 2016
