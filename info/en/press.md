@@ -33,7 +33,7 @@ April 13, 2016
 April 7, 2016
 
 ###["Hailee Steinfeld's Two Biggest Fans Covered 'Rock Bottom,' then Got to Hang with Her"](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/)
-[Fast Company](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/)  
+[MTV](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/)  
 March 3, 2016
 
 ###["The Most Innovative Companies of 2016"](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)
