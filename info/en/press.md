@@ -28,6 +28,10 @@ April 19, 2016
 [Digiday](http://digiday.com/publishers/facebook-live-refinery29-huffpost-others-reaching-young-audiences-younow/)  
 April 13, 2016
 
+###["Shorty Awards Nominees The Merrell Twins on Their Lives as Famous YouTubers"](http://www.people.com/article/merrell-twins-shorty-awards-nominees)
+[People](http://www.people.com/article/merrell-twins-shorty-awards-nominees)  
+April 11, 2016
+
 ###["Howie Mandel to Help Son Find a Potential Girlfriend Online"](http://www.people.com/article/howie-mandel-son-alex-live-stream-dates)
 [People](http://www.people.com/article/howie-mandel-son-alex-live-stream-dates)  
 April 7, 2016
