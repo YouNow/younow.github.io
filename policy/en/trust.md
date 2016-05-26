@@ -19,10 +19,6 @@ Help keep YouNow safe! All users should flag content they believe violates YouNo
 
 When you flag a user, the flag goes to live moderators who will review the situation and take action immediately as they see fit. Please only flag content that you deem inappropriate! Repetitive false flagging could result in a short suspension.
 
-_Report a User_
-
-Use the "Report a User" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report.
-
 _Parents' Guide_
 
 Are you a parent of a user on YouNow? Feel free to visit our [Parents' Guide] (/policy/en/parents) to learn important information about YouNow and general social media safety.
