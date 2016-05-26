@@ -29,10 +29,6 @@ _Flagging eines Users_
 
 Wenn Du einen User flaggst, bekommt ein Live-Moderator eine Nachricht in Echtzeit, welcher dann den Vorfall direkt begutachtet und entsprechende Maßnahmen einleitet, sollte entsprechender Handlungsbedarf bestehen. Bitte flagge nur Inhalte die Du als unangebracht erachtest. Wiederholtes und mutwilliges falsches flaggen von Inhalten kann eine Suspendierung von der Community mit sich bringen.
 
-_Kontaktieren eine Moderators_
-
-Nutze die "Contact Mod" von der YouNow Website um Dein Anliegen direkt einem Moderator mitzuteilen. Dieses Formular gibt Dir die Möglichkeit persönlich mit einem Moderator in Echtzeit zu kommunizieren.
-
 ## Hilfe für Jugendliche in Problemsituationen
 
 Steckst Du in Schwierigkeiten? Die ersten Ansprechpartner sind selbstverständlich Deine Eltern. Solltest Du nicht in der Lage sein, mit Deinen Eltern zu sprechen – vielleicht weil Du nicht mit ihnen darüber reden möchtest – dann kannst Du montags bis samstags zwischen 14 und 20 Uhr die "Nummer gegen Kummer" anrufen 116111.
