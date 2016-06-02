@@ -12,6 +12,10 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 ##Selected Press
 
+###["How YouNow, the Most Accepting Place on the Internet, Keeps Its Community So Damn Nice"](https://mic.com/articles/144671/inside-younow-where-cool-teens-livestream-now#.zGs7zx2SN)
+[Mic](https://mic.com/articles/144671/inside-younow-where-cool-teens-livestream-now#.zGs7zx2SN)  
+May 27, 2016
+
 ###["Top YouNow Standout Brent Morgan Makes $10,000 Per Month"](http://www.tubefilter.com/2016/05/11/brent-morgan-younow/?mc_cid=2206479add&mc_eid=218209051e)
 [TubeFilter](http://www.tubefilter.com/2016/05/11/brent-morgan-younow/?mc_cid=2206479add&mc_eid=218209051e)  
 May 11, 2016
