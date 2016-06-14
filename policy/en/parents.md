@@ -9,7 +9,7 @@ Complete protection from harmful content is never a guarantee. There are, howeve
 
 **The risks of inappropriate content**
 
-Viewing inappropriate content can cause anxiety in children and negatively impact their development. This can include pornographic material, violence, propaganda, racism, and encouragement of self-destructive behavior. If you see such content on YouNow, please report it immediately by using our flagging or “Contact Mod” systems (see [“Trust & Safety”](/policy/en/trust)).
+Viewing inappropriate content can cause anxiety in children and negatively impact their development. This can include pornographic material, violence, propaganda, racism, and encouragement of self-destructive behavior. If you see such content on YouNow, please report it immediately by using our flagging system (see [“Trust & Safety”](/policy/en/trust)).
 
 **Protecting against risk**
 
@@ -60,10 +60,6 @@ On YouNow, users can block any other user from contacting them in broadcasts and
 Do your part! All users should flag any content that violates YouNow's policies or puts any member of the community at risk.
 
 When you flag a user, the flag goes to live moderators who will review the situation and take action as they see fit. Please only flag content that you deem to be inappropriate! 
-
-**Contact a Mod**
-
-Use the "Contact Mod" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report to a moderator in real time.
 
 ## What minors should be aware of on YouNow
 
