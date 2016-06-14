@@ -19,7 +19,7 @@ Do not broadcast sexual or abusive content. This is true also while using other 
 Sending your viewers to bully or “invade” other broadcasters creates unnecessary work for our moderators, reflects poorly on you & YouNow, and is disruptive to other broadcasters. Don't do it.
 
 ## Handling “drama” appropriately.
-If you have an issue with another YouNow user, handle it in an appropriate way. You can block any user, which will prevent them from becoming your fan, participating in your broadcasts, and commenting on your profile. You can also report users by flagging, or using the “Contact Mods” button on the YouNow website.
+If you have an issue with another YouNow user, handle it in an appropriate way. You can block any user, which will prevent them from becoming your fan, participating in your broadcasts, and commenting on your profile. You can also report users by flagging on the YouNow website or app.
 
 ## Respect the moderation team.
 The YouNow moderators work hard 24 hours a day, 7 days a week to keep the YouNow service safe & clean for all users, handling literally millions of users each day, hundreds of thousands of broadcasts, and hundreds of partners. If you receive a warning or message from a moderator, respect it.
