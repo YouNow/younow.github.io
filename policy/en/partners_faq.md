@@ -145,10 +145,10 @@ EMBED-VIDEO
 
 20. How can I get paid? 
  * Click on "Payment Settings" and input your payment details directly on the YouNow website (this is not available via mobile). This link is shown above "Profile".
- * All partners need to earn at least $100 a month to receive payment. If you have not met the $100 threshold, your earnings will be rolled over to the following month. 
+ * All partners need to earn at least $100 a month to receive payment. If you have not met the $75 threshold, your earnings will be rolled over to the following month. 
 
 21. When do I get paid and how often?
- * You’ll be paid once a month at the beginning of every month, if you’ve earned at least $100. You’ll receive an email with your earnings listed from the previous month. For example: In the beginning of February, you’ll receive your earning summary for January. 
+ * You’ll be paid once a month at the beginning of every month, if you’ve earned at least $75. You’ll receive an email with your earnings listed from the previous month. For example: In the beginning of February, you’ll receive your earning summary for January. 
  * Payment is sent during the first 5 to 10 business days of the month. 
 
 
