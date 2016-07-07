@@ -16,6 +16,10 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 [New York Times](https://http://www.nytimes.com/2016/07/05/business/media/young-performers-look-to-apps-for-stardom.html)  
 July 4, 2016
 
+###["YouNow goes beyond the live stream by letting you share interesting moments"](https://techcrunch.com/2016/06/22/younow-goes-beyond-the-live-stream-as-it-now-lets-you-share-interesting-moments/)
+[TechCrunch](https://techcrunch.com/2016/06/22/younow-goes-beyond-the-live-stream-as-it-now-lets-you-share-interesting-moments/)  
+June 22, 2016
+
 ###["How YouNow, the Most Accepting Place on the Internet, Keeps Its Community So Damn Nice"](https://mic.com/articles/144671/inside-younow-where-cool-teens-livestream-now#.zGs7zx2SN)
 [Mic](https://mic.com/articles/144671/inside-younow-where-cool-teens-livestream-now#.zGs7zx2SN)  
 May 27, 2016
