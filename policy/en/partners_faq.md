@@ -31,24 +31,28 @@ EMBED-VIDEO
  * Bars are the YouNow currency. Your fans buy bars and use them to purchase premium gifts that help them further engage with broadcasters and support them. 
 
 2. How do I earn money?
- * You earn money during your broadcasts when you receive bars. You receive bars from the four premium gifts (see more details below).
+ * You earn money during your broadcasts when you receive bars. You receive bars from the six premium gifts (see more details below).
  
 3. What are the premium gifts can people buy with bars?
- * There are four gifts that users can buy with bars: 
+ * There are six gifts that users can buy with bars: 
 
    50 Likes: A gift that helps the broadcaster trend 
 
     Fan Mail: A personalized note viewers send to the broadcaster that is displayed above the chat 
 
-    Marriage Proposal: No commitments here —  — just some fan love!
+    Marriage Proposal: No commitments here — just some fan love!
 
     Tip Jar: Bars that directly support partner earnings
+    
+    Applause: For your fans to show you some love!
+    
+    400 Likes: A gift that helps the broadcaster trend, even faster than the 50 likes! 
 
-    ![gifts](https://cloud.githubusercontent.com/assets/7524065/9689304/30550a88-5303-11e5-80e2-e5f27e7b6a1f.png)
+    ![gifts](https://raw.githubusercontent.com/YouNow/younow.github.io/master/premium_gifts.png)
 
-4. Can any YouNow broadcaster receive the four bar-based gifts?
- * There are four gifts that users can buy with bars 
- * All YouNow broadcasters can receive 50 Likes, Fan Mail and the Marriage Proposal. However, only Partners receive bars from the blue tip jar. Additionally, only Partners earn revenue when receiving these four bar-based gifts. 
+4. Can any YouNow broadcaster receive the six bar-based gifts?
+ * There are six gifts that users can buy with bars 
+ * All YouNow broadcasters can receive 50 Likes, Fan Mail, a Marriage Proposal, Applause, or 400 Likes. However, only Partners receive bars from the blue tip jar. Additionally, only Partners earn revenue when receiving these six bar-based gifts. 
 
 5. How much do I earn from the gifts?
  * At the end of your broadcast, a screen will pop up outlining your estimated earnings. Your total earnings will depend on the number of gifts you’ve received throughout your broadcast. Therefore, the more you engage with your viewers, the more you earn. 
@@ -100,7 +104,7 @@ EMBED-VIDEO
   
     c. Ask your viewers to click the “share” icon during your broadcast. 
 
-15. How long should I broadcast for?
+15. How long should I broadcast?
  * Many partners broadcast between 30 and 60 minutes, as it takes time to build momentum. Of course, feel free broadcast for as long as you’d like. 
 
 16. When is a good time to go live?
@@ -145,7 +149,7 @@ EMBED-VIDEO
 
 20. How can I get paid? 
  * Click on "Payment Settings" and input your payment details directly on the YouNow website (this is not available via mobile). This link is shown above "Profile".
- * All partners need to earn at least $100 a month to receive payment. If you have not met the $75 threshold, your earnings will be rolled over to the following month. 
+ * All partners need to earn at least $75 a month to receive payment. If you have not met the $75 threshold, your earnings will be rolled over to the following month. 
 
 21. When do I get paid and how often?
  * You’ll be paid once a month at the beginning of every month, if you’ve earned at least $75. You’ll receive an email with your earnings listed from the previous month. For example: In the beginning of February, you’ll receive your earning summary for January. 
