@@ -15,6 +15,12 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
  [Tubefilter](http://www.tubefilter.com/2016/07/26/younow-trending-leaderboards-popular-moments/)  
   July 26, 2016
+  
+###["YouNow introduces 'Moments,' lets users share content"](http://www.dailydot.com/upstream/younow-moments-livestream/)
+  
+[The Daily Dot](http://www.dailydot.com/upstream/younow-moments-livestream/)  
+July 6, 2016)
+
 
 ###["Young Performers look to Apps for Stardom"](https://http://www.nytimes.com/2016/07/05/business/media/young-performers-look-to-apps-for-stardom.html)
 [New York Times](https://http://www.nytimes.com/2016/07/05/business/media/young-performers-look-to-apps-for-stardom.html)  
