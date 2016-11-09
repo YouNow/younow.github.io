@@ -127,6 +127,8 @@ May 15, 2015
 ###["YouNow Goes Viral with New "Moments" Feature that Makes Sharing from Live Broadcasts Easier"](http://www.prnewswire.com/news-releases/younow-goes-viral-with-new-moments-feature-that-makes-sharing-from-live-broadcasts-easier-300304100.html)
 [View full release &raquo;](http://www.prnewswire.com/news-releases/younow-goes-viral-with-new-moments-feature-that-makes-sharing-from-live-broadcasts-easier-300304100.html)
 
+###["YouNow Introduces "Moments"; New Way for Users to Engage by Sharing Their Favorite Moments from Live Broadcasts"](http://www.prnewswire.com/news-releases/younow-introduces-moments-new-way-for-users-to-engage-by-sharing-their-favorite-moments-from-live-broadcasts-300288506.html)
+[View full release &raquo;](http://www.prnewswire.com/news-releases/younow-introduces-moments-new-way-for-users-to-engage-by-sharing-their-favorite-moments-from-live-broadcasts-300288506.html)
 
 ###["YouNow Secures $15 Million In Financing From Comcast Ventures And Existing Backers"](http://www.prnewswire.com/news-releases/younow-secures-15-million-in-financing-from-comcast-ventures-and-existing-backers-300153842.html)
 [View full release &raquo;](http://www.prnewswire.com/news-releases/younow-secures-15-million-in-financing-from-comcast-ventures-and-existing-backers-300153842.html)
