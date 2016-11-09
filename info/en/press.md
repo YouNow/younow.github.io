@@ -16,7 +16,7 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 
 [VideoInk](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64)
-October 25, 2016
+ October 25, 2016
 
 
 ###["YouNow Unveils Trending Leaderboards To Highlight Popular ‘Moments’ From Broadcasts"](http://www.tubefilter.com/2016/07/26/younow-trending-leaderboards-popular-moments/) 
@@ -27,7 +27,7 @@ October 25, 2016
 ###["YouNow introduces 'Moments,' lets users share content"](http://www.dailydot.com/upstream/younow-moments-livestream/)
   
 [The Daily Dot](http://www.dailydot.com/upstream/younow-moments-livestream/)  
-July 6, 2016)
+July 6, 2016
 
 
 ###["Young Performers look to Apps for Stardom"](https://http://www.nytimes.com/2016/07/05/business/media/young-performers-look-to-apps-for-stardom.html)
