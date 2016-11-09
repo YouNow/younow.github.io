@@ -130,6 +130,9 @@ May 15, 2015
 ###["YouNow Introduces "Moments"; New Way for Users to Engage by Sharing Their Favorite Moments from Live Broadcasts"](http://www.prnewswire.com/news-releases/younow-introduces-moments-new-way-for-users-to-engage-by-sharing-their-favorite-moments-from-live-broadcasts-300288506.html)
 [View full release &raquo;](http://www.prnewswire.com/news-releases/younow-introduces-moments-new-way-for-users-to-engage-by-sharing-their-favorite-moments-from-live-broadcasts-300288506.html)
 
+###["YouNow Heads Back to VidCon with New Talents Including Breakout Recording Artist Hailey Knox"](http://www.prnewswire.com/news-releases/younow-heads-back-to-vidcon-with-new-talents-including-breakout-recording-artist-hailey-knox-300287732.html)
+[View full release &raquo;](http://www.prnewswire.com/news-releases/younow-heads-back-to-vidcon-with-new-talents-including-breakout-recording-artist-hailey-knox-300287732.html)
+
 ###["YouNow Secures $15 Million In Financing From Comcast Ventures And Existing Backers"](http://www.prnewswire.com/news-releases/younow-secures-15-million-in-financing-from-comcast-ventures-and-existing-backers-300153842.html)
 [View full release &raquo;](http://www.prnewswire.com/news-releases/younow-secures-15-million-in-financing-from-comcast-ventures-and-existing-backers-300153842.html)
 
