@@ -119,8 +119,13 @@ May 15, 2015
 
 ##Press Releases
 
+
 ###["America's Got Talent Teams Up with YouNow to Host The First Live Streamed Open Auditions for the Show's Upcoming Season 12"](http://www.prnewswire.com/news-releases/americas-got-talent-teams-up-with-younow-to-host-the-first-live-streamed-open-auditions-for-the-shows-upcoming-season-12-300350565.html)
 [View full release &raquo;](http://www.prnewswire.com/news-releases/americas-got-talent-teams-up-with-younow-to-host-the-first-live-streamed-open-auditions-for-the-shows-upcoming-season-12-300350565.html)
+
+
+###["YouNow Goes Viral with New "Moments" Feature that Makes Sharing from Live Broadcasts Easier"](http://www.prnewswire.com/news-releases/younow-goes-viral-with-new-moments-feature-that-makes-sharing-from-live-broadcasts-easier-300304100.html)
+[View full release &raquo;](http://www.prnewswire.com/news-releases/younow-goes-viral-with-new-moments-feature-that-makes-sharing-from-live-broadcasts-easier-300304100.html)
 
 
 ###["YouNow Secures $15 Million In Financing From Comcast Ventures And Existing Backers"](http://www.prnewswire.com/news-releases/younow-secures-15-million-in-financing-from-comcast-ventures-and-existing-backers-300153842.html)
