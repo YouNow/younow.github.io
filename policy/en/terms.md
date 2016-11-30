@@ -182,7 +182,10 @@ Platform providers, such as Apple Inc. and Google Inc., that make the App availa
 
 To learn more about how YouNow protects Your personal information, please refer to the YouNow [Privacy Policy](https://www.younow.com/policy/en/privacy), which is incorporated by and made a part of these Terms of Use.
 
-## 16. **DISPUTE RESOLUTION**
+## 16. ASSIGNMENT
+YouNow may assign this Agreement to its successors, licensees, and affiliates.
+
+## 17. **DISPUTE RESOLUTION**
 YOU HEREBY WAIVE ALL RIGHTS TO PURSUE IN A COURT OF LAW ANY ACTION OR PROCEEDING INSTITUTED IN CONNECTION WITH THE SERVICE OR THESE TERMS OF USE.  
 
 In the event of any dispute, controversy, or claim of any kind or nature arising under or in connection with the Terms of Use whether based on contract, tort, statute, fraud, misrepresentation or any other legal or equitable theory, including without limitation disputes as to the creation, validity, interpretation, breach, or termination of the Terms of Use (a “**Dispute**”), the party initiating the Dispute shall give to the other party written notice of the specific subject(s) of the Dispute (the "**Dispute Notice**") and the parties shall meet and negotiate in good faith, in New York, N.Y., in an effort to resolve the Dispute without the necessity of any formal proceeding.  
@@ -201,13 +204,13 @@ The parties agree that any mediation or arbitration proceedings, testimony, or d
 
 Notwithstanding the foregoing, a party may disclose limited information if required in any judicial proceeding brought to enforce these arbitration provisions or any award rendered hereunder.
 
-## 17. **MISCELLANEOUS**
+## 18. **MISCELLANEOUS**
 
 Nothing in the Terms of Use shall be construed to create a partnership, joint venture or agency relationship between You and us.  You may not assign any of Your rights or delegate any of Your duties under the Terms of Use without the prior written consent of YouNow.  YouNow may assign this Agreement and/or any of its rights, and delegate its duties in its discretion.  Any purported assignment which is inconsistent with the foregoing shall be null and void.  The Terms of Use, its interpretation, performance or any breach thereof, shall be construed in accordance with, and all questions with respect thereto shall be determined by, the laws of the state of New York applicable to contracts entered into and wholly to be performed within said state without regard to conflicts of laws.  No waiver of any breach of any provision of the Terms of Use shall constitute a waiver of any prior, concurrent or subsequent breach of the same or any other provisions, and no waiver shall be effective unless made in writing and signed by an authorized representative of the waiving party.  In the event any provision of the Terms of Use shall for any reason be held to be invalid, illegal or unenforceable in any respect, the remaining provisions shall remain in full force and effect.  In resolving any dispute or construing any provision hereunder, there shall be no presumptions made or inferences drawn (i) because the attorneys for one of the parties drafted the agreement; (ii) because of the drafting history of the agreement; or (iii) because of the inclusion of a provision not contained in a prior draft, or the deletion of a provision contained in a prior draft.  All representations, warranties and indemnities contained herein or made by You in connection herewith shall survive any termination, expiration, or suspension of Your rights under the Terms of Use.  Section headings are for convenience only and are not a part of the Terms of Use.  The Terms of Use contain the entire understanding of the parties and cannot be amended except by a writing signed by both parties.  No party hereto has relied on any statement, representation or promise of any other party or with any other officer, agent, employee or attorney for the other party in executing this Agreement except as expressly stated herein.
 
-## 18. **AMENDMENT**
+## 19. **AMENDMENT**
 
 YouNow reserves the right, in its sole discretion, to change, modify, add, or delete portions of the Terms of Use at any time.  When using the Service, You may be subject to additional applicable guidelines or rules that may be posted from time to time. All of these guidelines and rules are deemed incorporated into the Terms of Use.  While we may attempt to notify You when major changes are made to the Terms of Use, it is Your responsibility to review the Terms of Use periodically to check for changes.
 When YouNow makes changes, it will give the date of the most recent update in this space so You can be kept abreast by visiting this page.  YouNow also reserves the right in its sole discretion and at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it), with or without notice.  
 
-(Terms of Use last updated:  May 25th, 2016)
+(Terms of Use last updated: November 30th, 2016)
