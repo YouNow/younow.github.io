@@ -12,11 +12,11 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 ##Selected Press
 
-###["EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow"](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64) 
+["EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow"](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64) 
 
 
-[VideoInk](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64)
- October 25, 2016
+[VideoInk](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64)  
+  October 25, 2016
 
 
 ###["YouNow Unveils Trending Leaderboards To Highlight Popular ‘Moments’ From Broadcasts"](http://www.tubefilter.com/2016/07/26/younow-trending-leaderboards-popular-moments/) 
