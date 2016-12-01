@@ -183,7 +183,7 @@ Platform providers, such as Apple Inc. and Google Inc., that make the App availa
 To learn more about how YouNow protects Your personal information, please refer to the YouNow [Privacy Policy](https://www.younow.com/policy/en/privacy), which is incorporated by and made a part of these Terms of Use.
 
 ## 16. ASSIGNMENT
-YouNow may assign this Agreement to its successors, licensees, and affiliates.
+YouNow may assign this Agreement to its successors, licensees, and affiliates. However, because the subject matter hereof is personal to You and Your Content, you may not assign this Agreement to any person or entity without YouNow’s prior written consent.
 
 ## 17. **DISPUTE RESOLUTION**
 YOU HEREBY WAIVE ALL RIGHTS TO PURSUE IN A COURT OF LAW ANY ACTION OR PROCEEDING INSTITUTED IN CONNECTION WITH THE SERVICE OR THESE TERMS OF USE.  
