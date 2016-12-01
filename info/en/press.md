@@ -10,7 +10,7 @@ YouNow’s mission is to create a truly interactive platform where anyone can pa
 YouNow hosts more than 100 million user sessions a month and 50,000 hours of live video every day. We are committed to fostering a safe, inclusive environment and are backed by Oren Zeev, Venrock, Union Square Ventures, and Comcast Ventures.
 
 
-Selected Press
+##Selected Press
 
 ["EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow"](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64) 
 
