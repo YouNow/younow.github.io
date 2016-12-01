@@ -66,6 +66,13 @@ April 11, 2016
 [People](http://www.people.com/article/howie-mandel-son-alex-live-stream-dates)  
 April 7, 2016
 
+###["The State And Future Of Live Video and the Rise of Real-Time Creators And Audiences"](http://www.forbes.com/sites/briansolis/2016/03/29/the-state-and-future-of-live-video-creators-and-real-time-audiences/#17723bc55884)
+
+
+[Forbes](http://www.forbes.com/sites/briansolis/2016/03/29/the-state-and-future-of-live-video-creators-and-real-time-audiences/#17723bc558844)  
+  March 29, 2016
+
+
 ###["Hailee Steinfeld's Two Biggest Fans Covered 'Rock Bottom,' then Got to Hang with Her"](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/)
 [MTV](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/)  
 March 3, 2016
