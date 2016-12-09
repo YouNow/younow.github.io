@@ -12,6 +12,14 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 ##Selected Press
 
+### ["This is the Place, Instagram, Wattpad and YouNow Aren't Just Apps for Many Teens They're More than That"](http://www.washingtonpost.com/sf/style/2016/12/07/instagram-wattpad-and-younow-arent-just-apps-for-many-teens-theyre-more-than-that/)
+
+
+[Washington Post](http://www.washingtonpost.com/sf/style/2016/12/07/instagram-wattpad-and-younow-arent-just-apps-for-many-teens-theyre-more-than-that/)  
+  December 7, 2016
+
+
+
 ###["EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow"](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64)
 
 
