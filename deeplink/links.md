@@ -13,3 +13,5 @@ category: EN
 [https://r.yozio.com/x7.c.j?yozio_ios_universal_link_redirect_url=https://www.younow.com/Adi](https://r.yozio.com/x7.c.j?yozio_ios_universal_link_redirect_url=https://www.younow.com/Adi)
 
 [http://younow.github.io/deeplink/redirect](http://younow.github.io/deeplink/redirect)
+
+[https://www.airbnb.com/rooms/1236234](https://www.airbnb.com/rooms/1236234)
