@@ -106,9 +106,11 @@ If You choose a Subscription-based service, You hereby grant YouNow permission t
 
 You are required to keep Your billing information current, complete and accurate (for example, if You move, be sure to update Your billing address, if You get a new credit/debit card, make sure You update the card number and/or expiration date) and notify YouNow if Your selected payment method is cancelled (e.g., for loss or theft).
 
-YouNow reserves the right to suspend or terminate Your access to any Subscription-based part of the Service without notice upon rejection of any charges or if the bank or other entity that makes payment on your behalf (or its agent or affiliate) seeks return of payments previously made when YouNow believes Your are liable for the charges. YouNow also reserves the right in its sole discretion to suspend or terminate Your access to any Subscription-based service if You are found, at the sole discretion of YouNow, to be in breach of the Terms of Use, or if You are suspended or banned, for any reason.
+YouNow reserves the right to suspend or terminate Your access to any Subscription-based part of the Service without notice upon rejection of any charges or if the bank or other entity that makes payment on your behalf (or its agent or affiliate) seeks return of payments previously made when YouNow believes Your are liable for the charges. YouNow also reserves the right in its sole discretion to suspend or terminate Your access to any Subscription-based service if You are found, at the sole discretion of YouNow, to be in breach of the Terms of Use, or if You are suspended or banned, for any reason. That being said, You are responsible for canceling your own Subscription(s) if you are banned from the Service.
 
 You may choose not to renew Your Subscription-based part of the Service at any time by selecting the “Cancel Subscription” option under the Subscriptions page or by contacting support@Younow.com. Your cancellation is effective at the end of the current Subscription term.
+
+YouNow reserves the right to change, modify or cancel the Subscription Program as it sees fit. All alterations to the Subscription Program will apply to all participants.
 
 ## 9. **RIGHT TO SHUT DOWN, DENY OR LIMIT ACCESS, REMOVE CONTENT**
 
@@ -213,4 +215,4 @@ Nothing in the Terms of Use shall be construed to create a partnership, joint ve
 YouNow reserves the right, in its sole discretion, to change, modify, add, or delete portions of the Terms of Use at any time.  When using the Service, You may be subject to additional applicable guidelines or rules that may be posted from time to time. All of these guidelines and rules are deemed incorporated into the Terms of Use.  While we may attempt to notify You when major changes are made to the Terms of Use, it is Your responsibility to review the Terms of Use periodically to check for changes.
 When YouNow makes changes, it will give the date of the most recent update in this space so You can be kept abreast by visiting this page.  YouNow also reserves the right in its sole discretion and at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it), with or without notice.  
 
-(Terms of Use last updated: November 30th, 2016)
+(Terms of Use last updated: January 12th, 2017)
