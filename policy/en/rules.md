@@ -24,7 +24,7 @@ Though we encourage YouNow users to express themselves freely, respect for commu
 
 ## Illegal substance use is not permitted onscreen
 
-Onscreen drug consumption and drug paraphernalia is prohibited, as is the consumption of alcohol by users under the age of 21.
+On screen legal drug consumption, drug paraphernalia, smoking, and the consumption of alcohol by users under the age of 21 are prohibited. Any attempt to purchase, promote, abuse, sell, or trade prescription or illegal drugs are not allowed, and the consumption of all illegal drugs is prohibited. Users must comply with applicable laws according to where they reside and carefully consider their audiences with regards to the content they are producing. 
 
 ## You must be at least 13 years old to use YouNow
 
