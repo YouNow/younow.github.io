@@ -12,6 +12,12 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 ##Selected Press
 
+### ["The Future of Music: Playing for $30,000 in Tips"](1490443203?emailToken=JRrydvl%2BZ3iUhtIyacw41UMlK7IUEeKAQ1LRIzXPJ1PNvznJpqevzqMuwtyx5HiqTFxm/9AD6WMkADzKxWMvRNWch6Ju1FijfHUYoZDLlFTXaxyHwBXQJbE%3D)
+
+
+[Wall Street Journal](1490443203?emailToken=JRrydvl%2BZ3iUhtIyacw41UMlK7IUEeKAQ1LRIzXPJ1PNvznJpqevzqMuwtyx5HiqTFxm/9AD6WMkADzKxWMvRNWch6Ju1FijfHUYoZDLlFTXaxyHwBXQJbE%3D)  
+  March 25, 2017
+
 ### ["This is the Place, Instagram, Wattpad and YouNow Aren't Just Apps for Many Teens They're More than That"](http://www.washingtonpost.com/sf/style/2016/12/07/instagram-wattpad-and-younow-arent-just-apps-for-many-teens-theyre-more-than-that/)
 
 
