@@ -13,13 +13,10 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 **Selected Press**
 
 Wall Street Journal
-
-
 [**The Future of Music: Playing for $30,000 in Tips**](https://www.wsj.com/articles/live-streaming-music-to-fans-on-smartphones-is-a-pretty-good-gig-1490443203?emailToken=JRrydvl+Z3SQhtMxa8w41UMlK7IUEeKAQ1LRIzXPJ1PNvznJpqevzqMuwtyx5HiqTFxm/9AD6WMkADzKxWMvRNWch6Ju1FijfHUYoZDLlFTXaxyHwBXQJbE=), March 25, 2017
 
 
 Washington Post
-
 [**"This is the Place, Instagram, Wattpad and YouNow Aren't Just Apps for Many Teens They're More than That,"**](http://www.washingtonpost.com/sf/style/2016/12/07/instagram-wattpad-and-younow-arent-just-apps-for-many-teens-theyre-more-than-that/), December 7, 2016
 
 [**"EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow,"**](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64): VideoInk, October 25, 2016
