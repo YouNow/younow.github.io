@@ -24,63 +24,53 @@ VideoInk
 [**EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow**](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64), October 25, 2016
 
 
+Tubefilter
 ["YouNow Unveils Trending Leaderboards To Highlight Popular ‘Moments’ From Broadcasts"](http://www.tubefilter.com/2016/07/26/younow-trending-leaderboards-popular-moments/) 
 
- [Tubefilter](http://www.tubefilter.com/2016/07/26/younow-trending-leaderboards-popular-moments/)  
-  July 26, 2016
-  
-["YouNow introduces 'Moments,' lets users share content"](http://www.dailydot.com/upstream/younow-moments-livestream/)
-  
-[The Daily Dot](http://www.dailydot.com/upstream/younow-moments-livestream/)  
-July 6, 2016
+
+The Daily Dot
+[YouNow introduces ‘Moments,’ lets users share content](http://www.dailydot.com/upstream/younow-moments-livestream/), July 6, 2016
 
 
-["Young Performers look to Apps for Stardom"](https://http://www.nytimes.com/2016/07/05/business/media/young-performers-look-to-apps-for-stardom.html)
-[New York Times](https://http://www.nytimes.com/2016/07/05/business/media/young-performers-look-to-apps-for-stardom.html)  
-July 4, 2016
-
-["YouNow goes beyond the live stream by letting you share interesting moments"](https://techcrunch.com/2016/06/22/younow-goes-beyond-the-live-stream-as-it-now-lets-you-share-interesting-moments/)
-[TechCrunch](https://techcrunch.com/2016/06/22/younow-goes-beyond-the-live-stream-as-it-now-lets-you-share-interesting-moments/)  
-June 22, 2016
-
-["How YouNow, the Most Accepting Place on the Internet, Keeps Its Community So Damn Nice"](https://mic.com/articles/144671/inside-younow-where-cool-teens-livestream-now#.zGs7zx2SN)
-[Mic](https://mic.com/articles/144671/inside-younow-where-cool-teens-livestream-now#.zGs7zx2SN)  
-May 27, 2016
-
-["Top YouNow Standout Brent Morgan Makes $10,000 Per Month"](http://www.tubefilter.com/2016/05/11/brent-morgan-younow/?mc_cid=2206479add&mc_eid=218209051e)
-[TubeFilter](http://www.tubefilter.com/2016/05/11/brent-morgan-younow/?mc_cid=2206479add&mc_eid=218209051e)  
-May 11, 2016
-
-["Participatory Live Streaming with YouNow's Adi Sideman"](http://www.techcrunch.com/video/participatory-live-streaming-with-younows-adi-sideman/519622218/)
-[TechCrunch](http://www.techcrunch.com/video/participatory-live-streaming-with-younows-adi-sideman/519622218/)  
-May 10, 2016
-
-["Get to Know the Top 5 Stars of Live Streaming Platform YouNow"](http://digiday.com/brands/get-know-5-top-influencers-live-streaming-platform-younow/)
-[Digiday](http://digiday.com/brands/get-know-5-top-influencers-live-streaming-platform-younow/)  
-April 19, 2016
-
-["YouNow is the Latest Platform Publishers Are Using to Reach Young Audiences"](http://digiday.com/publishers/facebook-live-refinery29-huffpost-others-reaching-young-audiences-younow/)
-[Digiday](http://digiday.com/publishers/facebook-live-refinery29-huffpost-others-reaching-young-audiences-younow/)  
-April 13, 2016
-
-["Shorty Awards Nominees The Merrell Twins on Their Lives as Famous YouTubers"](http://www.people.com/article/merrell-twins-shorty-awards-nominees)
-[People](http://www.people.com/article/merrell-twins-shorty-awards-nominees)  
-April 11, 2016
-
-["Howie Mandel to Help Son Find a Potential Girlfriend Online"](http://www.people.com/article/howie-mandel-son-alex-live-stream-dates)
-[People](http://www.people.com/article/howie-mandel-son-alex-live-stream-dates)  
-April 7, 2016
-
-["The State And Future Of Live Video and the Rise of Real-Time Creators And Audiences"](http://www.forbes.com/sites/briansolis/2016/03/29/the-state-and-future-of-live-video-creators-and-real-time-audiences/#17723bc55884)
+New York Times
+[Young Performers look to Apps for Stardom](https://http://www.nytimes.com/2016/07/05/business/media/young-performers-look-to-apps-for-stardom.html), July 4, 2016
 
 
-[Forbes](http://www.forbes.com/sites/briansolis/2016/03/29/the-state-and-future-of-live-video-creators-and-real-time-audiences/#17723bc558844)  
-  March 29, 2016
+TechCrunch
+[YouNow goes beyond the live stream by letting you share interesting moments](https://techcrunch.com/2016/06/22/younow-goes-beyond-the-live-stream-as-it-now-lets-you-share-interesting-moments/), June 22, 2016
 
 
-["Hailee Steinfeld's Two Biggest Fans Covered 'Rock Bottom,' then Got to Hang with Her"](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/)
-[MTV](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/)  
-March 3, 2016
+Mic
+[How YouNow, the Most Accepting Place on the Internet, Keeps Its Community So Damn Nice](https://mic.com/articles/144671/inside-younow-where-cool-teens-livestream-now#.zGs7zx2SN), May 27, 2016
+
+
+TubeFilter
+[Top YouNow Standout Brent Morgan Makes $10,000 Per Month](http://www.tubefilter.com/2016/05/11/brent-morgan-younow/?mc_cid=2206479add&mc_eid=218209051e), May 11, 2016
+
+
+TechCrunch
+[Participatory Live Streaming with YouNow's Adi Sideman](http://www.techcrunch.com/video/participatory-live-streaming-with-younows-adi-sideman/519622218/), May 10, 2016
+
+
+Digiday
+[Get to Know the Top 5 Stars of Live Streaming Platform YouNow](http://digiday.com/brands/get-know-5-top-influencers-live-streaming-platform-younow/), April 19, 2016
+
+[YouNow is the Latest Platform Publishers Are Using to Reach Young Audiences](http://digiday.com/publishers/facebook-live-refinery29-huffpost-others-reaching-young-audiences-younow/), April 13, 2016
+
+
+People
+[Shorty Awards Nominees The Merrell Twins on Their Lives as Famous YouTubers](http://www.people.com/article/merrell-twins-shorty-awards-nominees), April 11, 2016
+
+
+[Howie Mandel to Help Son Find a Potential Girlfriend Online"](http://www.people.com/article/howie-mandel-son-alex-live-stream-dates), April 7, 2016
+
+
+[The State And Future Of Live Video and the Rise of Real-Time Creators And Audiences(http://www.forbes.com/sites/briansolis/2016/03/29/the-state-and-future-of-live-video-creators-and-real-time-audiences/#17723bc55884), March 29, 2016
+
+
+MTV
+[Hailee Steinfeld's Two Biggest Fans Covered 'Rock Bottom,' then Got to Hang with Her](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/), March 3, 2016
+
 
 ["The Most Innovative Companies of 2016"](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)
 [Fast Company](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)  
