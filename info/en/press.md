@@ -18,18 +18,22 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 
 **Washington Post**
+
 [This is the Place, Instagram, Wattpad and YouNow Aren't Just Apps for Many Teens They're More than That](http://www.washingtonpost.com/sf/style/2016/12/07/instagram-wattpad-and-younow-arent-just-apps-for-many-teens-theyre-more-than-that/), December 7, 2016
 
 
 **VideoInk**
+
 [EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64), October 25, 2016
 
 
 **Tubefilter**
+
 [YouNow Unveils Trending Leaderboards To Highlight Popular ‘Moments’ From Broadcasts](http://www.tubefilter.com/2016/07/26/younow-trending-leaderboards-popular-moments/) 
 
 
 **The Daily Dot**
+
 [YouNow introduces ‘Moments,’ lets users share content](http://www.dailydot.com/upstream/younow-moments-livestream/), July 6, 2016
 
 
@@ -38,18 +42,22 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 
 **TechCrunch**
+
 [YouNow goes beyond the live stream by letting you share interesting moments](https://techcrunch.com/2016/06/22/younow-goes-beyond-the-live-stream-as-it-now-lets-you-share-interesting-moments/), June 22, 2016
 
 
 **Mic**
+
 [How YouNow, the Most Accepting Place on the Internet, Keeps Its Community So Damn Nice](https://mic.com/articles/144671/inside-younow-where-cool-teens-livestream-now#.zGs7zx2SN), May 27, 2016
 
 
 **TubeFilter**
+
 [Top YouNow Standout Brent Morgan Makes $10,000 Per Month](http://www.tubefilter.com/2016/05/11/brent-morgan-younow/?mc_cid=2206479add&mc_eid=218209051e), May 11, 2016
 
 
 **TechCrunch**
+
 [Participatory Live Streaming with YouNow's Adi Sideman](http://www.techcrunch.com/video/participatory-live-streaming-with-younows-adi-sideman/519622218/), May 10, 2016
 
 
@@ -60,6 +68,7 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 
 **People**
+
 [Shorty Awards Nominees The Merrell Twins on Their Lives as Famous YouTubers](http://www.people.com/article/merrell-twins-shorty-awards-nominees), April 11, 2016
 
 
@@ -67,27 +76,33 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 
 **Forbes**
+
 [The State And Future Of Live Video and the Rise of Real-Time Creators And Audiences(http://www.forbes.com/sites/briansolis/2016/03/29/the-state-and-future-of-live-video-creators-and-real-time-audiences/#17723bc55884), March 29, 2016
 
 
 **MTV**
+
 [Hailee Steinfeld's Two Biggest Fans Covered 'Rock Bottom,' then Got to Hang with Her](http://www.mtv.com/news/2749180/hailee-steinfeld-fan-cover-rock-bottom/), March 3, 2016
 
 
 **Fast Company**
+
 [The Most Innovative Companies of 2016](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)
 [Fast Company], February 2016
 
 
 **Billboard**
+
 [How YouNow Is Bringing Musicians and Fans Together — and Changing the Live-Streaming Game](http://www.billboard.com/articles/business/6836149/younow-music-live-streaming-adi-sideman-hailey-knox), January 8, 2016
 
 
-Slate
+**Slate**
+
 [The Astonishing Power of YouNow](http://www.slate.com/articles/technology/users/2015/12/younow_a_live_streaming_social_network_is_making_stars.html), December 9, 2015
 
 
 **Roker Labs**
+
 [Where the Millennials Are](http://www.slideshare.net/rokerlabs/where-the-millennials-are-the-roker-labsdextro-younow-study-infographic), December 3, 2015  
 
 
