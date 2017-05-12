@@ -132,34 +132,31 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
  
 
-## Press Releases ##
+## Press Releases 
 
 
-["America's Got Talent Teams Up with YouNow to Host The First Live Streamed Open Auditions for the Show's Upcoming Season 12"](http://www.prnewswire.com/news-releases/americas-got-talent-teams-up-with-younow-to-host-the-first-live-streamed-open-auditions-for-the-shows-upcoming-season-12-300350565.html)
-[View full release &raquo;](http://www.prnewswire.com/news-releases/americas-got-talent-teams-up-with-younow-to-host-the-first-live-streamed-open-auditions-for-the-shows-upcoming-season-12-300350565.html)
+[America's Got Talent Teams Up with YouNow to Host The First Live Streamed Open Auditions for the Show's Upcoming Season 12"](http://www.prnewswire.com/news-releases/americas-got-talent-teams-up-with-younow-to-host-the-first-live-streamed-open-auditions-for-the-shows-upcoming-season-12-300350565.html)
 
 
-["YouNow Goes Viral with New "Moments" Feature that Makes Sharing from Live Broadcasts Easier"](http://www.prnewswire.com/news-releases/younow-goes-viral-with-new-moments-feature-that-makes-sharing-from-live-broadcasts-easier-300304100.html)
-[View full release &raquo;](http://www.prnewswire.com/news-releases/younow-goes-viral-with-new-moments-feature-that-makes-sharing-from-live-broadcasts-easier-300304100.html)
+[YouNow Goes Viral with New "Moments" Feature that Makes Sharing from Live Broadcasts Easier](http://www.prnewswire.com/news-releases/younow-goes-viral-with-new-moments-feature-that-makes-sharing-from-live-broadcasts-easier-300304100.html)
 
-["YouNow Introduces "Moments"; New Way for Users to Engage by Sharing Their Favorite Moments from Live Broadcasts"](http://www.prnewswire.com/news-releases/younow-introduces-moments-new-way-for-users-to-engage-by-sharing-their-favorite-moments-from-live-broadcasts-300288506.html)
-[View full release &raquo;](http://www.prnewswire.com/news-releases/younow-introduces-moments-new-way-for-users-to-engage-by-sharing-their-favorite-moments-from-live-broadcasts-300288506.html)
 
-["YouNow Heads Back to VidCon with New Talents Including Breakout Recording Artist Hailey Knox"](http://www.prnewswire.com/news-releases/younow-heads-back-to-vidcon-with-new-talents-including-breakout-recording-artist-hailey-knox-300287732.html)
-[View full release &raquo;](http://www.prnewswire.com/news-releases/younow-heads-back-to-vidcon-with-new-talents-including-breakout-recording-artist-hailey-knox-300287732.html)
+[YouNow Introduces "Moments"; New Way for Users to Engage by Sharing Their Favorite Moments from Live Broadcasts](http://www.prnewswire.com/news-releases/younow-introduces-moments-new-way-for-users-to-engage-by-sharing-their-favorite-moments-from-live-broadcasts-300288506.html)
 
-["YouNow Secures $15 Million In Financing From Comcast Ventures And Existing Backers"](http://www.prnewswire.com/news-releases/younow-secures-15-million-in-financing-from-comcast-ventures-and-existing-backers-300153842.html)
-[View full release &raquo;](http://www.prnewswire.com/news-releases/younow-secures-15-million-in-financing-from-comcast-ventures-and-existing-backers-300153842.html)
 
-["Live Video Platform YouNow Hits 1,000 Earning Creators"](http://www.prnewswire.com/news-releases/live-video-platform-younow-hits-1000-earning-creators-300115324.html)
-[View full release &raquo;](http://www.prnewswire.com/news-releases/live-video-platform-younow-hits-1000-earning-creators-300115324.html)
+[YouNow Heads Back to VidCon with New Talents Including Breakout Recording Artist Hailey Knox](http://www.prnewswire.com/news-releases/younow-heads-back-to-vidcon-with-new-talents-including-breakout-recording-artist-hailey-knox-300287732.html)
 
-**Inquiries**
+
+[YouNow Secures $15 Million In Financing From Comcast Ventures And Existing Backers](http://www.prnewswire.com/news-releases/younow-secures-15-million-in-financing-from-comcast-ventures-and-existing-backers-300153842.html)
+
+
+[Live Video Platform YouNow Hits 1,000 Earning Creators](http://www.prnewswire.com/news-releases/live-video-platform-younow-hits-1000-earning-creators-300115324.html)
+
+
+## Inquiries & Press Assets 
 
 Contact [Press@YouNow.com](mailto:Press@YouNow.com) for any inquiries.
 
-
-**Press assets**
 
 [Access YouNow logos](https://younowinc.box.com/s/r24zbpn3sg2etcljqi6eaop53opyj80p)
 
