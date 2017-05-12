@@ -10,7 +10,7 @@ YouNow’s mission is to create a truly interactive platform where anyone can pa
 YouNow hosts more than 100 million user sessions a month and 50,000 hours of live video every day. We are committed to fostering a safe, inclusive environment and are backed by Oren Zeev, Venrock, Union Square Ventures, and Comcast Ventures.
 
 
-Selected Press
+**Selected Press**
 
 ["The Future of Music: Playing for $30,000 in Tips"](https://www.wsj.com/articles/live-streaming-music-to-fans-on-smartphones-is-a-pretty-good-gig-1490443203?emailToken=JRrydvl+Z3SQhtMxa8w41UMlK7IUEeKAQ1LRIzXPJ1PNvznJpqevzqMuwtyx5HiqTFxm/9AD6WMkADzKxWMvRNWch6Ju1FijfHUYoZDLlFTXaxyHwBXQJbE=)
 
@@ -138,7 +138,7 @@ May 15, 2015
 
  
 
-Press Releases
+**Press Releases**
 
 
 ["America's Got Talent Teams Up with YouNow to Host The First Live Streamed Open Auditions for the Show's Upcoming Season 12"](http://www.prnewswire.com/news-releases/americas-got-talent-teams-up-with-younow-to-host-the-first-live-streamed-open-auditions-for-the-shows-upcoming-season-12-300350565.html)
@@ -160,11 +160,11 @@ Press Releases
 ["Live Video Platform YouNow Hits 1,000 Earning Creators"](http://www.prnewswire.com/news-releases/live-video-platform-younow-hits-1000-earning-creators-300115324.html)
 [View full release &raquo;](http://www.prnewswire.com/news-releases/live-video-platform-younow-hits-1000-earning-creators-300115324.html)
 
-Inquiries
+**Inquiries**
 Contact [Press@YouNow.com](mailto:Press@YouNow.com) for any inquiries.
 
 
-Press assets
+**Press assets**
 Access YouNow logos [here](https://younowinc.box.com/s/r24zbpn3sg2etcljqi6eaop53opyj80p).
 
 
