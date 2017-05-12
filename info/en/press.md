@@ -26,7 +26,7 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 **Washington Post**
 
-[This is the Place, Instagram, Wattpad and YouNow Aren't Just Apps for Many Teens They're More than That](http://www.washingtonpost.com/sf/style/2016/12/07/instagram-wattpad-and-younow-arent-just-apps-for-many-teens-theyre-more-than-that/), December 7, 2016
+[This is the Place: Instagram, Wattpad and YouNow Aren't Just Apps for Many Teens They're More than That](http://www.washingtonpost.com/sf/style/2016/12/07/instagram-wattpad-and-younow-arent-just-apps-for-many-teens-theyre-more-than-that/), December 7, 2016
 
 
 **VideoInk**
