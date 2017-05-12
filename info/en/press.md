@@ -81,7 +81,7 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 **Forbes**
 
-[The State And Future Of Live Video and the Rise of Real-Time Creators And Audiences(http://www.forbes.com/sites/briansolis/2016/03/29/the-state-and-future-of-live-video-creators-and-real-time-audiences/#17723bc55884), March 29, 2016
+[The State And Future Of Live Video and the Rise of Real-Time Creators And Audiences](http://www.forbes.com/sites/briansolis/2016/03/29/the-state-and-future-of-live-video-creators-and-real-time-audiences/#17723bc55884), March 29, 2016
 
 
 **MTV**
@@ -91,8 +91,7 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 **Fast Company**
 
-[The Most Innovative Companies of 2016](http://www.fastcompany.com/most-innovative-companies/sectors/social-media)
-[Fast Company], February 2016
+[The Most Innovative Companies of 2016](http://www.fastcompany.com/most-innovative-companies/sectors/social-media), February 2016
 
 
 **Billboard**
@@ -116,18 +115,22 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 
 **TechCrunch**
+
 [YouNow, A 'Live' Social Network, Raises $15 Million in Fresh Funding](http://techcrunch.com/2015/10/05/younow-a-live-social-network-raises-15-million-in-fresh-funding/), October 5, 2015
 
 
 **Wall Street Journal**
+
 [Huffington Post Teams Up with Live Streaming Service YouNow on Weekly Show](http://blogs.wsj.com/cmo/2015/08/18/huffington-post-teams-up-with-live-streaming-service-younow-on-weekly-show/), August 18, 2015
 
 
 **Bloomberg Business**
+
 [Make Money as a Webcam Star Without Taking Your Clothes Off](http://www.bloomberg.com/news/articles/2015-07-08/make-money-as-a-webcam-star-without-taking-your-clothes-off), July 8, 2015  
 
 
 **USA Today**
+
 [Ordinary People are Making Money from live-streaming](http://www.usatoday.com/story/tech/2015/05/14/teens-flock-to-younow/27321135/), May 15, 2015
 
  
@@ -135,7 +138,7 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 ## Press Releases 
 
 
-[America's Got Talent Teams Up with YouNow to Host The First Live Streamed Open Auditions for the Show's Upcoming Season 12"](http://www.prnewswire.com/news-releases/americas-got-talent-teams-up-with-younow-to-host-the-first-live-streamed-open-auditions-for-the-shows-upcoming-season-12-300350565.html)
+[America's Got Talent Teams Up with YouNow to Host The First Live Streamed Open Auditions for the Show's Upcoming Season 12](http://www.prnewswire.com/news-releases/americas-got-talent-teams-up-with-younow-to-host-the-first-live-streamed-open-auditions-for-the-shows-upcoming-season-12-300350565.html)
 
 
 [YouNow Goes Viral with New "Moments" Feature that Makes Sharing from Live Broadcasts Easier](http://www.prnewswire.com/news-releases/younow-goes-viral-with-new-moments-feature-that-makes-sharing-from-live-broadcasts-easier-300304100.html)
