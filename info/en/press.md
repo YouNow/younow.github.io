@@ -3,20 +3,20 @@ title: Press
 layout: default
 category: EN
 ---
-14px: **About YouNow**
+**About YouNow**
 
 YouNow’s mission is to create a truly interactive platform where anyone can participate and express themselves live. We believe that real-time engagement offers a unique opportunity for authentic social content, and our worldwide community of creators comes together to forge connections, chat, and entertain.
 
 YouNow hosts more than 100 million user sessions a month and 50,000 hours of live video every day. We are committed to fostering a safe, inclusive environment and are backed by Oren Zeev, Venrock, Union Square Ventures, and Comcast Ventures.
 
 
-## **Selected Press**
+**Selected Press**
 
-[**Wall Street Journal**](https://www.wsj.com/articles/live-streaming-music-to-fans-on-smartphones-is-a-pretty-good-gig-1490443203?emailToken=JRrydvl+Z3SQhtMxa8w41UMlK7IUEeKAQ1LRIzXPJ1PNvznJpqevzqMuwtyx5HiqTFxm/9AD6WMkADzKxWMvRNWch6Ju1FijfHUYoZDLlFTXaxyHwBXQJbE=): "The Future of Music: Playing for $30,000 in Tips," March 25, 2017
+[**"The Future of Music: Playing for $30,000 in Tips,"**](https://www.wsj.com/articles/live-streaming-music-to-fans-on-smartphones-is-a-pretty-good-gig-1490443203?emailToken=JRrydvl+Z3SQhtMxa8w41UMlK7IUEeKAQ1LRIzXPJ1PNvznJpqevzqMuwtyx5HiqTFxm/9AD6WMkADzKxWMvRNWch6Ju1FijfHUYoZDLlFTXaxyHwBXQJbE=): Wall Street Journal, March 25, 2017
 
-[**Washington Post**](http://www.washingtonpost.com/sf/style/2016/12/07/instagram-wattpad-and-younow-arent-just-apps-for-many-teens-theyre-more-than-that/): "This is the Place, Instagram, Wattpad and YouNow Aren't Just Apps for Many Teens They're More than That," December 7, 2016
+[**"This is the Place, Instagram, Wattpad and YouNow Aren't Just Apps for Many Teens They're More than That,"**](http://www.washingtonpost.com/sf/style/2016/12/07/instagram-wattpad-and-younow-arent-just-apps-for-many-teens-theyre-more-than-that/): Washington Post, December 7, 2016
 
-[**VideoInk**](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64): "EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow," October 25, 2016
+[**"EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow,"**](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64): VideoInk, October 25, 2016
 
 
 ["YouNow Unveils Trending Leaderboards To Highlight Popular ‘Moments’ From Broadcasts"](http://www.tubefilter.com/2016/07/26/younow-trending-leaderboards-popular-moments/) 
