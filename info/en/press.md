@@ -19,7 +19,9 @@ Wall Street Journal
 Washington Post
 [**"This is the Place, Instagram, Wattpad and YouNow Aren't Just Apps for Many Teens They're More than That,"**](http://www.washingtonpost.com/sf/style/2016/12/07/instagram-wattpad-and-younow-arent-just-apps-for-many-teens-theyre-more-than-that/), December 7, 2016
 
-[**"EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow,"**](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64): VideoInk, October 25, 2016
+
+VideoInk
+[**EXCLUSIVE: FremantleMedia Renews “America’s Got Talent” Deal with YouNow**](https://thevideoink.com/exclusive-fremantle-renew-americas-got-talent-deal-with-younow-4f0e83546a62#.mgy96yj64), October 25, 2016
 
 
 ["YouNow Unveils Trending Leaderboards To Highlight Popular ‘Moments’ From Broadcasts"](http://www.tubefilter.com/2016/07/26/younow-trending-leaderboards-popular-moments/) 
