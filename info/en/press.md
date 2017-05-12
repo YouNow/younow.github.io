@@ -40,6 +40,7 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 
 **New York Times**
+
 [Young Performers look to Apps for Stardom](https://http://www.nytimes.com/2016/07/05/business/media/young-performers-look-to-apps-for-stardom.html), July 4, 2016
 
 
@@ -64,6 +65,7 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 
 **Digiday**
+
 [Get to Know the Top 5 Stars of Live Streaming Platform YouNow](http://digiday.com/brands/get-know-5-top-influencers-live-streaming-platform-younow/), April 19, 2016
 
 [YouNow is the Latest Platform Publishers Are Using to Reach Young Audiences](http://digiday.com/publishers/facebook-live-refinery29-huffpost-others-reaching-young-audiences-younow/), April 13, 2016
@@ -108,35 +110,29 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 [Where the Millennials Are](http://www.slideshare.net/rokerlabs/where-the-millennials-are-the-roker-labsdextro-younow-study-infographic), December 3, 2015  
 
 
-["The Revolution Will be Livestreamed: YouNow’s New Brand of Digital Star"](http://www.dailydot.com/entertainment/younow-livestreaming-platform/)
-Rae Votta  
-[Daily Dot](http://www.dailydot.com/entertainment/younow-livestreaming-platform/)  
-October 6, 2015  
+**Daily Dot**
 
-["YouNow, A 'Live' Social Network, Raises $15 Million in Fresh Funding"](http://techcrunch.com/2015/10/05/younow-a-live-social-network-raises-15-million-in-fresh-funding/)
-Connie Loizos   
-[TechCrunch](http://techcrunch.com/2015/10/05/younow-a-live-social-network-raises-15-million-in-fresh-funding/)  
-October 5, 2015
+["The Revolution Will be Livestreamed: YouNow’s New Brand of Digital Star"](http://www.dailydot.com/entertainment/younow-livestreaming-platform/), October 6, 2015  
 
 
-["Huffington Post Teams Up with Live Streaming Service YouNow on Weekly Show"](http://blogs.wsj.com/cmo/2015/08/18/huffington-post-teams-up-with-live-streaming-service-younow-on-weekly-show/)
-Mike Shields   
-[Wall Street Journal](http://blogs.wsj.com/cmo/2015/08/18/huffington-post-teams-up-with-live-streaming-service-younow-on-weekly-show/)  
-August 18, 2015
+**TechCrunch**
+[YouNow, A 'Live' Social Network, Raises $15 Million in Fresh Funding](http://techcrunch.com/2015/10/05/younow-a-live-social-network-raises-15-million-in-fresh-funding/), October 5, 2015
 
-["Make Money as a Webcam Star Without Taking Your Clothes Off"](http://www.bloomberg.com/news/articles/2015-07-08/make-money-as-a-webcam-star-without-taking-your-clothes-off)
-Joshua Brustein  
-[Bloomberg Business](http://www.bloomberg.com/news/articles/2015-07-08/make-money-as-a-webcam-star-without-taking-your-clothes-off)  
-July 8, 2015  
 
-["Ordinary People are Making Money from live-streaming"](http://www.usatoday.com/story/tech/2015/05/14/teens-flock-to-younow/27321135/)
-Jefferson Graham  
-[USA Today](http://www.usatoday.com/story/tech/2015/05/14/teens-flock-to-younow/27321135/)  
-May 15, 2015
+**Wall Street Journal**
+[Huffington Post Teams Up with Live Streaming Service YouNow on Weekly Show](http://blogs.wsj.com/cmo/2015/08/18/huffington-post-teams-up-with-live-streaming-service-younow-on-weekly-show/), August 18, 2015
+
+
+**Bloomberg Business**
+[Make Money as a Webcam Star Without Taking Your Clothes Off](http://www.bloomberg.com/news/articles/2015-07-08/make-money-as-a-webcam-star-without-taking-your-clothes-off), July 8, 2015  
+
+
+**USA Today**
+[Ordinary People are Making Money from live-streaming](http://www.usatoday.com/story/tech/2015/05/14/teens-flock-to-younow/27321135/), May 15, 2015
 
  
 
-**Press Releases**
+## Press Releases ##
 
 
 ["America's Got Talent Teams Up with YouNow to Host The First Live Streamed Open Auditions for the Show's Upcoming Season 12"](http://www.prnewswire.com/news-releases/americas-got-talent-teams-up-with-younow-to-host-the-first-live-streamed-open-auditions-for-the-shows-upcoming-season-12-300350565.html)
