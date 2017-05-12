@@ -3,7 +3,7 @@ title: Press
 layout: default
 category: EN
 ---
-About YouNow
+# About YouNow
 
 YouNow’s mission is to create a truly interactive platform where anyone can participate and express themselves live. We believe that real-time engagement offers a unique opportunity for authentic social content, and our worldwide community of creators comes together to forge connections, chat, and entertain.
 
