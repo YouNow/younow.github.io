@@ -96,7 +96,7 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 **Fast Company**
 
-[The Most Innovative Companies of 2016](http://www.fastcompany.com/most-innovative-companies/sectors/social-media), February 2016
+[The Most Innovative Companies of 2016](https://www.fastcompany.com/most-innovative-companies/2016/sectors/social-media), February 2016
 
 
 **Billboard**
