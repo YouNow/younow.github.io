@@ -33,7 +33,6 @@ b) Kontaktrisiken:
 - Halten Sie sich selbst stets auf dem Laufenden, um auch ein kompetenter Ansprechpartner für Ihr Kind zu sein.
 - Sprechen Sie mit Ihrem Kind über seine Internetnutzung und wie es das Gesehene erlebt hat.
 - Erklären Sie Ihrem Kind, dass Sie es nicht kontrollieren oder bevormunden, sondern sich mit ihm über seine Internetnutzung verständigen wollen.
-- Bereiten Sie Ihr Kind auf mögliche Probleme im Internet vor. Besonders die Weitergabe von persönlichen Daten sollte vermieden werden. Melden Sie problematische, jugendschutzrelevante Inhalte an eine [Beschwerdestelle](http://www.fsm.de/beschwerdestelle/inhalte-melden) z.B. über das Beschwerdeformular der FSM oder über [www.internet-beschwerdestelle.de](www.internet-beschwerdestelle.de).
 
 
 ## Was ist YouNow?
