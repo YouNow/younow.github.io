@@ -56,8 +56,8 @@ For YouNow users who are EU residents, should you provide “special categories 
 Information you voluntarily transmit via our Services is publicly accessible and may be viewed and used by others without any restrictions. We do not control such uses of your personally identifiable information, and by using our Services, you assume the risk and acknowledge that the personal data provided by you may be viewed and used by third parties and by us for any number of purposes.
 
 Your user profile and most of the content you create when using our Services, such as your broadcasts, moments, chats, posts, as well as your fanning and gifting activity is publicly displayed to other YouNow users. Through your Privacy Settings, you can choose to hide your location and the number of fans you have. Most of the data that YouNow collects about your YouNow activity (“metadata”) is not publicly available.
-W
-hen you stream live video content or interact with the video streams in real time, this data is available to other YouNow users in real time. Some metadata, such as number of likes or views, may also be published, however, most of the metadata that YouNow collects is not publicly available.
+
+When you stream live video content or interact with the video streams in real time, this data is available to other YouNow users in real time. Some metadata, such as number of likes or views, may also be published, however, most of the metadata that YouNow collects is not publicly available.
 
 ## **HOW WE USE PERSONAL DATA**
 YouNow uses personal data responsibly in order to ensure we are meeting your expectations of our Services, responding to you when you contact us and providing a safe space for YouNow users.
@@ -139,3 +139,4 @@ We may change this Privacy Policy from time to time in order to better reflect o
 Any material change to this Privacy Policy will be clearly displayed on our Website and App. Personal data collected by us will be dealt with in accordance with the provisions of our Privacy Policy which were in effect at the time of collection. If at any time in the future we plan to share personal data with more third parties, we will maintain GDPR compliance and a high standard of care for your personal data. Your continued use of our Services following the posting of any changes to this Privacy Policy means you accept such changes. Should you not agree, you should no longer use our Services and go to your Privacy Settings to terminate your account.
 
 Privacy Policy last updated: May 23rd, 2018
+
