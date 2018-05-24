@@ -63,13 +63,14 @@ When you stream live video content or interact with the video streams in real ti
 YouNow uses personal data responsibly in order to ensure we are meeting your expectations of our Services, responding to you when you contact us and providing a safe space for YouNow users.
 
 We may use the personal data provided to us to:
-•	Contact you from time to time with critical information about service updates, technical issues or other information important for our Services, or to provide you with the support you are requesting, for example, if clarification is needed when you report another YouNow user;
-•	Receive feedback from you and inquire about any features you would like to see in future products. We may also message you through the App to promote new products or services that you may be interested in (or contact you by e-mail with your explicit consent);
-•	Customize, measure and improve our Services and content;
-•	Analyze our user database to review preferences and trends for our own internal statistical and analytical purposes, which we may use for marketing purposes and with respect to operations and development;
-•	Confirm the accuracy of our data with the data held by third parties;
-•	Prevent activity we determine to be potentially illegal, harmful or not in the public interest; and
-•	Enforce this Privacy Policy and/or our Terms of Use.
+
+- Contact you from time to time with critical information about service updates, technical issues or other information important for our Services, or to provide you with the support you are requesting, for example, if clarification is needed when you report another YouNow user;
+- Receive feedback from you and inquire about any features you would like to see in future products. We may also message you through the App to promote new products or services that you may be interested in (or contact you by e-mail with your explicit consent);
+- Customize, measure and improve our Services and content;
+- Analyze our user database to review preferences and trends for our own internal statistical and analytical purposes, which we may use for marketing purposes and with respect to operations and development;
+- Confirm the accuracy of our data with the data held by third parties;
+- Prevent activity we determine to be potentially illegal, harmful or not in the public interest; and
+- Enforce this Privacy Policy and/or our Terms of Use.
 
 ## **DISCLOSURE OF PERSONAL DATA**
 Although YouNow makes every effort to preserve user privacy, we may need to disclose personal data, in response to a subpoena, regulatory investigation or court order, to law enforcement authorities or regulators who have demonstrated their lawful authority. We may also disclose personal data for the public interest or in good faith to prevent harm to individuals. Keep in mind we also share personal data with trusted third parties in order to effectively provide our Services to users.
