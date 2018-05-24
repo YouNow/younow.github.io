@@ -96,9 +96,9 @@ Here are some examples of the data security controls in place at YouNow (this is
 ## **COOKIES AND OTHER TRACKING MECHANISMS**
 A cookie will be used here to mean a Web cookie, being a small text file stored on your computer hard drive, or a token or “mobile cookie” placed in the YouNow app’s local storage, in order to tailor the environment based on the user’s preferences and track the user’s behavior. 
 
-Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. You should be aware that if you elect not to accept cookies, some parts of our Services may not function properly or permit access.YouNow uses the following types of cookies for the purposes set out below.
+Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. You should be aware that if you elect not to accept cookies, some parts of our Services may not function properly or permit access.
 
-**TYPE OF COOKIES**
+YouNow uses the following types of cookies for the purposes set out below.
 
 **Essential Cookies:** These cookies are essential to provide you with our Services. For example, they allow you to log in to our Website or App and help the content of the pages you request load quickly. We only use these cookies to provide you with those services.
 
