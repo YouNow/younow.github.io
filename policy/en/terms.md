@@ -11,7 +11,7 @@ These YouNow Terms of Use as they may be subsequently amended  (“**Terms of Us
 **This is a legally binding agreement between YouNow and You.**
 
 *	**Use of the Service for any purpose that is unlawful or prohibited by the Terms of Use is prohibited.**
-*	By accepting these Terms You confirm that You are at least 13 years of age.  YouNow is not intended for anyone under the age of 13.
+*	By accepting these Terms You confirm that You are at least 13 years of age.  YouNow is not intended for anyone under the age of 13. You may reside in a country where local laws fix the digital age of consent to be older than 13. You may only use YouNow if you have reached this age of consent, in accordance with applicable local laws.
 *	By accepting these Terms You also confirm that You are either 18 years of age or older, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in the Terms of Use, and to abide by and comply with the Terms of Use. 
 
 By using the Service, You acknowledge and agree that You are subject to the Terms of Use, including our Privacy Policy, which is incorporated by and made a part of the Terms of Use.  **If You do not accept the Terms of Use You may not use the Service.**
