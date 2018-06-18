@@ -3,24 +3,31 @@ title: Community Standards
 layout: default
 category: EN
 ---
-YouNow is committed to maintaining a safe, inclusive community. The following standards have been established toward that end and are applicable to all YouNow users. Violation of these standards may result in account suspension or a permanent ban. 
+YouNow is committed to maintaining a safe, inclusive community. The following standards have been established toward that end and are applicable to all YouNow users. Violation of these standards may result in account suspension or a permanent ban. To protect the integrity of the community, as the provider of the service, YouNow reserves the right to suspend or remove any account at any time for any conduct that is determined to be inappropriate or harmful.
 
-## Violent behavior and/or self-harm is not permitted
+## Violent behavior and/or self-harm is not permitted.
 
-Safety is YouNow's top priority, and we take threats of violence and self-harm very seriously. We may ban users whose content breaches these terms and may also report it to law enforcement if we perceive a genuine risk of physical harm or a direct threat to public safety. Similarly, we prohibit threats. We encourage any user considering self-harm to seek help. The 24-hour National Suicide Prevention Lifeline can be reached at 1-800-273-8255.
+Safety is YouNow's top priority, and we take threats of violence and self-harm very seriously. We may ban users whose content breaches these terms and may also report it to law enforcement if we perceive a genuine risk of physical harm or a direct threat to public safety. This includes attempts or threats to hack, DDOS, or SWAT others. Similarly, we strictly prohibit threats and threats to self harm. We encourage any user considering self-harm to seek help. The 24-hour National Suicide Prevention Lifeline can be reached at 1-800-273-8255.
 
-## Nudity and/or sexually explicit behavior is not permitted
+## No sexually explicit content, nudity or abusive behavior.
 
-- Users of all genders under the age of 18 must be fully clothed on camera. Any user under the age of 18 without a shirt may be subject to a suspension or permanent ban. Users of all ages may not expose genitalia in any way.
-- Encouragement of nudity is prohibited on YouNow. 
-- Users are not allowed to:
-  - Use vulgar, profane, or sexually explicit language on camera or in the chat.
-  - Display offensive or sexually explicit images on camera.
-  - Perform sexual or sexually suggestive acts, show sex toys onscreen, or dance in a sexually suggestive manner.
+**Vulgar language** used on broadcast and in chat is against the rules. **Cursing out other users isn’t just unprofessional, it is abusive.** 
+
+**Sexual dancing is not OK.** Are you a great dancer? Awesome. Entertain your audience. But please avoid sexually suggestive moves, such as grinding, twerking, or mimicking sex. If you aren’t sure, err on the side of caution.
+
+**Do not broadcast sexual content or nudity.** This includes content displayed in other apps during your broadcasts (including Parlor, PartyLine, Basechat, Omegle or other apps used for chat). Remember that you are a community leader and example to others.
+Encouragement of nudity or sexual conduct is prohibited on YouNow.
+
+Users are not allowed to:
+- Use vulgar, profane, or sexually explicit language on camera or in the chat.
+- Display offensive or sexually explicit images on camera.
+- Perform sexual or sexually suggestive acts, show sex toys onscreen, or dance in a sexually suggestive manner.
+
+**Stricter rules for those under 18.** Users of all genders under the age of 18 must be fully clothed on camera. Any user under the age of 18 without a shirt may be subject to a suspension or permanent ban. This means no underwear, lingerie, or revealing tops/shorts. Users of all ages may not expose genitalia in any way.
 
 ## Bullying, harassment, or hate speech is not permitted
 
-Though we encourage YouNow users to express themselves freely, respect for community members is paramount. Users who taunt, bully, use hate speech, or engage in any other form of harassment risk being suspended or permanently banned. Be nice to each other!
+Though we encourage YouNow users to express themselves freely within the community guidelines, upholding respect for all community members is paramount. Users who taunt, bully, use hate speech, or engage in any other form of harassment risk being suspended or permanently banned. Remember the Golden Rule, and always be kind!
 
 ## Illegal substance use is not permitted onscreen
 
@@ -30,9 +37,9 @@ On screen legal drug consumption, drug paraphernalia, smoking, and the consumpti
 
 YouNow is intended for individuals ages 13 and older. If we become aware of an account that belongs to an individual under 13, that account will be terminated. Users who are older than 13 may have guests on camera who are under 13, but underage guests may not appear alone on broadcast.
 
-## Revealing private contact information is not permitted
+## Revealing private contact information is not permitted.
 
-Revealing an individual's personal information, including email addresses, phone numbers, and home addresses, is forbidden. We also strongly recommend that you keep your personal information private.
+Revealing an individual's personal information, including email addresses, real names, location, ID, phone numbers, home addresses, and others, is forbidden. We also **strongly** recommend that you keep your personal information private.
 
 ## Prank calls to emergency authorities or hotlines is not permitted
 
@@ -43,7 +50,7 @@ YouNow does not permit prank calls to emergency authorities or emergency hotline
 - Solicitation of sexual or illegal acts is forbidden. Similarly, it is forbidden for users to request sexual images or personal information from other users. 
 - Engagement in illegal or inappropriate commercial activities or sales is also strictly forbidden. Such activities include but are not limited to: pyramid schemes, multi-level marketing offers, and homegrown sweepstakes.
 - It is forbidden to encourage the violation of community standards either in chat or while broadcasting.
-
+- Encouraging viewers to harass, spam, or report another user is completely unacceptable. It’s unfair to them and constitutes harassment on your part, for which consequences may include suspension or banning. Be a responsible community member and encourage users to be positive.
 
 ## Spam is not permitted
 
@@ -59,8 +66,16 @@ YouNow is committed to protecting the rights of copyright holders and seeks to c
 
 For more information, read YouNow's Terms of Use [here](/policy/en/terms).
 
+## Respect the moderation team & company staff.
+The YouNow moderators work hard 24 hours a day, 7 days a week to keep YouNow safe & clean for all users. The moderation team handles millions of users, hundreds of thousands of broadcasts, and hundreds of partners each day. If you receive a warning or message from a moderator, please respect it. If you believe a moderator has made a mistake or behaved inappropriately, please contact us at support@younow.com for any feedback about other company policies, as well as safety issues or concerns.
+
+## Contact authorities for emergencies.
+If you believe an offense to be unlawful, or experience illegal activities while on the YouNow service, please file a formal complaint with your local authorities. We are happy to work with law enforcement on their open investigations in any way that we can. If you have further questions or concerns, please let us know at support@younow.com.
+
 Please be advised that in applicable situations, YouNow reserves the right to report suspicious and/or criminal activity to local authorities.
 
-For more information on safety, please read YouNow’s [Trust & Safety hub] (/policy/en/trust), as well as [YouNow’s Guide for Parents] (/policy/en/parents).
+For more information on safety, please read YouNow’s [Trust & Safety hub] (/policy/en/trust), as well as [YouNow’s Guide for Parents] (/policy/en/parents). 
 
-Site Rules last updated: March 2016
+*If you have any questions regarding these Guidelines or the YouNow Rules in general, please feel free to contact support@younow.com. We value your opinion and are happy to receive your feedback.
+
+Site Rules last updated: June 2018
