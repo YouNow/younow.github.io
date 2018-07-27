@@ -32,6 +32,7 @@ PLEASE NOTE THAT SECTION 15 OF THESE TERMS OF USE CONTAINS AN ARBITRATION AGREEM
 **Welcome to the Service.**
 
 The WTF was created by YouNow Inc. as a platform for contests, communication and entertainment.
+
 Please read these Terms of Use (collectively with the Privacy Policy) fully and carefully before using the WTF application (the “App”) and the services, features, content or applications offered by YouNow, Inc. in connection with the App (“Company,” “we”, “us” or “our”) (together with the App, the “Services”). These Terms of Use set forth the legally binding terms and conditions for your use of the App and the Services.
 
 As You probably know by now, the Service is a live-video contest platform that provides social communications, media, and entertainment. Subject to the Terms of Use (as they might be amended) and any other applicable agreements between You and WTF, the Service allows You to participate in trivia games with other online users of the Service (“**Contests**”) including friends and followers, and to win prizes for winning games. The terms and conditions governing the Contests and prizes are available on our Contest Rules page. 
