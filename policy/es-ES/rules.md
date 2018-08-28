@@ -5,25 +5,51 @@ category: ES
 ---
 
 YouNow se compromete a mantener una comunidad segura. Los siguientes estándares se han establecido para ese fin y son aplicables a todos los usuarios de YouNow. La violación de estos estándares puede resultar en la suspensión de la cuenta o una prohibición permanente. Para proteger la integridad de la comunidad, como proveedor del servicio, YouNow se reserva el derecho de suspender o eliminar cualquier cuenta en cualquier momento por cualquier conducta que se determine que es inapropiada o dañina.
- 
-## El comportamiento violento y / o autolesionarse no está permitido.
-La seguridad es la máxima prioridad de YouNow, y tomamos muy en serio las amenazas de violencia y autolesión. Podemos eliminar a los usuarios cuyo contenido infringe estos términos y también podemos informar a  a la policía si percibimos un riesgo real de daño físico o una amenaza directa a la seguridad pública. Esto incluye intentos o amenazas de hackear, DDOS o SWAT a otros. Del mismo modo, prohibimos estrictamente las amenazas y las amenazas de autolesiones. Pedimos a los usuarios que considere autolesionarse a buscar ayuda. Se puede contactar al National Suicide Prevention Lifeline las  24 horas a día en el l 1-800-273-8255.
- 
+
+## No se permite el comportamiento violento y / o autolesionarse.
+
+La seguridad es la máxima prioridad de YouNow  y tomamos muy en serio las amenazas de violencia y autolesión. Podemos prohibir a los usuarios cuyo contenido infringe estos términos y también podemos informar a la policía si percibimos un riesgo real de daño físico o una amenaza directa a la seguridad pública.
+
+El comportamiento violento incluye pero no está limitado a:
+
+- amenazas de dañar o matar físicamente a otros
+- amenazas de pirateo, DDOS o SWAT otras
+- amenazas o intentos de autolesionarse
+
+YouNow prohíbe estrictamente las amenazas y amenazas de autolesiones. Animamos a cualquier usuario que considere autolesionarse a buscar ayuda. Se puede contactar al National Suicide Prevention Lifeline de 24 horas al 1-800-273-8255.
+
 ## Contenido sexualmente explícito, desnudez o comportamiento abusivo.
-El lenguaje vulgar usado en la transmisión y en el chat está en contra de las reglas. Denigrar a otros usuarios no es solo poco profesional, es abusivo.
 
-Bailar de forma sexual no está bien. ¿Eres un gran bailarín? Increíble. Entreten a tu audiencia. Pero por favor evite los movimientos sexualmente sugerentes, tales como “Grinding” , “Twerking” o “imitar que tienes sexo”  Si no está seguro, mejor sé precavido.
-No transmitas contenido sexual o desnudos. Esto incluye el contenido que se muestra en otras aplicaciones durante las transmisiones (incluidas Parlor, PartyLine, Basechat, Omegle u otras aplicaciones utilizadas para el chat). Recuerda que eres un líder en la comunidad y un ejemplo para los demás. Se prohíbe animar a la desnudez o la conducta sexual en YouNow.
- 
-**Los usuarios no pueden:**
-Use lenguaje vulgar, profano o sexualmente explícito en la cámara o en el chat.
-Mostrar imágenes ofensivas o sexualmente explícitas en la cámara.
-Realizar actos sexuales o sexualmente sugestivos, mostrar juguetes sexuales en la pantalla o baile de manera sexualmente sugestiva.
+** El baile sexual no está bien. ** ¿Eres un gran bailarín? Increíble. Entreten a tu audiencia. Pero por favor evite los movimientos sexualmente sugestivos, tales como twerking o imitar el sexo. Si no está seguro es mejor ser precavido.
 
-Estas reglas son más estrictas para menores de 18 años. Los usuarios de todos los géneros menores de 18 años deben vestirse completamente en la cámara. Cualquier usuario menor de 18 años sin camisa puede estar sujeto a una suspensión o prohibición permanente. Esto significa que no se puede estar en ropa interior,lencería o top / shorts reveladores. Los usuarios de todas las edades  no pueden exponer sus  genitales de ninguna manera.
- 
-## La intimidación, el acoso o el odio no están permitidos
-Aunque animamos a los usuarios de YouNow a expresarse libremente dentro de las pautas de la comunidad, es primordial respetar a todos los miembros de la comunidad. Los usuarios que se burlan, intimidan, usan discursos de odio o se involucran en cualquier otra forma de acoso corren el riesgo de ser suspendidos o prohibidos de la plataforma permanentemente. Recuerdas las reglas y ¡Sé amable!
+** No transmita contenido sexual ni desnudos. ** Esto incluye el contenido que se muestra en otras aplicaciones durante sus transmisiones (incluidas Parlor, PartyLine, Basechat, Omegle u otras aplicaciones utilizadas para el chat). Recuerde que usted es un lider de la comunidad y un ejemplo para los demás. Se prohíbe alentar la desnudez o la conducta sexual en YouNow.
+
+Los usuarios no pueden:
+- Use lenguaje vulgar, profano o sexualmente explícito en la cámara o en el chat.
+- Mostrar imágenes ofensivas o sexualmente explícitas en la cámara.
+- Realizar actos sexuales o de sugestión sexual, mostrar juguetes sexuales en la pantalla o bailar de una manera sexualmente sugestiva.
+
+El contenido informado se revisará según el contexto, los comentarios, el atuendo, el entorno, el ángulo de la cámara y el enfoque, así como otra información que incluye, entre otros, títulos transmitidos, miniaturas personalizadas y descripciones de perfil.
+
+** Reglas más estrictas para menores de 18 años. ** Los usuarios de todos los géneros menores de 18 años deben vestirse completamente en la cámara. Cualquier usuario menor de 18 años sin camisa puede estar sujeto a una suspensión o prohibición permanente. Esto significa que no hay ropa interior, lencería o top / shorts reveladores. Los usuarios de todas las edades pueden no exponer los genitales de ninguna manera.
+
+## Bullying, hostigamiento o discurso de odio no está permitido
+
+Aunque alentamos a los usuarios de YouNow a expresarse libremente dentro de las pautas de la comunidad, es primordial respetar a todos los miembros de la comunidad. Los usuarios que se burlan, intimidan, usan discursos de odio o se involucran en cualquier otra forma de acoso corren el riesgo de ser suspendidos o prohibidos permanentemente. Recuerde la regla de oro, y siempre ¡Sé amable! YouNow revisará cualquier contenido o actividad informada según su intención y contexto.
+
+** El idioma vulgar ** utilizado en la transmisión y en el chat está en contra de las reglas. ** Maldecir a otros usuarios no es solo poco profesional, es abusivo. **
+
+YouNow define el acoso como cualquier comportamiento que sea hostil, agresivo, abusivo, coercitivo o que amenace herir a otro individuo física, mental o emocionalmente.
+
+Los ejemplos pueden incluir:
+- Lenguaje abusivo u ofensivo hacia los demás, especialmente cuando se usa con la intención de intimidar o acosar;
+- insultos ofensivos y repetidos con la intención de avergonzar o dañar a alguien;
+- Decirle a alguien que se lastime o se mate a sí mismo, con la intención de alentar la autolesión;
+- Crear cuentas de usuario dedicadas al acoso u odio;
+- Divulgar la información personal de alguien en contra de su voluntad con la intención de dañarla o avergonzarla;
+- Alentar el acoso de los demás.
+
+YouNow prohíbe el uso de la plataforma para facilitar la conducta de odio o el acoso. Podemos tomar medidas contra los usuarios por conducta odiosa u hostigamiento que se produce fuera de los servicios de YouNow que se dirige a los usuarios de YouNow.
 
 ## El uso ilegal de sustancias no está permitido en pantalla
 En la pantalla están prohibidos el consumo de drogas, parafernalia de drogas, fumar y el consumo de alcohol por parte de usuarios menores de 21 años. No se permite ningún intento de comprar, promover, abusar, vender o comerciar con medicamentos recetados o ilegales, y está prohibido el consumo de todas las drogas ilegales. Los usuarios deben cumplir con las leyes aplicables de acuerdo con su lugar de residencia y considerar cuidadosamente a sus audiencias con respecto al contenido que están produciendo.
@@ -63,4 +89,5 @@ Para obtener más información sobre seguridad, lea YouNow's [Trust & Safety hub
  
 * Si tienes alguna pregunta con respecto a estas Pautas o las Reglas de YouNow en general, no dudes en ponerte en contacto con support@younow.com. Valoramos tu opinión y estamos felices de recibir tus comentarios.
  
-Actualización de las reglas: Julio de 2018
+Actualización de las reglas: Agosto 2018
+
