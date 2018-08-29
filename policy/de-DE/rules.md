@@ -34,7 +34,7 @@ Gemeldete Inhalte werden basierend auf Kontext, Kommentar, Kleidung, Umgebung, K
 Obwohl wir YouNow-Nutzer ermutigen, sich innerhalb der Community-Richtlinien frei auszudrücken, ist es wichtig, den Respekt gegenüber allen Community- Mitgliedern zu bewahren. Benutzer, die andere verspotten, schikanieren, Hasstiraden von sich geben oder sich in irgendeiner anderen Art und Weise belästigend verhalten, riskieren suspendiert oder dauerhaft gesperrt zu werden. Erinnere dich an diese goldene Regel und sei immer freundlich!
 YouNow wird sich jeden gemeldeten Inhalt ansehen, basierend auf Absicht und Kontext.
  
-** Vulgäre Sprache **, im Broadcast und im Chat verstößt gegen die Regeln. ** Das Lästern über andere Nutzer ist nicht nur unprofessionell, es ist auch beleidigend. **
+**Vulgäre Sprache**, im Broadcast und im Chat verstößt gegen die Regeln. **Das Lästern über andere Nutzer ist nicht nur unprofessionell, es ist auch beleidigend.**
  
 YouNow definiert alles als Mobbing, das feindselig, aggressiv, beleidigend, gewalttätig oder bedrohlich sein soll, um andere Personen körperlich, geistig oder emotional zu verletzen.
  
