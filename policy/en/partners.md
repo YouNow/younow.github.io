@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-**Last Updated: August 2018**
+**Last Updated: September 2018**
 
 As a member of the Partner Program on YouNow, you serve as an example to other YouNowers, who look to you as a success story and a representative of the YouNow service. Our viewers turn to you for ideas on content for their broadcasts and are inspired by your words and deeds. As such, YouNow partnership comes not only with benefits, but also with responsibility – a responsibility to serve as an example to our users, upholding Community Guidelines [Rules] (policy/en/rules), Terms of Service [Terms of Service] (policy/en/terms), and the following additional guidelines, laid out especially for you, as a partner.
 
@@ -77,6 +77,12 @@ If you have an issue with another YouNow user, handle it in an appropriate way, 
 
 Revealing an individual's personal information, including email addresses, real names, location, ID, phone numbers, home addresses, and others, is forbidden. We also **strongly** recommend that you keep your personal information private.
 
+## Spam & unauthorized advertisement of other live streaming services are not permitted.
+
+We are constantly working to keep YouNow free of spam, scams, and other deceptive practices that attempt to take advantage of the YouNow community. It is forbidden to interrupt the flow of chat sessions with the use of repetitive typing or activity that makes it difficult for users to maintain a conversation, as is the posting of links to pornographic or malicious sites.
+
+It’s not okay to post large amounts of untargeted, unwanted, or repetitive content in videos, comments, private messages, profiles or other places on the site. If the main purpose of your content is to drive people off of YouNow and onto another live streaming services via unauthorized advertisements, it will likely violate our spam policies and might lead to a suspension or a permanent ban of your account. This is up to the full discretion of YouNow.
+
 ## Prank calls to emergency authorities or hotlines is not permitted
 
 YouNow does not permit prank calls to emergency authorities or emergency hotlines, and any user who in engages in such will be subject to a permanent ban.
@@ -86,6 +92,10 @@ YouNow does not permit prank calls to emergency authorities or emergency hotline
 YouNow is committed to protecting the rights of copyright holders and seeks to comply with all applicable laws regarding the protection of intellectual property. Unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is a copyright infringement, and YouNow will undertake appropriate steps against repeat copyright offenders. Re-broadcasting other users’ content without written permission is considered copyright infringement and is therefore prohibited.
 
 For more information, read YouNow's Terms of Use [here](/policy/en/terms).
+
+## Illegal substance use is not permitted onscreen.
+
+On screen legal drug consumption, drug paraphernalia, smoking, and the consumption of alcohol by users under the age of 21 are prohibited. Any attempt to purchase, promote, abuse, sell, or trade prescription or illegal drugs are not allowed, and the consumption of all illegal drugs is prohibited. Users must comply with applicable laws according to where they reside and carefully consider their audiences with regards to the content they are producing.
 
 ## Contact authorities for emergencies.
 
