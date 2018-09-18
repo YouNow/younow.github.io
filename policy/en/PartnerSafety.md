@@ -47,9 +47,9 @@ Self-Service Safety Tools: Please review the Self-Service Safety Tools attached 
 - **My Referee** — Assign your own referee to your broadcast chats to help keep offensive users or trolls out of sight.
 - **Blocking low level chat** — Block users who are below level 10 or level 5 from your broadcast chat to help keep spammers or trolls away. 
 - **Blocking users**  — Block any user from  posting on your profile or interacting in your broadcasts. Click or tap on the user’s name, click or tap the red flag icon in his or her mini-profile, and select the “block” option.
-- **Flagging & reporting options** — Help us keep YouNow safe! All users should flag content they believe violates YouNow's policies or puts any member of the community at risk. When you flag a user, the flag goes to live moderators who will review the situation and take action immediately as they see fit. Please only flag content that you deem inappropriate! Repetitive false flagging could result in a short suspension.
+- **Live flagging & reporting options** — Help us keep YouNow safe! All users should flag content they believe violates YouNow's policies or puts any member of the community at risk. When you flag a user, the flag goes to live moderators who will review the situation and take action immediately as they see fit. Please only flag content that you deem inappropriate! Repetitive false flagging could result in a short suspension.
 
-For more information, please visit YouNow’s [Trust & Safety](policy/en/partners) page and [FAQs](https://younow.zendesk.com/hc/en-us/categories/200530939-Blocks-Bans-Suspensions)
+For more information, please visit YouNow’s [Trust & Safety](policy/en/partners) page and [FAQs](https://younow.zendesk.com/hc/en-us/categories/200530939-Blocks-Bans-Suspensions).
 
 **Reporting users:** To report users on YouNow, or for questions on safety tools, please contact partnersupport@younow.com. If you are concerned about your safety on other social media platforms that are connected to your YouNow account, please contact the relevant platform’s helpdesk. 
 
