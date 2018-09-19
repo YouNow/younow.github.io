@@ -51,7 +51,7 @@ Self-Service Safety Tools: Please review the Self-Service Safety Tools attached 
 
 For more information, please visit YouNow’s [Trust & Safety](policy/en/partners) page and [FAQs](https://younow.zendesk.com/hc/en-us/categories/200530939-Blocks-Bans-Suspensions).
 
-**Reporting users:** To report users on YouNow, or for questions on safety tools, please contact partnersupport@younow.com. If you are concerned about your safety on other social media platforms that are connected to your YouNow account, please contact the relevant platform’s helpdesk. 
+**Reporting users via e-mail:** To report users on YouNow, or for questions on safety tools, please contact partnersupport@younow.com. If you are concerned about your safety on other social media platforms that are connected to your YouNow account, please contact the relevant platform’s helpdesk. 
 
 **Emergency situations:** For emergency situations or illegal activities experienced on the YouNow platform, please contact your local authorities immediately. The Trust & Safety team at YouNow is happy to work directly with law enforcement on their open investigations in any way that we can. If you have further questions or concerns, please contact us at partnersupport@younow.com.
 
