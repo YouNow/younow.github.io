@@ -1,5 +1,5 @@
 ---
-title: Partner Safety
+title: Partner Safety Guide 
 layout: default
 category: EN
 ---
