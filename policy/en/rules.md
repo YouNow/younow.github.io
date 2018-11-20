@@ -1,5 +1,5 @@
 ---
-title: Community Standards
+title: Community Guidelines
 layout: default
 category: EN
 ---
