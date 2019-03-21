@@ -3,7 +3,7 @@ title: Privacy Policy
 layout: default
 category: EN
 ---
-**Last updated: March 5th, 2019**
+**Last updated: March 21, 2019**
 
 YouNow ("Company", "we" or "our") is committed to safeguarding any personal data that may be collected through our website (the "Website") and mobile application (the "App") and together, the "Services". We want you to understand how your personal data will be used and shared. The following policy describes our personal data handling practices.
 
@@ -71,15 +71,14 @@ YouNow uses personal data responsibly in order to ensure we are meeting your exp
 
 We may use the personal data provided to us to:
 
-
-
-*   Contact you from time to time with critical information about service updates, technical issues or other information important for our Services, or to provide you with the support you are requesting, for example, if clarification is needed when you report another YouNow user;
-*   Receive feedback from you and inquire about any features you would like to see in future products. We may also message you through the App to promote new products or services that you may be interested in (or contact you by e-mail with your explicit consent);
+*   Contact you from time to time with information about service updates, feature updates, newsletters or unique offers, or regarding technical issues or other information important for our Services, or to provide you with the support you are requesting, for example, if clarification is needed when you report another YouNow user;
+*   Receive feedback from you and inquire about any features you would like to see in future products. We may also message you through the App to promote new products or services that you may be interested in;
 *   Customize, measure and improve our Services and content;
 *   Analyze our user database to review preferences and trends for our own internal statistical and analytical purposes, which we may use for marketing purposes and with respect to operations and development;
 *   Confirm the accuracy of our data with the data held by third parties;
 *   Prevent activity we determine to be potentially illegal, harmful or not in the public interest; and
 *   Enforce this Privacy Policy and/or our Terms of Use.
+
 
 **DISCLOSURE OF PERSONAL DATA**
 
@@ -158,4 +157,4 @@ We may change this Privacy Policy from time to time in order to better reflect o
 
 Any material change to this Privacy Policy will be clearly displayed on our Website and App. Personal data collected by us will be dealt with in accordance with the provisions of our Privacy Policy which were in effect at the time of collection. If at any time in the future we plan to share personal data with more third parties, we will maintain GDPR compliance and a high standard of care for your personal data. Your continued use of our Services following the posting of any changes to this Privacy Policy means you accept such changes. Should you not agree, you should no longer use our Services and go to your Privacy Settings to terminate your account.
 
-Privacy Policy last updated: March 5th, 2019
+Privacy Policy last updated: March 21, 2019
