@@ -147,23 +147,6 @@ For further questions regarding any of the above, technical support, or for unba
 The Trust & Safety team at YouNow does everything we can to ensure that we respond quickly to law enforcement inquiries. Please contact us via the following:
 
 
-
-*New York Mailing Address*
-
-Trust & Safety at YouNow  
-1441 Broadway  
-14th Floor  
-New York, NY 10018,  
-USA  
-
-*Los Angeles Mailing Address*
-
-YouNow, Inc  
-P.O. Box 41005   
-Long Beach, CA 90853,  
-USA  
-
-
 _E-mail Address (best contact to receive immediate response)_
 
   - [privacy@younow.com](mailto:privacy@younow.com)
