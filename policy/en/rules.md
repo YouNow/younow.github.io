@@ -15,7 +15,7 @@ Violent behavior includes but is not limited to:
 -	threats to hack, DDOS, or SWAT others
 -	threats or attempts to self-harm 
 
-YouNow strictly prohibits threats and threats to self harm. We encourage any user considering self-harm to seek help. The 24-hour National Suicide Prevention Lifeline can be reached at 1-800-273-8255. Please visit YouNow’s Trust Page [here](/policy/en/terms) for other international emergency hot lines. 
+YouNow strictly prohibits threats and threats to self harm. We encourage any user considering self-harm to seek help. The 24-hour National Suicide Prevention Lifeline can be reached at 1-800-273-8255. Please visit YouNow’s Trust Page [here](/policy/en/trust) for other international emergency hot lines. 
 
 ## No sexually explicit content, nudity or abusive behavior.
 
@@ -85,6 +85,13 @@ It is forbidden to change your chat name or create a new account in order to imp
 
 YouNow is committed to protecting the rights of copyright holders and seeks to comply with all applicable laws regarding the protection of intellectual property. Unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is a copyright infringement, and YouNow will undertake appropriate steps against repeat copyright offenders. Re-broadcasting other users’ content without written permission is considered copyright infringement and is therefore prohibited.
 
+Examples of content you cannot share on YouNow without permission from the copyright owners or other authorization include:
+
+- Showing movies, TV shows, or sports matches
+- Playing pirated games or on unauthorized private servers
+- Re-broadcasting other users’ content without written permission
+- Sharing third party content from other sites or copy-right protected work of others 
+
 For more information, read YouNow's Terms of Use [here](/policy/en/terms).
 
 ## Respect the moderation team & company staff.
@@ -93,13 +100,36 @@ The YouNow moderators work hard 24 hours a day, 7 days a week to keep YouNow saf
 
 Users must also respect YouNow staff & employees. We may take action against users for hateful conduct or harassment that is directed at YouNow staff & employees which may occur both on or off YouNow services. 
 
+## Gaming & screen sharing rules.
+
+Please keep in mind that shared gaming and/or shared screen content should follow all of YouNow’s general [Community Guidelines](/policy/en/rules) and should abide by YouNow's [Terms of Use](/policy/en/terms). Any violation of these rules and terms may result in action taken against your account. Please also keep in mind that you are responsible for all content shared from any third party.
+
+When sharing content from other platforms or your mobile device, please be mindful of other people’s privacy and do not share any personal information without their permission. Revealing an individual's personal information, including email addresses, real names, location, ID, phone numbers, home addresses, and others, is forbidden.  
+
+<details>
+<summary>Additional gaming rules</summary>
+<br>
+  
+## Nudity and Sexual Content
+Streaming games that feature pornography, sex and/or blatant sexual content as the primary focus or objective is not permitted. This includes any game that is rated Adults Only (AO) by the ESRB. Occurrences of brief nudity in-game that are part of a story-line are permitted given that they are not the primary focus and/or intention of your full broadcast.
+
+## Cheating or unfair activity 
+We are committed to creating a friendly and safe environment for all users within the YouNow platform. Any form of cheating, botting or hacking which impacts other players in public multi-player games, or that gives the broadcaster an unfair advantage is not permitted. Any misuse of another individual’s live broadcast for purposes of in-game harassment is not allowed.
+
+## Photosensitive Seizure Warning
+Photosensitive seizures are triggered by flashing or flickering lights and in some instances, patterns such as stripes. Any individual who may have an epileptic condition should consult with their physician prior to viewing any video game content on the YouNow platform. 
+
+</details>
+
 ## Contact authorities for emergencies.
+
 If you believe an offense to be unlawful, or experience illegal activities while on the YouNow service, please file a formal complaint with your local authorities. We are happy to work with law enforcement on their open investigations in any way that we can. If you have further questions or concerns, please let us know at support@younow.com.
 
 Please be advised that in applicable situations, YouNow reserves the right to report suspicious and/or criminal activity to local authorities.
 
 For more information on safety, please read YouNow’s [Trust & Safety hub] (/policy/en/trust), as well as [YouNow’s Guide for Parents] (/policy/en/parents). 
 
+
 *If you have any questions regarding these Guidelines or the YouNow Rules in general, please feel free to contact support@younow.com. We value your opinion and are happy to receive your feedback.
 
-Site Rules last updated: August 2018
+Last updated: April 30th, 2019
