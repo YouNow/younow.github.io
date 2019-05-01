@@ -110,7 +110,7 @@ When sharing content from other platforms or your mobile device, please be mindf
 <summary>Additional gaming rules</summary>
 <br>
   
-  - **Nudity and Sexual Content:** Streaming games that feature pornography, sex and/or blatant sexual content as the primary focus or objective is not    permitted. This includes any game that is rated Adults Only (AO) by the ESRB. Occurrences of brief nudity in-game that are part of a story-line are permitted given that they are not the primary focus and/or intention of your full broadcast.
+  - **Nudity and Sexual Content:** Streaming content that feature pornography, sex and/or blatant sexual content as the primary focus or objective is not permitted. This includes any game or other content that is rated Adults Only (AO) by the ESRB. Occurrences of brief nudity in-game that are part of a story-line are permitted given that they are not the primary focus and/or intention of your full broadcast.
 
   - **Cheating or unfair activity:** We are committed to creating a friendly and safe environment for all users within the YouNow platform. Any form of cheating, botting or hacking which impacts other players in public multi-player games, or that gives the broadcaster an unfair advantage is not permitted. Any misuse of another individual’s live broadcast for purposes of in-game harassment is not allowed.
 
