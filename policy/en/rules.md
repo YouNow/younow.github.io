@@ -34,7 +34,7 @@ Reported content will be reviewed based on context, commentary, attire, environm
 
 ## Bullying, harassment, or hate speech is not permitted
 
-Though we encourage YouNow users to express themselves freely within the community guidelines, upholding respect for all community members is paramount. Users who taunt, bully, use hate speech, or engage in any other form of harassment risk being suspended or permanently banned. Remember the Golden Rule, and always be kind! YouNow will review any reported content or activity based on its intent and context. 
+Though we encourage YouNow users to express themselves freely within the community guidelines, upholding respect for all community members is paramount. Users who taunt, bully, use hate speech, or in any other form of harassment risk being suspended or permanently banned. Remember the Golden Rule, and always be kind! YouNow will review any reported content or activity based on its intent and context. 
 
 **Vulgar language** used on broadcast and in chat is against the rules. **Cursing out other users isn’t just unprofessional, it is abusive.** 
 
@@ -64,7 +64,7 @@ Revealing an individual's personal information, including email addresses, real 
 
 ## Prank calls to emergency authorities or hotlines is not permitted
 
-YouNow does not permit prank calls to emergency authorities or emergency hotlines, and any user who in engages in such will be subject to a permanent ban.
+YouNow does not permit prank calls to emergency authorities or emergency hotlines, and any user who engages in such will be subject to a permanent ban.
 
 ## Solicitation or encouragement of rule-breaking is not permitted
 
