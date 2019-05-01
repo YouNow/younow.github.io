@@ -83,7 +83,7 @@ It is forbidden to change your chat name or create a new account in order to imp
 
 ## No copyright infringement
 
-YouNow is committed to protecting the rights of copyright holders and seeks to comply with all applicable laws regarding the protection of intellectual property. Unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is a copyright infringement, and YouNow will undertake appropriate steps against repeat copyright offenders. Re-broadcasting other users’ content without written permission is considered copyright infringement and is therefore prohibited.
+YouNow is committed to protecting the rights of copyright holders and seeks to comply with all applicable laws regarding the protection of intellectual property. Unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is a copyright infringement, and YouNow will undertake appropriate steps against repeat copyright offenders. 
 
 Examples of content you cannot share on YouNow without permission from the copyright owners or other authorization include:
 
