@@ -87,7 +87,7 @@ YouNow is committed to protecting the rights of copyright holders and seeks to c
 
 Examples of content you cannot share on YouNow without permission from the copyright owners or other authorization include:
 
-- Showing movies, TV shows, or sports matches
+- Showing full movies, TV shows, or sports matches
 - Playing pirated games or on unauthorized private servers
 - Re-broadcasting other users’ content without written permission
 - Sharing third party content from other sites or copy-right protected work of others 
