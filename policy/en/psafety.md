@@ -45,7 +45,7 @@ YouNow uses a combination of automated systems, manual monitoring, and self-serv
 Self-Service Safety Tools: Please review the Self-Service Safety Tools attached below on Page 4* displaying the tools you can use during your broadcasts. These include: 
 
 - **My Referee** — Assign your own referee to your broadcast chats to help keep offensive users or trolls out of sight.
-- **Blocking low level chat** — Block users who are below level 10 or level 5 from your broadcast chat to help keep spammers or trolls away. 
+- **Blocking low level chat** — Block users who are below level 5 or level 2 from your broadcast chat to help keep spammers or trolls away. 
 - **Blocking users**  — Block any user from  posting on your profile or interacting in your broadcasts. Click or tap on the user’s name, click or tap the red flag icon in his or her mini-profile, and select the “block” option.
 - **Live flagging & reporting options** — Help us keep YouNow safe! All users should flag content they believe violates YouNow's policies or puts any member of the community at risk. When you flag a user, the flag goes to live moderators who will review the situation and take action immediately as they see fit. Please only flag content that you deem inappropriate! Repetitive false flagging could result in a short suspension.
 
