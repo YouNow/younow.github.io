@@ -14,7 +14,7 @@ Gewalttätiges Verhalten beinhaltet unter anderem:
 -  Drohungen andere zu hacken, DDOS, oder SWATTing
 -  Drohungen oder  Versuche sich selbst zu verletzen
  
-Es ist auf YouNow strengstens untersagt zu drohen sich selbst oder andere zu verletzen. Wir empfehlen jedem Nutzer, der vor hat sich sich selbst zu verletzen, Hilfe zu suchen. Die 24-stündige Nationale Selbstmordpräventionshilfe  kann unter  0800 – 111 0 111 erreicht werden. Bitte besuche die YouNow's  Seite [hier] (/ policy / de / terms) für andere internationale Notfall-Hotlines.
+Es ist auf YouNow strengstens untersagt zu drohen sich selbst oder andere zu verletzen. Wir empfehlen jedem Nutzer, der vor hat sich sich selbst zu verletzen, Hilfe zu suchen. Die 24-stündige Nationale Selbstmordpräventionshilfe  kann unter  0800 – 111 0 111 erreicht werden. Bitte besuche die YouNow's  Seite [hier](/policy/de/terms) für andere internationale Notfall-Hotlines.
 
 ## Kein sexueller Inhalt, Nacktheit oder anderes missbräuchliches Verhalten.
 
@@ -23,7 +23,7 @@ Es ist auf YouNow strengstens untersagt zu drohen sich selbst oder andere zu ver
 **Zeige keinerlei sexuelle Inhalte oder Nacktheit**. Dies schließt Inhalte ein, die während deines Streams, aber in anderen Apps angezeigt werden (einschließlich Parlour, PartyLine, Basechat, Omegle oder ähnlichen Apps). Denke daran, dass du ein Vorbild für andere bist. Die Ermutigung zur Nacktheit oder sexuellem Verhalten ist auf YouNow ebenfalls verboten.
 Folgendes ist verboten:
 - vulgäre, lästernde, beleidigende oder eindeutig sexuelle Kommentare vor der Kamera  oder im Chat. 
-- nstößige oder eindeutig sexuelle Bilder von sich selbst oder anderen im Livestream zu zeigen . 
+- Anstößige oder eindeutig sexuelle Bilder von sich selbst oder anderen im Livestream zu zeigen.
 - sexuelles oder provokatives Verhalten sowie sexuell provokatives Tanzen und/oder das zur Schau stellen von Sexspielzeugen. 
  
 Gemeldete Inhalte werden basierend auf Kontext, Kommentar, Kleidung, Umgebung, Kameraperspektive und Fokus, sowie anderen Informationen überprüft, dies könnte unter anderem auch Sendetitel, benutzerdefinierte Thumbnails und Profilbeschreibungen einschließen.
@@ -83,6 +83,13 @@ Es ist Benutzern nicht gestattet, Zweitkonten zu eröffnen oder Nicknamen besteh
 
 YouNow engagiert sich für den Schutz des Urheberrechts und beachtet alle Gesetze und Regelungen, die sich auf geistiges Eigentum beziehen. Das nicht autorisierte Kopieren, Verbreiten, Ändern, öffentliche Zeigen oder Vorführen urheberrechtlich geschützter Werke ist ein Verstoß gegen das Urheberrecht und YouNow wird angemessen gegen jeden Teilnehmer vorgehen, der wiederholt gegen das Urheberrecht verstößt. Das Wiedergeben von Livestreams anderer Benutzer im eigenen Livestream ohne dessen schriftliche Genehmigung wird als Urheberrechtsverstoß betrachtet und ist daher verboten.
 
+Beispiele für Inhalte, die nicht ohne Erlaubnis der Urheberrechtsinhaber oder einer anderen Autorisierung auf YouNow geteilt werden dürfen, sind:
+ 
+- Zeigen von Filmen, Fernsehsendungen oder Sportsendungen
+- Raubkopien oder das Spielen auf nicht autorisierten privaten Servern
+- Das Senden der Inhalte anderer Nutzer ohne schriftliche Erlaubnis
+- Das Teilen  von Inhalten Dritter auf anderen Webseiten oder urheberrechtlich geschützte Werke Anderer
+ 
 Weitere Informationen zu den Nutzungsbedingungen findest du hier: [here](/policy/en/terms).
 
 ## Respektiere das Moderationsteam und die Mitarbeiter des Unternehmens
@@ -91,12 +98,32 @@ Die YouNow-Moderatoren arbeiten 24 Stunden am Tag und 7 Tage die Woche, um YouNo
 
 Die Mitarbeiter und Mitarbeiterinnen von YouNow müssen jederzeit respektiert werden. Wir behalten es uns vor jederzeit gegen Nutzer wegen hasserfülltem Verhalten oder Belästigung vorzugehen, das sich gegen YouNow-Mitarbeiter richten und das sowohl auf der YouNow-Plattform als auch außerhalb.
 
+## Gaming & Screen Sharing Regeln
+ 
+Bitte behalte im Hinterkopf, dass auch das geteilte Gaming und/oder der geteilte Bildschirm YouNow’s allgemeinen [Community Guidelines](/policy/de/rules) entsprechen sollte und auch im Einklang mit  YouNow's [Terms of Use](/policy/en/terms) sein sollte. Jegliche Verstöße gegen diese Regeln & Richtlinien können geahndet werden. Bitte denke außerdem daran, dass du für alle Inhalte die von Dritten bei dir geteilt werden, mitverantwortlich bist.
+ 
+Beachte beim Teilen von Inhalten über andere Plattformen, oder auch beim Teilen von deinem  Mobilgerät aus die Privatsphäre anderer Personen und gebe daher keine persönlichen Informationen ohne deren Erlaubnis weiter. Es ist verboten, die persönlichen Informationen einer Person, einschließlich E-Mail-Adressen, echte Namen, Standort, ID, Telefonnummern, Privatadressen usw., preiszugeben.
+ 
+<details>
+<summary>Additional gaming rules</summary>
+<br>
+  
+  - **Nacktheit und sexueller Inhalt:** Streaming-Inhalte, die Pornografie, Sex und / oder offensichtliche Inhalte mit Hauptfokus auf sexuelle Inhalte haben, sind nicht zulässig. Dies umfasst alle Spiele oder sonstige Inhalte, die vom ESRB als nur für Erwachsene (AO-Adult Only) eingestuft wurden. Das Auftreten einer kurzen Nacktheit im Spiel, die Teil einer Story sind, ist zulässig, sofern sie nicht der Hauptfokus und / oder das Hauptthema deines Broadcasts sind   
+ 
+ - **Betrug(Cheating) oder unfaire Aktivitäten:** Wir sind bestrebt, eine freundliche und sichere Umgebung für alle Benutzer der YouNow-Plattform zu schaffen. Alle Formen von Betrug, Botting oder Hacking, die andere Spieler in öffentlichen Multiplayer-Spielen beeinflussen oder dem Broadcaster einen unfairen Vorteil verschaffen sind nicht zulässig. Jeder Missbrauch der Live-Übertragung einer anderen Person, zum Zwecke der Belästigung im Spiel ist nicht gestattet.
+ 
+  - **Fotosensitivität Warnung:** Fotosensitivitäts Anfälle werden durch blinkende oder flackernde Lichter und in einigen Fällen durch Muster wie Streifen ausgelöst. Jede Person, die an einer epileptischen Erkrankung leidet, sollte vor dem Betrachten von Videospielen auf der YouNow-Plattform einen Arzt konsultieren.
+ 
+</details>
+
+
 ## Kontaktiere in Notfällen die örtlichen Behörden.
 Wenn Du der Meinung bist, dass während eines YouNow Streams eine Straftat begangen wurde oder illegale Aktivitäten übertragen wurden, reiche bitte eine formelle Beschwerde/Anzeige bei  den lokalen Behörden ein. Gerne werden wir mit den Strafverfolgungsbehörden auf jede nur erdenkliche Weise zusammenarbeiten. Wenn Du weitere Fragen oder Bedenken hast, wende Dich  bitte an support@younow.com.
 
 Bitte beachte, dass YouNow sich in bestimmten Situationen das Recht vorbehält, verdächtige und / oder kriminelle Aktivitäten an lokale Behörden zu melden.
  
-Weitere Informationen zur Sicherheit findest Du in der YouNow-Zentrale [Vertrauen & Sicherheit] (/ policy /de/vertrauen) sowie im [YouNow-Leitfaden für Eltern] policy/de/eltern).
+Weitere Informationen zur Sicherheit findest Du in der YouNow-Zentrale [Vertrauen & Sicherheit](/policy/de/trust) sowie im [YouNow-Leitfaden für Eltern](/policy/de/eltern).
+
  * Wenn Du Fragen zu diesen Richtlinien oder den YouNow-Regeln im Allgemeinen hast, wende Dich bitte an support@younow.com. Wir schätzen Deine Meinung und freuen uns auf Dein Feedback.
  
- Seitenregeln zuletzt aktualisiert: August 2018
+ Seitenregeln zuletzt aktualisiert: Juni, 2019
