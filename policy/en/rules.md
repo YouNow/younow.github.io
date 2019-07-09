@@ -28,7 +28,7 @@ Users are not allowed to:
 - Display offensive or sexually explicit images on camera.
 - Perform sexual or sexually suggestive acts, show sex toys onscreen, or dance in a sexually suggestive manner.
 
-Reported content will be reviewed based on context, commentary, attire, environment, camera angle and focus as well as other information including but not limited to broadcast titles, custom thumbnails, and profile descriptions.
+Reported content will be reviewed based on context, commentary, attire, environment, camera angle and focus as well as other information including but not limited to broadcast titles, profile images, custom broadcast thumbnails, and profile descriptions.
 
 **Stricter rules for those under 18.** Users of all genders under the age of 18 must be fully clothed on camera. Any user under the age of 18 without a shirt may be subject to a suspension or permanent ban. This means no underwear, lingerie, or revealing tops/shorts. Users of all ages may not expose genitalia in any way.
 
