@@ -75,7 +75,11 @@ YouNow does not permit prank calls to emergency authorities or emergency hotline
 
 ## Spam is not permitted
 
-It is forbidden to interrupt the flow of chat sessions with the use of repetitive typing or activity that makes it difficult for users to maintain a conversation, as is the posting of links to pornographic or malicious sites.
+We are constantly working to keep YouNow free of spam, scams, and other deceptive practices that attempt to take advantage of the YouNow community. It is forbidden to interrupt the flow of chat sessions with the use of repetitive typing or activity that makes it difficult for users to maintain a conversation, as is the posting of links to pornographic or malicious sites.
+
+## Unauthorized advertisement of other live streaming services are not permitted.
+
+It’s not okay to post large amounts of untargeted, unwanted, or repetitive content in videos, comments, private messages, profiles or other places on the site. If the main purpose of your content is to drive people off of YouNow and onto another live streaming services via unauthorized advertisements, it will likely violate our spam policies and might lead to a suspension or a permanent ban of your account. This is up to the full discretion of YouNow.
 
 ## Impersonation is not permitted
 
@@ -129,4 +133,4 @@ For more information on safety, please read YouNow’s [Trust & Safety hub] (/po
 
 *If you have any questions regarding these Guidelines or the YouNow Rules in general, please feel free to contact support@younow.com. We value your opinion and are happy to receive your feedback.
 
-Last updated: April 30th, 2019
+Last updated: July 9th, 2019
