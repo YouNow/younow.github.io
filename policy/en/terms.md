@@ -197,7 +197,7 @@ A physical or electronic signature of a person authorized to act on behalf of th
 - A statement from You under the penalty of perjury, that You have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled; and
 - Your name, physical address and telephone number, and a statement that You consent to the jurisdiction of a Federal District Court for the judicial district in which Your physical address is located, or if Your physical address is outside of the United States, for any judicial district in which YouNow may be found, and that You will accept service of process from the person who provided notification of allegedly infringing material or an agent of such person.
 
-12.5.        Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by mailing all required documentation to: YouNow, 1441 Broadway, 14th Floor, New York, NY, ATTN: COPYRIGHT INFRINGEMENT DESIGNATED AGENT or by email to support@Younow.com with the words &quot;Attn Copyright Infringement Designated Agent&quot; in the subject line.
+12.5.        Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by emailing all proper documentation to [support@Younow.com](mailto:support@Younow.com) with the words "Attn Copyright Infringement Designated Agent" in the subject line.
 
 **13.        WARRANTIES AND DISCLAIMERS**
 
