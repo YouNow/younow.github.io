@@ -48,7 +48,7 @@ Examples may include:
 -	Disclosing someone’s personal information against their will with the intent to harm or embarrass them;
 -	Encouraging harassment of others.
 
-YouNow prohibits using the platform to facilitate hateful conduct or harassment. We may take action against users for hateful conduct or harassment that occurs off YouNow services that is directed at YouNow users.
+YouNow prohibits using the platform to facilitate hateful conduct or harassment. We may take action against users for hateful, inappropriate or harmful conduct that occur off of YouNow services. To protect the integrity of the community, YouNow reserves the right to suspend or remove any account at any time for any conduct that is determined to be inappropriate.
 
 ## Illegal substance use is not permitted onscreen
 
