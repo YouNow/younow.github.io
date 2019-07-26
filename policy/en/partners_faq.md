@@ -160,7 +160,7 @@ EMBED-VIDEO
  * At the beginning of every month, you will receive an email summary of your earnings from the previous month. The total amount listed on your earnings page is estimated.
 
 24. Why is my monthly total payment not the same as the total amount on my earnings page?
- * The earnings shown on your YouNow page is an estimate. Apple/Google takes a small percentage of your earnings from the bar-based gifts. 
+ * The earnings shown on your YouNow page is an estimate. Apple/Google takes a small percentage of your earnings from the bar-based gifts and subscriptions. 
 
 25. I’ve been paid, but I still have an outstanding balance on my “earnings” page. Why?
  * If you’ve been paid for your previous month’s earnings, the money displayed on your “earnings” page is most likely your revenue from the current month.  
