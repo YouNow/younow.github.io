@@ -4,7 +4,7 @@ layout: default
 category: ES
 ---
 
-YouNow se compromete a mantener una comunidad segura. Los siguientes estándares se han establecido para ese fin y son aplicables a todos los usuarios de YouNow. La violación de estos estándares puede resultar en la suspensión de la cuenta o una prohibición permanente. Para proteger la integridad de la comunidad, como proveedor del servicio, YouNow se reserva el derecho de suspender o eliminar cualquier cuenta en cualquier momento por cualquier conducta que se determine que es inapropiada o dañina.
+YouNow se compromete a mantener una comunidad segura. Donde los creadores y sus audiencias pueden participar en un ambiente seguro y cómodo. Además de nuestros Términos de uso. Los siguientes estándares se han establecido para ese fin y son aplicables a todos los usuarios de YouNow. La violación de estos estándares puede resultar en la suspensión de la cuenta o una prohibición permanente.YouNow se compromete a utilizar una filosofía de sentido común en todo el contenido generado por los usuarios y la actividad en nuestros servicios. Para proteger la integridad de la comunidad, como proveedor del servicio, YouNow se reserva el derecho de suspender o eliminar cualquier cuenta en cualquier momento por cualquier conducta que se determine que es inapropiada o dañina.
 
 ## No se permite el comportamiento violento y / o autolesionarse.
 
@@ -31,11 +31,14 @@ Los usuarios no pueden:
 
 El contenido informado se revisará según el contexto, los comentarios, el atuendo, el entorno, el ángulo de la cámara y el enfoque, así como otra información que incluye, entre otros, títulos transmitidos, miniaturas personalizadas y descripciones de perfil.
 
-** Reglas más estrictas para menores de 18 años. ** Los usuarios de todos los géneros menores de 18 años deben vestirse completamente en la cámara. Cualquier usuario menor de 18 años sin camisa puede estar sujeto a una suspensión o prohibición permanente. Esto significa que no hay ropa interior, lencería o top / shorts reveladores. Los usuarios de todas las edades pueden no exponer los genitales de ninguna manera.
+** Reglas más estrictas para menores de 18 años y adultos que interactúan con menores en YouNow. ** Los usuarios de todos los géneros menores de 18 años deben vestirse completamente en la cámara. Cualquier usuario menor de 18 años sin camisa puede estar sujeto a una suspensión o prohibición permanente. Esto significa que no hay ropa interior, lencería o top / shorts reveladores. Los usuarios de todas las edades pueden no exponer los genitales de ninguna manera.
+Cualquier adulto que se involucre con un menor de una manera que pueda considerarse inapropiada o sugiera un comportamiento de aseo personal cuando use una filosofía de sentido común puede estar sujeto a una suspensión o prohibición permanente. Los ejemplos incluyen implicar que el menor miente sobre su edad, pedir reunirse fuera de línea sin el permiso explícito de los padres o tutores legales del menor, buscar una conversación directa e individual en otra plataforma sin el permiso explícito de los padres o tutores legales del menor, y más .
 
 ## Bullying, hostigamiento o discurso de odio no está permitido
 
 Aunque alentamos a los usuarios de YouNow a expresarse libremente dentro de las pautas de la comunidad, es primordial respetar a todos los miembros de la comunidad. Los usuarios que se burlan, intimidan, usan discursos de odio o se involucran en cualquier otra forma de acoso corren el riesgo de ser suspendidos o prohibidos permanentemente. Recuerde la regla de oro, y siempre ¡Sé amable! YouNow revisará cualquier contenido o actividad informada según su intención y contexto.
+La conducta odiosa incluye cualquier contenido o actividad que promueva, aliente o facilite la discriminación, la denigración, la objetivación, el acoso o la violencia por motivos de raza, origen étnico, nacionalidad, religión, sexo, género, identidad de género, orientación sexual, edad, discapacidad, médico. condición, características físicas o estado de veterano. Este contenido está prohibido en YouNow.
+
 
 ** El idioma vulgar ** utilizado en la transmisión y en el chat está en contra de las reglas. ** Maldecir a otros usuarios no es solo poco profesional, es abusivo. **
 
@@ -55,7 +58,7 @@ YouNow prohíbe el uso de la plataforma para facilitar la conducta de odio o el 
 En la pantalla están prohibidos el consumo de drogas, parafernalia de drogas, fumar y el consumo de alcohol por parte de usuarios menores de 21 años. No se permite ningún intento de comprar, promover, abusar, vender o comerciar con medicamentos recetados o ilegales, y está prohibido el consumo de todas las drogas ilegales. Los usuarios deben cumplir con las leyes aplicables de acuerdo con su lugar de residencia y considerar cuidadosamente a sus audiencias con respecto al contenido que están produciendo.
  
 ## Debes tener al menos 13 años para usar YouNow
-YouNow está destinado a personas mayores de 13 años. Si tenemos conocimiento de una cuenta que pertenece a un individuo menor de 13 años, esa cuenta será cancelada. Los usuarios que tienen más de 13 años pueden tener invitados menores de 13 en la cámara, pero si es posible que los menores de edad no aparezcan solos en la transmisión.
+YouNow está destinado a personas mayores de 13 años. Si tiene entre 13 y 18 años (o entre 13 y la mayoría de edad legal en su jurisdicción de residencia), solo puede usar YouNow bajo la supervisión de un padre o tutor legal que acepte estar sujeto a estas Normas de la comunidad .Si tenemos conocimiento de una cuenta que pertenece a un individuo menor de 13 años, esa cuenta será cancelada. o de una cuenta perteneciente a un individuo entre las edades de 13 y 18 años sin la supervisión de un padre o tutor legalLos usuarios que tienen más de 13 años pueden tener invitados menores de 13 en la cámara, pero si es posible que los menores de edad no aparezcan solos en la transmisión.
  
 ## No se permite revelar información de contacto privada.
 La revelación de la información personal de un individuo, incluyendo direcciones de correo electrónico, nombres reales, ubicación, ID, números de teléfono, domicilios, y otros, está prohibida. También le recomendamos encarecidamente que mantenga su información personal en privado.
@@ -65,6 +68,7 @@ YouNow no permite llamadas de bromas a las autoridades de emergencia o líneas d
  
 ## No se permite solicitar o animar a la violación de las reglas
 La solicitud de actos sexuales o ilegales está prohibida. Del mismo modo, está prohibido que los usuarios soliciten imágenes sexuales o información personal de otros usuarios. La participación en actividades o ventas comerciales ilegales o inapropiadas también está estrictamente prohibida. Dichas actividades incluyen, entre otras, esquemas piramidales, ofertas de mercadeo multinivel.
+Cualquier adulto que se involucre con un menor sin el consentimiento explícito de los padres o tutores legales de una manera que pueda considerarse inapropiada o que sugiera un comportamiento de aseo personal cuando use una filosofía de sentido común puede estar sujeto a una suspensión o prohibición permanente.
 
 ## Está prohibido fomentar la violación de las normas de la comunidad, ya sea en el chat o durante la transmisión.
 Animar a los espectadores a acosar, enviar correo no deseado o informar a otro usuario es completamente inaceptable. Es injusto para ellos y constituye un acoso por tu parte, cuyas consecuencias pueden incluir la suspensión o la prohibición de tu cuenta.. Sea un miembro responsable de la comunidad y anime a los usuarios a ser positivos.
@@ -81,6 +85,8 @@ YouNow se compromete a proteger los derechos de los titulares de los derechos de
 ## Respete al equipo de moderación y al personal de YouNow
 Los moderadores de YouNow trabajan duro las 24 horas del día, los 7 días de la semana para mantener a YouNow seguro y limpio para todos los usuarios. El equipo de moderación maneja millones de usuarios, cientos de miles de transmisiones y cientos de socios cada día. Si recibes una advertencia o mensaje de un moderador, por favor, respétalo. Si crees que un moderador ha cometido un error o se ha comportado de manera inapropiada, comuníquese con nosotros a support@younow.com así como sobre cuestiones o inquietudes de seguridad.
 
+Los usuarios también deben respetar al personal y empleados de YouNow. Podemos tomar medidas contra los usuarios por conducta u hostigamiento odioso, acosador o engañoso que se dirige al personal y empleados de YouNow que pueden ocurrir dentro o fuera de los servicios de YouNow.
+
 ## Póngase en contacto con las autoridades para emergencias.
 Si cree que hay algo que es ilegal o experimenta actividades ilegales mientras está en YouNow, presenta una queja formal ante las autoridades locales. Nos complace trabajar con las fuerzas del orden público en sus investigaciones abiertas de cualquier manera que podamos. Si tiene más preguntas o inquietudes, háganos saber a support@younow.com.
 Ten en cuenta que en situaciones aplicables, YouNow se reserva el derecho de informar actividades sospechosas y / o delictivas a las autoridades locales.
@@ -89,5 +95,4 @@ Para obtener más información sobre seguridad, lea YouNow's [Trust & Safety hub
  
 * Si tienes alguna pregunta con respecto a estas Pautas o las Reglas de YouNow en general, no dudes en ponerte en contacto con support@younow.com. Valoramos tu opinión y estamos felices de recibir tus comentarios.
  
-Actualización de las reglas: Agosto 2018
-
+Actualización de las reglas: Agosto 2019
