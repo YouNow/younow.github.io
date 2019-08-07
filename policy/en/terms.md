@@ -92,7 +92,7 @@ By using the Service, You acknowledge and agree that You are subject to the Term
 
 7.3.        Your gift of certain Virtual Items to a broadcaster on the Service may, but will not necessarily, appear on screen or in the chat feed of the Content You are viewing. Purchase of the &quot;Chat Now&quot; privilege during high-traffic broadcasts will give You the opportunity to rejoin a chat feed that has become over-full and to remain in the chat feed for the remainder of the broadcast. Purchasers of &quot;Chat Now&quot; will receive priority over users who are participating in the chat feed for free.
 
-7.4.        Bars and other Virtual Items gifted to broadcasters may result in some revenue to them as determined in YouNow&#39;s sole discretion; however, YouNow makes no guarantee that the amount or value of the Bars or Virtual Items You may give a broadcaster will correlate to the revenue such broadcaster may receive from YouNow.
+7.4.        Bars and other Virtual Items gifted to broadcasters may result in some revenue to them as determined in YouNow&#39;s sole discretion; however, YouNow makes no guarantee that the amount or value of the Bars or Virtual Items You may give a broadcaster will correlate to the revenue such broadcaster may receive from YouNow. All in-app purchases are subject to a 30% fee charged by Google or Apple, depending on the platform. After the platforms remove their fees, Partners get 60% of the remaining revenue, and YouNow takes 40% of the remaining revenue.
 
 7.5.        Only users of the Service who initiate a broadcast or a Guest session will be eligible for Bars and other Virtual Items.
 
