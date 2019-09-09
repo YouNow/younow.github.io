@@ -9,7 +9,7 @@ YouNow ("Company", "we" or "our") is committed to safeguarding any personal data
 
 **WHO WE ARE AND GETTING IN TOUCH**
 
-YouNow, Inc.'s head office is located at 245 5th Avenue New York, NY 10016, USA. Any questions or inquiries relating to privacy or data protection should be directed to our Data Protection Officer at [privacy@younow.com](mailto:privacy@younow.com). EU residents may also exercise their data subject rights such as the right of access or erasure by contacting our Data Protection Officer.
+YouNow, Inc.'s head office is located at New York, NY, USA. Any questions or inquiries relating to privacy or data protection should be directed to our Data Protection Officer at [privacy@younow.com](mailto:privacy@younow.com). EU residents may also exercise their data subject rights such as the right of access or erasure by contacting our Data Protection Officer.
 
 **PRIVACY COMPLIANCE**
 
