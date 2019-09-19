@@ -1,3 +1,8 @@
+---
+title: Partnerregeln
+layout: default
+category: DE
+---
 
 **Zuletzt  aktualisiert: September 2018**
  
