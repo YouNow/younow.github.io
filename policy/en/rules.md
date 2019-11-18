@@ -21,7 +21,7 @@ YouNow strictly prohibits threats and threats to self harm. We encourage any use
 
 **No sexually explicit content, nudity or abusive behavior.**
 
-Sexual dancing is not OK. Are you a great dancer? Awesome. Entertain your audience. But please avoid sexually suggestive moves, such as grinding, twerking, or mimicking sex. If you aren&#39;t sure, err on the side of caution.
+Sexual dancing is not OK. Are you a great dancer? Awesome. Entertain your audience. But please avoid sexually suggestive moves, such as grinding, twerking, or mimicking sex. If you aren't sure, err on the side of caution.
 
 Do not broadcast sexual content or nudity. This includes content displayed in other apps during your broadcasts (including Parlor, PartyLine, Basechat, Omegle or other apps used for chat). Remember that you are a community leader and example to others. Encouragement of nudity or sexual conduct is prohibited on YouNow.
 
@@ -36,7 +36,7 @@ Reported content will be reviewed based on context, commentary, attire, environm
 Stricter rules for those under 18 and adults interacting with minors on YouNow.
 
 - Users of all genders under the age of 18 must be fully clothed on camera.
-- Any user under the age of 18 without a shirt may be subject to a suspension or permanent ban. This means no underwear, lingerie, or revealing tops/shorts. Users of all ages may not expose genitalia in any way.
+- Any user under the age of 18 without a shirt may be subject to a suspension or permanent ban. This means no underwear, lingerie, or revealing tops/shorts. Users of all ages may not expose genitalia or bare chest in any way.
 - Any adult engaging with a minor in a way that may be deemed inappropriate or suggests grooming behavior when using a common sense philosophy may be subject to a suspension or permanent ban. Examples include implying the minor lie about their age, asking to meet offline without the minor&#39;s parents&#39; or legal guardian&#39;s explicit permission, pursuing a direct one-on-one conversation on another platform without the minor&#39;s parents&#39; or legal guardian&#39;s explicit permission, and more.
 
 **Bullying, harassment, or hate speech is not permitted**
@@ -123,7 +123,16 @@ Please keep in mind that shared gaming and/or shared screen content should follo
 
 When sharing content from other platforms or your mobile device, please be mindful of other people&#39;s privacy and do not share any personal information without their permission. Revealing an individual&#39;s personal information, including email addresses, real names, location, ID, phone numbers, home addresses, and others, is forbidden.
 
-Additional gaming rules
+<summary>Additional gaming rules</summary>
+<br>
+
+  - **Nudity and Sexual Content:** Streaming content that feature pornography, sex and/or blatant sexual content as the primary focus or objective is not permitted. This includes any game or other content that is rated Adults Only (AO) by the ESRB. Occurrences of brief nudity in-game that are part of a story-line are permitted given that they are not the primary focus and/or intention of your full broadcast.
+
+  - **Cheating or unfair activity:** We are committed to creating a friendly and safe environment for all users within the YouNow platform. Any form of cheating, botting or hacking which impacts other players in public multi-player games, or that gives the broadcaster an unfair advantage is not permitted. Any misuse of another individual’s live broadcast for purposes of in-game harassment is not allowed.
+
+  - **Photosensitive Seizure Warning:** Photosensitive seizures are triggered by flashing or flickering lights and in some instances, patterns such as stripes. Any individual who may have an epileptic condition should consult with their physician prior to viewing any video game content on the YouNow platform. 
+
+</details>
 
 **Contact authorities for emergencies.**
 
@@ -133,6 +142,6 @@ Please be advised that in applicable situations, YouNow reserves the right to re
 
 For more information on safety, please read YouNow&#39;s [Trust &amp; Safety hub] (/policy/en/trust), as well as [YouNow&#39;s Guide for Parents] (/policy/en/parents).
 
-\*If you have any questions regarding these Guidelines or the YouNow Rules in general, please feel free to contact support@younow.com. We value your opinion and are happy to receive your feedback.
+*If you have any questions regarding these Guidelines or the YouNow Rules in general, please feel free to contact support@younow.com. We value your opinion and are happy to receive your feedback.
 
 Last updated: July 31st, 2019
