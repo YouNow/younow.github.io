@@ -147,12 +147,12 @@ For further questions regarding any of the above, technical support, or for unba
 The Trust & Safety team at YouNow does everything we can to ensure that we respond quickly to law enforcement inquiries. Please contact us via the following:
 
 
-_E-mail Address (best contact to receive immediate response)_
+_E-mail Address for Law Enforcement (best contact to receive immediate response)_
 
   - [privacy@younow.com](mailto:privacy@younow.com)
 
 
-_Our Help Center_
+_Our Help Desk for all users_
 
   - support.younow.com
 
