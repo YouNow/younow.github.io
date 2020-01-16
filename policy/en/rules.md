@@ -33,7 +33,7 @@ Users are not allowed to:
 
 Reported content will be reviewed based on context, commentary, attire, environment, camera angle and focus as well as other information including but not limited to broadcast titles, profile images, custom broadcast thumbnails, and profile descriptions.
 
-Stricter rules for those under 18 and adults interacting with minors on YouNow.
+**Stricter rules for those under 18 and adults interacting with minors on YouNow**
 
 - Users of all genders under the age of 18 must be fully clothed on camera.
 - Any user under the age of 18 without a shirt may be subject to a suspension or permanent ban. This means no underwear, lingerie, or revealing tops/shorts. Users of all ages may not expose genitalia or bare chest in any way.
