@@ -62,6 +62,10 @@ Examples may include:
 
 YouNow prohibits using the platform to facilitate hateful conduct or harassment. We may take action against users for hateful, inappropriate or harmful conduct that occur off of YouNow services. To protect the integrity of the community, YouNow reserves the right to suspend or remove any account at any time for any conduct that is determined to be inappropriate.
 
+**Performing or encouraging dangerous behavior is not permitted**
+
+Situations that may be deemed as dangerous, self-destructive or that may lead to physical harm are prohibited regardless of context. Dangerous behavior includes, but is not limited to performing or encouraging others to perform risky challenges and/or dares, operating a motor vehicle in a dangerous or distracted manner, or any other action that could cause bodily injury or harm. If we feel that a situation is unsafe for any user, even if made in jest or for entertainment purposes, we may end the broadcast at our discretion or take further action on violating accounts.
+
 **Illegal substance use is not permitted onscreen**
 
 On screen drug consumption, drug paraphernalia, smoking, and the consumption of alcohol by users under the age of 21 are prohibited. Any attempt to purchase, promote, abuse, sell, or trade prescription or illegal drugs are not allowed, and the consumption of all illegal drugs is prohibited. Users must comply with applicable laws according to where they reside and carefully consider their audiences with regards to the content they are producing.
@@ -109,7 +113,7 @@ Examples of content you cannot share on YouNow without permission from the copyr
 - Re-broadcasting other users&#39; content without written permission
 - Sharing third party content from other sites or copy-right protected work of others
 
-For more information, read YouNow&#39;s Terms of Use here.
+For more information, please refer to YouNow's [Terms of Use](https://www.younow.com/policy/en/terms).
 
 **Respect the moderation team &amp; company staff.**
 
