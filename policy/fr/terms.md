@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-**Please read these YouNow Terms of Use with care** before You make use of the YouNow Service, which is located at [www.Younow.com](https://www.younow.com) (the “**Site**”) and also available as a mobile application (the “**App**”).  We'll refer to You here as "You” and “Your.” We will refer to YouNow, Inc. as “YouNow,” “we,” “us” or “our”.
+**Please read these YouNow Terms of Use with care** before You make use of the YouNow Service, which is located at [www.Younow.com](https://www.younow.com) (the “**Site**”) and also available as a mobile application (the “**App**”).  We'll refer to You here as "You” and “Your.” We will refer to YouNow Media LLC. as “YouNow,” “we,” “us” or “our”.
 
 These YouNow Terms of Use as they may be subsequently amended  (“**Terms of Use**” or “Terms”) outline the terms and conditions applicable to Your use of the YouNow Service and any related services, aspects, functions, software platforms and derivatives of the YouNow Service (collectively, the "**Service**").
 
