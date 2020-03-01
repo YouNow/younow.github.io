@@ -1,4 +1,10 @@
-**[Privacy Policy]{.underline}**
+---
+title: Privacy Policy
+layout: default
+category: EN
+---
+
+**Last updated: March 1st, 2020**
 
 YouNow (\"Company\", \"we\" or \"our\") is committed to safeguarding any
 personal data that may be collected through our website (the
@@ -12,7 +18,7 @@ handling practices.
 YouNow Media LLC.\'s head office is located in New York, NY, USA. Any
 questions or inquiries relating to privacy or data protection should be
 directed to our Data Protection Officer
-at [[privacy\@younow.com]{.underline}](mailto:privacy@younow.com). EU
+at [privacy\@younow.com](mailto:privacy@younow.com). EU
 and California residents may also exercise their data subject rights
 such as the right of access or erasure by contacting our Data Protection
 Officer.
@@ -95,7 +101,7 @@ Automated data collection does not lead to profiling that significantly
 affects YouNow users, but simply gives YouNow a clear picture of its
 users and influencers. For a complete listing of data fields collected
 and used by YouNow, you may contact us
-at [[privacy\@younow.com]{.underline}](mailto:privacy@younow.com)
+at [privacy\@younow.com](mailto:privacy@younow.com)
 
 **DO NOT PROVIDE SPECIAL CATEGORIES OF PERSONAL DATA:** We ask that you
 not send us, and you do not disclose, through a broadcast or other
@@ -282,7 +288,7 @@ Google Analytics and other third party analytics services for this
 purpose to capture page and screen views. You can prevent the use of
 Google Analytics relating to your use of our Services by downloading and
 installing the browser plugin available via this
-link: [[http://tools.google.com/dlpage/gaoptout?hl=en-GB]{.underline}](http://tools.google.com/dlpage/gaoptout?hl=en-GB).
+link: [http://tools.google.com/dlpage/gaoptout?hl=en-GB](http://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
 **Social Media Cookies:** These cookies are used when you share
 information using a social media sharing button or \"like\" button on
@@ -501,7 +507,7 @@ If you are in the EU, you have the following rights under the GDPR:
     > establishment, exercise or defense of legal claims.
 
 If you wish to exercise any of these rights, contact us at
-[<privacy@younow.com>.]{.underline}
+[privacy@younow.com](mailto:privacy@younow.com)
 
 We reserve the right to ask for reasonable evidence to verify your
 identity before we provide you with information. Where we are not able
@@ -514,7 +520,7 @@ according to Article 77 of the GDPR, you can lodge a complaint to the
 supervisory authority, in particular in the Member State of your
 residence, place of work or of an alleged infringement of the GDPR. For
 a list of supervisory authorities in the EU, click
-[[here]{.underline}](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061).
+[here](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061).
 
 **FURTHER CCPA INFORMATION FOR USERS RESIDING IN CALIFORNIA**
 
@@ -850,7 +856,7 @@ the preceding 12 months.**
 |                                  | identity, as explained below.    |
 +----------------------------------+----------------------------------+
 
-If you would like to exercise any of your CCPA rights as described above, you should email us at [<privacy@younow.com>.]{.underline}
+If you would like to exercise any of your CCPA rights as described above, you should email us at [privacy@younow.com](mailto:privacy@younow.com)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 We may ask you for additional information to confirm your identity and
