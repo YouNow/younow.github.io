@@ -525,13 +525,19 @@ a list of supervisory authorities in the EU, click
 **FURTHER CCPA INFORMATION FOR USERS RESIDING IN CALIFORNIA**
 
 This is the information we have collected about visitors to our Website
-and users of our App in the past 12 months.:
+and users of our App in the past 12 months:
 
-+----------------------+----------------------+----------------------+
+| Categories of Personal Information                                                 | Specific Types of    | Source of                               |
+|------------------------------------------------------------------------------------|----------------------|-----------------------------------------|
+| Identifiers, ads asdasd, asd asd asd, asd, asd asd  asd sad sad asdsadasd, asd asd | your name, a profile | asdasd asd asd asd, as dsad, as dasd sa |
+| lorem ipsum, blablabla                                                             |                      |                                         |
+|                                                                                    |                      |                                         |
+
+
 | **Categories of      | **Specific Types of  | **Source of          |
 | Personal             | Personal Information | Information**        |
 | Information**        | Collected**          |                      |
-+======================+======================+======================+
+|----------------------|----------------------|----------------------|
 | Identifiers          | your name, a profile | -   The user         |
 |                      | picture, your e-mail |     > themselves     |
 |                      | and mailing address, |                      |
