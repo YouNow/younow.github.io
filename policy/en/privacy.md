@@ -527,78 +527,14 @@ a list of supervisory authorities in the EU, click
 This is the information we have collected about visitors to our Website
 and users of our App in the past 12 months:
 
-| Categories of Personal Information                                                 | Specific Types of    | Source of                               |
-|------------------------------------------------------------------------------------|----------------------|-----------------------------------------|
-| Identifiers, ads asdasd, asd asd asd, asd, asd asd  asd sad sad asdsadasd, asd asd | your name, a profile | asdasd asd asd asd, as dsad, as dasd sa |
-| lorem ipsum, blablabla                                                             |                      |                                         |
-|                                                                                    |                      |                                         |
-
-
-| **Categories of      | **Specific Types of  | **Source of          |
-| Personal             | Personal Information | Information**        |
-| Information**        | Collected**          |                      |
-|----------------------|----------------------|----------------------|
-| Identifiers          | your name, a profile | -   The user         |
-|                      | picture, your e-mail |     > themselves     |
-|                      | and mailing address, |                      |
-|                      | your phone number    | -   Social media     |
-|                      | and social following |     > platforms      |
-+----------------------+----------------------+----------------------+
-| Information that     | Your location and    | -   The user         |
-| identifies, relates  | language, your       |     > themselves     |
-| to, describes, or is | social profile and   |                      |
-| capable of being     | following (that is,  | -   Social media     |
-| associated with, a   | data about your      |     > platforms      |
-| particular           | connections), the    |                      |
-| individual           | content you provide  |                      |
-|                      | us when you enter    |                      |
-|                      | profile data, create |                      |
-|                      | broadcasts, chats,   |                      |
-|                      | posts, moments, when |                      |
-|                      | you gift or fan      |                      |
-|                      | another user or      |                      |
-|                      | subscribe to a       |                      |
-|                      | partner\'s           |                      |
-|                      | broadcasts,          |                      |
-|                      | communication from   |                      |
-|                      | you, and information |                      |
-|                      | you provide us when  |                      |
-|                      | you answer our       |                      |
-|                      | surveys.             |                      |
-+----------------------+----------------------+----------------------+
-| Biometric            | Profile picture from | Social media         |
-| information          | social media         | platforms            |
-|                      | platforms            |                      |
-+----------------------+----------------------+----------------------+
-| Commercial           | information about    | The user themselves  |
-| information          | your e-wallet,       |                      |
-|                      | including the        |                      |
-|                      | wallet\'s address,   |                      |
-|                      | any signature you    |                      |
-|                      | provide, and the     |                      |
-|                      | balance in the       |                      |
-|                      | wallet.              |                      |
-+----------------------+----------------------+----------------------+
-| Internet or other    | when you last logged | -   The user         |
-| electronic network   | in, when you created |     > themselves     |
-| activity information | a broadcast, liked   |                      |
-|                      | or commented on      | -   The user's       |
-|                      | someone else\'s      |     > device         |
-|                      | broadcast, when you  |                      |
-|                      | created a moment,    |                      |
-|                      | how many bars or     |                      |
-|                      | coins you have, your |                      |
-|                      | total airtime, your  |                      |
-|                      | IP address and       |                      |
-|                      | information about    |                      |
-|                      | your device or       |                      |
-|                      | browser.             |                      |
-+----------------------+----------------------+----------------------+
-| Geolocation data     | IP address, your     | The user' device     |
-|                      | location provided to |                      |
-|                      | us when you register |                      |
-|                      | to the service.      |                      |
-+----------------------+----------------------+----------------------+
+| Categories of Personal Information                                                                                  | Specific Types of Personal Information Collected                                                                                                                                                                                                                                                                                                                      | Source of Information                          |
+|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Identifiers                                                                                                         | your name, a profile picture, your e-mail and mailing address, your phone number and social following                                                                                                                                                                                                                                                                 | - The user themselves - Social media platforms |
+| Information that identifies, relates to, describes, or is capable of being associated with, a particular individual | Your location and language, your social profile and following (that is, data about your connections), the content you provide us when you enter profile data, create broadcasts, chats, posts, moments, when you gift or fan another user or subscribe to a partner's broadcasts, communication from you, and information you provide us when you answer our surveys. | - The user themselves - Social media platforms |
+| Biometric information                                                                                               | Profile picture from social media platforms                                                                                                                                                                                                                                                                                                                           | Social media platforms                         |
+| Commercial information                                                                                              | information about your e-wallet, including the wallet's address, any signature you provide, and the balance in the wallet.                                                                                                                                                                                                                                            | The user themselves                            |
+| Internet or other electronic network activity information                                                           | when you last logged in, when you created a broadcast, liked or commented on someone else's broadcast, when you created a moment, how many bars or coins you have, your total airtime, your IP address and information about your device or browser.                                                                                                                  | - The user themselves - The user's device      |
+| Geolocation data                                                                                                    | IP address, your location provided to us when you register to the service.                                                                                                                                                                                                                                                                                            | The user's device                              |
 
 The following are the business or commercial purposes for which we use
 each category of personal information. Details about the information we
@@ -606,264 +542,27 @@ collect for each category are provided in the table above. More details
 about the business or commercial purposes are provided in the privacy
 policy's section titled 'HOW WE USE PERSONAL DATA'.
 
-+----------------------+----------------------+----------------------+
-| **Categories of      | **Business or        | **Specific           |
-| Personal             | commercial purposes  | purposes**           |
-| Information**        | pursuant to the      |                      |
-|                      | CCPA**               |                      |
-+======================+======================+======================+
-| Identifiers          | Providing customer   | To provide our       |
-|                      | service, processing  | products and         |
-|                      | or fulfilling orders | services             |
-|                      | and transactions,    |                      |
-|                      | verifying customer   | To verify your       |
-|                      | information,         | identity             |
-|                      | processing payments  |                      |
-|                      |                      | To communicate with  |
-|                      | Auditing relating to | you                  |
-|                      | a current            |                      |
-|                      | transaction with the | To improve our       |
-|                      | customer             | products and         |
-|                      |                      | services and prevent |
-|                      |                      | fraud                |
-|                      |                      |                      |
-|                      |                      | To receive feedback  |
-|                      |                      | from you and inquire |
-|                      |                      | about any features   |
-|                      |                      | you would like to    |
-|                      |                      | see in future        |
-|                      |                      | products and to      |
-|                      |                      | promote new products |
-|                      |                      | or services          |
-|                      |                      |                      |
-|                      |                      | Analyze our user     |
-|                      |                      | database to review   |
-|                      |                      | preferences and      |
-|                      |                      | trends for our own   |
-|                      |                      | internal statistical |
-|                      |                      | and analytical       |
-|                      |                      | purposes             |
-+----------------------+----------------------+----------------------+
-| Information that     |                      |                      |
-| identifies, relates  |                      |                      |
-| to, describes, or is |                      |                      |
-| capable of being     |                      |                      |
-| associated with, a   |                      |                      |
-| particular           |                      |                      |
-| individual           |                      |                      |
-+----------------------+----------------------+----------------------+
-| Commercial           |                      |                      |
-| information          |                      |                      |
-+----------------------+----------------------+----------------------+
-| Geolocation data     |                      |                      |
-+----------------------+----------------------+----------------------+
-| Biometric            |                      |                      |
-| information          |                      |                      |
-+----------------------+----------------------+----------------------+
-| Internet or other    | Detecting security   |                      |
-| electronic network   | incidents,           |                      |
-| activity information | protecting against   |                      |
-|                      | malicious,           |                      |
-|                      | deceptive,           |                      |
-|                      | fraudulent or        |                      |
-|                      | illegal activity,    |                      |
-|                      | prosecuting those    |                      |
-|                      | responsible for that |                      |
-|                      | activity             |                      |
-|                      |                      |                      |
-|                      | Undertaking internal |                      |
-|                      | research for         |                      |
-|                      | technological        |                      |
-|                      | development and      |                      |
-|                      | demonstration        |                      |
-|                      |                      |                      |
-|                      | Undertaking          |                      |
-|                      | activities to verify |                      |
-|                      | or maintain the      |                      |
-|                      | quality of the       |                      |
-|                      | service and to       |                      |
-|                      | improve, upgrade or  |                      |
-|                      | enhance the service  |                      |
-|                      |                      |                      |
-|                      | Debugging to         |                      |
-|                      | identify and repair  |                      |
-|                      | errors               |                      |
-+----------------------+----------------------+----------------------+
+| Categories of Personal Information                                                                                  | Business or commercial purposes pursuant to the CCPA                                                                                                                                                                                                                                                                                                                                             | Specific purposes                                                                                                                                                                                                                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Identifiers                                                                                                         | Providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing paymentsAuditing relating to a current transaction with the customer                                                                                                                                                                                                    | To provide our products and servicesTo verify your identityTo communicate with youTo improve our products and services and prevent fraudTo receive feedback from you and inquire about any features you would like to see in future products and to promote new products or services Analyze our user database to review preferences and trends for our own internal statistical and analytical purposes |
+| Information that identifies, relates to, describes, or is capable of being associated with, a particular individual | Same than above                                                                                                                                                                                                                                                                                                                                                                                  | Same than above                                                                                                                                                                                                                                                                                                                                                                                          |
+| Commercial information                                                                                              | Same than above                                                                                                                                                                                                                                                                                                                                                                                  | Same than above                                                                                                                                                                                                                                                                                                                                                                                          |
+| Geolocation data                                                                                                    | Same than above                                                                                                                                                                                                                                                                                                                                                                                  | Same than above                                                                                                                                                                                                                                                                                                                                                                                          |
+| Biometric information                                                                                               | Same than above                                                                                                                                                                                                                                                                                                                                                                                  | Same than above                                                                                                                                                                                                                                                                                                                                                                                          |
+| Internet or other electronic network activity information                                                           | Detecting security incidents, protecting against malicious, deceptive, fraudulent or illegal activity, prosecuting those responsible for that activityUndertaking internal research for technological development and demonstrationUndertaking activities to verify or maintain the quality of the service and to improve, upgrade or enhance the serviceDebugging to identify and repair errors | Same than above                                                                                                                                                                                                                                                                                                                                                                                          |
 
 **Please note that we do not sell your data and we have not done so in
 the preceding 12 months.**
 
 **YOUR RIGHTS AS A CALIFORNIA RESIDENT UNDER THE CCPA**
 
-+----------------------------------+----------------------------------+
-| Disclosure of Personal           | You have the right to know:      |
-| Information We Collect About You |                                  |
-|                                  | -   The categories of personal   |
-|                                  |     > information we have        |
-|                                  |     > collected about you;       |
-|                                  |                                  |
-|                                  | -   The categories of sources    |
-|                                  |     > from which the personal    |
-|                                  |     > information is collected;  |
-|                                  |                                  |
-|                                  | -   Our business or commercial   |
-|                                  |     > purpose for collecting     |
-|                                  |     > personal information;      |
-|                                  |                                  |
-|                                  | -   The categories of third      |
-|                                  |     > parties with whom we share |
-|                                  |     > personal information, if   |
-|                                  |     > any;                       |
-|                                  |                                  |
-|                                  | -   The specific pieces of       |
-|                                  |     > personal information we    |
-|                                  |     > have collected about you.  |
-+==================================+==================================+
-| Right to Deletion                | Subject to certain exceptions    |
-|                                  | set out below, on receipt of a   |
-|                                  | verifiable request from you, we  |
-|                                  | will:                            |
-|                                  |                                  |
-|                                  | -   Delete your personal         |
-|                                  |     > information from our       |
-|                                  |     > records; and               |
-|                                  |                                  |
-|                                  | -   Direct any service providers |
-|                                  |     > to delete your personal    |
-|                                  |     > information from their     |
-|                                  |     > records.                   |
-|                                  |                                  |
-|                                  | Please note that we may not      |
-|                                  | delete your personal information |
-|                                  | if it is necessary to:           |
-|                                  |                                  |
-|                                  | -   Complete the transaction for |
-|                                  |     > which the personal         |
-|                                  |     > information was collected, |
-|                                  |     > fulfill the terms of a     |
-|                                  |     > written warranty or        |
-|                                  |     > product recall conducted   |
-|                                  |     > in accordance with federal |
-|                                  |     > law, provide a good or     |
-|                                  |     > service requested by you,  |
-|                                  |     > or reasonably anticipated  |
-|                                  |     > within the context of our  |
-|                                  |     > ongoing business           |
-|                                  |     > relationship with you, or  |
-|                                  |     > otherwise perform a        |
-|                                  |     > contract between you and   |
-|                                  |     > us;                        |
-|                                  |                                  |
-|                                  | -   Detect security incidents,   |
-|                                  |     > protect against malicious, |
-|                                  |     > deceptive, fraudulent, or  |
-|                                  |     > illegal activity; or       |
-|                                  |     > prosecute those            |
-|                                  |     > responsible for that       |
-|                                  |     > activity;                  |
-|                                  |                                  |
-|                                  | -   Debug to identify and repair |
-|                                  |     > errors that impair         |
-|                                  |     > existing intended          |
-|                                  |     > functionality;             |
-|                                  |                                  |
-|                                  | -   Exercise free speech, ensure |
-|                                  |     > the right of another       |
-|                                  |     > consumer to exercise his   |
-|                                  |     > or her right of free       |
-|                                  |     > speech, or exercise        |
-|                                  |     > another right provided for |
-|                                  |     > by law;                    |
-|                                  |                                  |
-|                                  | -   Comply with the California   |
-|                                  |     > Electronic Communications  |
-|                                  |     > Privacy Act;               |
-|                                  |                                  |
-|                                  | -   Engage in public or          |
-|                                  |     > peer-reviewed scientific,  |
-|                                  |     > historical, or statistical |
-|                                  |     > research in the public     |
-|                                  |     > interest that adheres to   |
-|                                  |     > all other applicable       |
-|                                  |     > ethics and privacy laws,   |
-|                                  |     > when our deletion of the   |
-|                                  |     > information is likely to   |
-|                                  |     > render impossible or       |
-|                                  |     > seriously impair the       |
-|                                  |     > achievement of such        |
-|                                  |     > research, provided we have |
-|                                  |     > obtained your informed     |
-|                                  |     > consent;                   |
-|                                  |                                  |
-|                                  | -   Enable solely internal uses  |
-|                                  |     > that are reasonably        |
-|                                  |     > aligned with your          |
-|                                  |     > expectations based on your |
-|                                  |     > relationship with us;      |
-|                                  |                                  |
-|                                  | -   Comply with an existing      |
-|                                  |     > legal obligation; or       |
-|                                  |                                  |
-|                                  | -   Otherwise use your personal  |
-|                                  |     > information, internally,   |
-|                                  |     > in a lawful manner that is |
-|                                  |     > compatible with the        |
-|                                  |     > context in which you       |
-|                                  |     > provided the information.  |
-+----------------------------------+----------------------------------+
-| Protection Against               | You have the right to not be     |
-| Discrimination                   | discriminated against by us      |
-|                                  | because you exercised any of     |
-|                                  | your rights under the CCPA. This |
-|                                  | means we cannot, among other     |
-|                                  | things:                          |
-|                                  |                                  |
-|                                  | -   Deny goods or services to    |
-|                                  |     > you;                       |
-|                                  |                                  |
-|                                  | -   Charge different prices or   |
-|                                  |     > rates for goods or         |
-|                                  |     > services, including        |
-|                                  |     > through the use of         |
-|                                  |     > discounts or other         |
-|                                  |     > benefits or imposing       |
-|                                  |     > penalties;                 |
-|                                  |                                  |
-|                                  | -   Provide a different level or |
-|                                  |     > quality of goods or        |
-|                                  |     > services to you; or        |
-|                                  |                                  |
-|                                  | -   Suggest that you will        |
-|                                  |     > receive a different price  |
-|                                  |     > or rate for goods or       |
-|                                  |     > services or a different    |
-|                                  |     > level or quality of goods  |
-|                                  |     > or services.               |
-|                                  |                                  |
-|                                  | Please note that we may charge a |
-|                                  | different price or rate or       |
-|                                  | provide a different level or     |
-|                                  | quality of goods and/or services |
-|                                  | to you, if that difference is    |
-|                                  | reasonably related to the value  |
-|                                  | provided to our business by your |
-|                                  | personal information.            |
-+----------------------------------+----------------------------------+
-| Designate an authorized agent to | You may designate an authorized  |
-| submit CCPA requests on your     | agent to make a request under    |
-| behalf                           | the CCPA on your behalf. To do   |
-|                                  | so, you need to provide the      |
-|                                  | authorized agent written         |
-|                                  | permission to do so and the      |
-|                                  | agent will need to submit to us  |
-|                                  | proof that they have been        |
-|                                  | authorized by you. We will also  |
-|                                  | require that you verify your own |
-|                                  | identity, as explained below.    |
-+----------------------------------+----------------------------------+
+| Disclosure of Personal Information We Collect About You              | You have the right to know:<br>- The categories of personal information we have collected about you;<br>- The categories of sources from which the personal information is collected;<br>- Our business or commercial purpose for collecting personal information;<br>- The categories of third parties with whom we share personal information, if any;<br>- The specific pieces of personal information we have collected about you.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Right to Deletion                                                    | Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:<br>- Delete your personal information from our records;<br>- Direct any service providers to delete your personal information from their records.<br>Please note that we may not delete your personal information if it is necessary to:<br>- Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;<br>- Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;<br>- Debug to identify and repair errors that impair existing intended functionality;Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;<br>- Comply with the California Electronic Communications Privacy Act;<br>- Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;<br>- Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;<br>- Comply with an existing legal obligation; or<br>- Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information. |
+| Protection Against Discrimination                                    | You have the right to not be discriminated against by us because you exercised any of your rights under the CCPA. This means we cannot, among other things:<br>- Deny goods or services to you;<br>- Charge different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties;<br>- Provide a different level or quality of goods or services to you; or<br>- Suggest that you will receive a different price or rate for goods or services or a different level or quality of goods or services.<br>Please note that we may charge a different price or rate or provide a different level or quality of goods and/or services to you, if that difference is reasonably related to the value provided to our business by your personal information.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Designate an authorized agent to submit CCPA requests on your behalf | You may designate an authorized agent to make a request under the CCPA on your behalf. To do so, you need to provide the authorized agent written permission to do so and the agent will need to submit to us proof that they have been authorized by you. We will also require that you verify your own identity, as explained below.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 If you would like to exercise any of your CCPA rights as described above, you should email us at [privacy@younow.com](mailto:privacy@younow.com)
-------------------------------------------------------------------------------------------------------------------------------------
 
 We may ask you for additional information to confirm your identity and
 for security purposes, before disclosing the personal data requested to
