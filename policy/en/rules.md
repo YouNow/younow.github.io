@@ -90,9 +90,13 @@ YouNow does not permit prank calls to emergency authorities or emergency hotline
 - Encouraging viewers to harass, spam, or report another user is completely unacceptable. It&#39;s unfair to them and constitutes harassment on your part, for which consequences may include suspension or banning. Be a responsible community member and encourage users to be positive.
 - Any adult engaging with a minor without a parent&#39;s or legal guardian&#39;s explicit consent in a way that may be deemed inappropriate or suggests grooming behavior when using a common sense philosophy may be subject to a suspension or permanent ban.
 
-**Spam is not permitted**
+**Spam, scams and deceptive practices are not permitted**
 
-We are constantly working to keep YouNow free of spam, scams, and other deceptive practices that attempt to take advantage of the YouNow community. It is forbidden to interrupt the flow of chat sessions with the use of repetitive typing or activity that makes it difficult for users to maintain a conversation, as is the posting of links to pornographic or malicious sites.
+We are constantly working to keep YouNow free of spam, scams, and other deceptive practices that attempt to take advantage of the YouNow community. We also don’t allow content where the main purpose is to trick others into leaving YouNow for another site. It is forbidden to interrupt the flow of chat sessions with the use of repetitive typing or activity that makes it difficult for users to maintain a conversation, as is the posting of links to pornographic or malicious sites.
+
+**Misleading or harmful content**
+
+Any content or activity with the intent to spread misinformation, mislead, harm or put others’ health and well-being at risk is not allowed. This includes the malicious use of false information to manipulate individuals, suggestions against the advisories of local authorities, impersonating medical professionals to give medical advice, or encouraging medical treatments which are known to be ineffective. Any content with the intent to mislead or put another individual at risk will be subject to removal or further action on a user account.
 
 **Unauthorized advertisement of other live streaming services are not permitted.**
 
@@ -148,4 +152,4 @@ For more information on safety, please read YouNow&#39;s [Trust &amp; Safety hub
 
 *If you have any questions regarding these Guidelines or the YouNow Rules in general, please feel free to contact support@younow.com. We value your opinion and are happy to receive your feedback.
 
-Last updated: February 27th, 2020
+Last updated: April 10th, 2020
