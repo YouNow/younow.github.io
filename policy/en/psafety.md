@@ -30,6 +30,8 @@ We take our partners’ account security seriously. We put together the followin
 
 - **Keep your passwords safe.** YouNow or YouNow staff will **never** contact you asking for your password, login credentials on YouNow, or your bank information except for the Tipalti iFrame portal which **only you have** direct access to,  from your YouNow account. Please block any number or email address that may contact you for any personal information and report the email to us at partnersupport@younow.com if you receive any suspicious emails. 
 
+The sharing or use of your YouNow account with any other individual (including family members, friends or other) is not allowed. We strongly advise against sharing your YouNow account login credentials to ensure your account safety. Please note that you are responsible for all activity that takes place on your account and that any misuse by any individual may result in action against the account holder. 
+
 Please read through the [Tips & Tricks on account security & privacy](https://younow.zendesk.com/hc/en-us/articles/215263483-Tips-Tricks-on-How-to-Keep-Your-YouNow-Account-Safe) for additional advice on your YouNow Partner account security.
 
 We recommend reading the following articles to learn more about online security & privacy:
