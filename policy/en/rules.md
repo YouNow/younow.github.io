@@ -148,7 +148,7 @@ If you believe an offense to be unlawful, or experience illegal activities while
 
 Please be advised that in applicable situations, YouNow reserves the right to report suspicious and/or criminal activity to local authorities.
 
-For more information on safety, please read YouNow&#39;s [Trust &amp; Safety hub] (/policy/en/trust), as well as [YouNow&#39;s Guide for Parents] (/policy/en/parents).
+For more information on safety, please read YouNow&#39;s [Trust &amp; Safety hub] (/policy/en/trust), as well as [YouNow&#39;s Guide for Parents](www.younow.com/policy/en/parents).
 
 *If you have any questions regarding these Guidelines or the YouNow Rules in general, please feel free to contact support@younow.com. We value your opinion and are happy to receive your feedback.
 
