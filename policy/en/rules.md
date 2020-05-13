@@ -35,8 +35,8 @@ Reported content will be reviewed based on context, commentary, attire, environm
 
 **Stricter rules for those under 18 and adults interacting with minors on YouNow**
 
-- Users of all genders under the age of 18 must be fully clothed on camera.
-- Any user under the age of 18 without a shirt may be subject to a suspension or permanent ban. This means no underwear, lingerie, or revealing tops/shorts. Users of all ages may not expose genitalia or bare chest in any way.
+- Users of all genders under the age of 18 must be fully clothed on camera. This means no underwear, lingerie, bikinis/swimwear, or revealing tops/shorts. Any user under the age of 18 without a shirt may be subject to action against their account. 
+- Nudity is forbidden for users of all ages. The exposure of genitalia, buttocks, or bare chest in any way is forbidden and subject to a suspension or permanent ban. 
 - Any adult engaging with a minor in a way that may be deemed inappropriate or suggests grooming behavior when using a common sense philosophy may be subject to a suspension or permanent ban. Examples include implying the minor lie about their age, asking to meet offline without the minor&#39;s parents&#39; or legal guardian&#39;s explicit permission, pursuing a direct one-on-one conversation on another platform without the minor&#39;s parents&#39; or legal guardian&#39;s explicit permission, and more.
 
 **Bullying, harassment, or hate speech is not permitted**
