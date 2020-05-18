@@ -82,10 +82,11 @@ Please respect the privacy of others. Showing other individuals on screen withou
 
 YouNow does not permit prank calls to emergency authorities or emergency hotlines, and any user who engages in such will be subject to a permanent ban.
 
-**Solicitation or encouragement of rule-breaking is not permitted**
+**Solicitation of off-platform transactions or encouragement of rule-breaking is not permitted**
 
 - Solicitation of sexual or illegal acts is forbidden. Similarly, it is forbidden for users to request sexual images or personal information from other users.
 - Engagement in illegal or inappropriate commercial activities or sales is also strictly forbidden. Such activities include but are not limited to: pyramid schemes, multi-level marketing offers, and homegrown sweepstakes.
+- The act of monetary solicitation off-platform by any means, including direct links in profiles, discussion board posts, broadcast titles, verbally on broadcast, or in the chat is prohibited. Any content broadcast with the intent to solicit transactions off-platform will be subject to removal or further action on an account.
 - It is forbidden to encourage the violation of community standards either in chat or while broadcasting.
 - Encouraging viewers to harass, spam, or report another user is completely unacceptable. It&#39;s unfair to them and constitutes harassment on your part, for which consequences may include suspension or banning. Be a responsible community member and encourage users to be positive.
 - Any adult engaging with a minor without a parent&#39;s or legal guardian&#39;s explicit consent in a way that may be deemed inappropriate or suggests grooming behavior when using a common sense philosophy may be subject to a suspension or permanent ban.
