@@ -84,6 +84,8 @@ By using the Service, You acknowledge and agree that You are subject to the Term
 
 6.3.        You agree not to collect or harvest any personally identifiable information, including account names, from the Service, nor to use the communication systems provided by the Service for any commercial solicitation purposes.
 
+6.4.        YouNow uses YouTube API services. By connecting a YouTube account, users agree to be bound by YouTube's Terms of Service (https://www.youtube.com/t/terms).
+
 **7.        VIRTUAL CURRENCY/IN-SERVICE PURCHASES**
 
 7.1.        At times, the Service will permit You to &quot;buy&quot; or &quot;purchase&quot;, or &quot;earn&quot; for use in the Service: (a) virtual currency, including but not limited to virtual bars (&quot; **Bars**&quot;); or (b) virtual in-service items, including but not limited to fan mail, visual gifts, thumbs up, tipping (together with virtual currency, &quot; **Virtual Items**&quot;). These real world terms, however, are only being used as shorthand. You do not in fact &quot;own&quot; the Virtual Items, and the amounts of any Virtual Item do not refer to any credit balance of real currency or its equivalent. Rather, YouNow grants You a limited license to use the Service, including software programs that include the use of these Virtual Items.
@@ -253,4 +255,4 @@ A physical or electronic signature of a person authorized to act on behalf of th
 
 19.1.        YouNow reserves the right, in its sole discretion, to change, modify, add, or delete portions of the Terms of Use at any time. When using the Service, You may be subject to additional applicable guidelines or rules that may be posted from time to time. All of these guidelines and rules are deemed incorporated into the Terms of Use. While we may attempt to notify You when major changes are made to the Terms of Use, it is Your responsibility to review the Terms of Use periodically to check for changes. When YouNow makes changes, it will give the date of the most recent update in this space so You can be kept abreast by visiting this page. YouNow also reserves the right in its sole discretion and at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it), with or without notice.
 
-(Terms of Use last updated:March 1st, 2020)
+(Terms of Use last updated:May 28th, 2020)
