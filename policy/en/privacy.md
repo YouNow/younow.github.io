@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-**Last updated: March 1st, 2020**
+**Last updated: May 28, 2020**
 
 YouNow (\"Company\", \"we\" or \"our\") is committed to safeguarding any
 personal data that may be collected through our website (the
@@ -359,6 +359,10 @@ YouNow is not responsible for how other organizations or social media
 platforms use and share your personal data. We recommend that you check
 the privacy policies of any apps, sites or platforms you associate with
 before sharing your personal data with such third parties.
+
+**API SERVICES**
+
+YouNow uses YouTube API services. For more information, please refer to Google’s privacy policy (http://www.google.com/policies/privacy).
 
 **ACCEPTANCE OF THIS PRIVACY POLICY**
 
