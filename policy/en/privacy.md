@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-**Last updated: May 28, 2020**
+**Last updated: June 1, 2020**
 
 YouNow (\"Company\", \"we\" or \"our\") is committed to safeguarding any
 personal data that may be collected through our website (the
@@ -362,7 +362,7 @@ before sharing your personal data with such third parties.
 
 **API SERVICES**
 
-YouNow uses YouTube API services. For more information, please refer to Google’s privacy policy (http://www.google.com/policies/privacy).
+YouNow uses YouTube API services. For more information, please refer to Google’s privacy policy (http://www.google.com/policies/privacy).  Users can revoke YouNow’s access to Google user data via the Google security setting page (https://security.google.com/settings/security/permissions).
 
 **ACCEPTANCE OF THIS PRIVACY POLICY**
 
