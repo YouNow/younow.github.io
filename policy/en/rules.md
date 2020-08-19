@@ -17,7 +17,7 @@ Violent behavior includes but is not limited to:
 - threats to hack, DDOS, or SWAT others
 - threats or attempts to self-harm
 
-YouNow strictly prohibits threats and threats to self harm. We encourage any user considering self-harm to seek help. The 24-hour National Suicide Prevention Lifeline can be reached at 1-800-273-8255. Please visit YouNow&#39;s Trust Page here for other international emergency hot lines.
+YouNow strictly prohibits threats and threats to self harm. We encourage any user considering self-harm to seek help. The 24-hour National Suicide Prevention Lifeline can be reached at 1-800-273-8255. Please visit YouNow&#39;s Trust Page [here](https://www.younow.com/policy/en/trust) for other international emergency hot lines.  
 
 **No sexually explicit content, nudity or abusive behavior.**
 
