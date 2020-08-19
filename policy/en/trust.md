@@ -21,7 +21,7 @@ When you flag a user, the flag goes to live moderators who will review the situa
 
 _Parents' Guide_
 
-Are you a parent of a user on YouNow? Feel free to visit our [Parents' Guide] (/policy/en/parents) to learn important information about YouNow and general social media safety.
+Are you a parent of a user on YouNow? Feel free to visit our [Parents' Guide](/policy/en/parents) to learn important information about YouNow and general social media safety.
 
 ## Underage Users
 
