@@ -21,7 +21,7 @@ YouNow strictly prohibits threats and threats to self harm. We encourage any use
 
 **No sexually explicit content, nudity or abusive behavior.**
 
-Sexual dancing is not OK. Are you a great dancer? Awesome. Entertain your audience. But please avoid sexually suggestive moves, such as grinding, twerking, or mimicking sex. If you aren't sure, err on the side of caution.
+Sexual dancing is not OK. Are you a great dancer? Awesome. Entertain your audience. However, dancing that is sexually explicit, suggestive, or mimicking sex is prohibited. If you aren't sure, err on the side of caution.
 
 Do not broadcast sexual content or nudity. This includes content displayed in other apps during your broadcasts (including Parlor, PartyLine, Basechat, Omegle or other apps used for chat). Remember that you are a community leader and example to others. Encouragement of nudity or sexual conduct is prohibited on YouNow.
 
@@ -152,4 +152,4 @@ For more information on safety, please read YouNow&#39;s [Trust &amp; Safety hub
 
 *If you have any questions regarding these Guidelines or the YouNow Rules in general, please feel free to contact support@younow.com. We value your opinion and are happy to receive your feedback.
 
-Last updated: April 10th, 2020
+Last updated: Dec 2, 2020
