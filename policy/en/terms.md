@@ -86,7 +86,7 @@ By using the Service, You acknowledge and agree that You are subject to the Term
 
 6.4.        YouNow uses YouTube API services. By connecting a YouTube account, users agree to be bound by YouTube's Terms of Service (https://www.youtube.com/t/terms).
 
-**7.        VIRTUAL CURRENCY/IN-SERVICE PURCHASES**
+**7.        VIRTUAL CURRENCY/IN-SERVICE PURCHASES/PURCHASE TERMS**
 
 7.1.        At times, the Service will permit You to &quot;buy&quot; or &quot;purchase&quot;, or &quot;earn&quot; for use in the Service: (a) virtual currency, including but not limited to virtual bars (&quot; **Bars**&quot;); or (b) virtual in-service items, including but not limited to fan mail, visual gifts, thumbs up, tipping (together with virtual currency, &quot; **Virtual Items**&quot;). These real world terms, however, are only being used as shorthand. You do not in fact &quot;own&quot; the Virtual Items, and the amounts of any Virtual Item do not refer to any credit balance of real currency or its equivalent. Rather, YouNow grants You a limited license to use the Service, including software programs that include the use of these Virtual Items.
 
@@ -97,6 +97,21 @@ By using the Service, You acknowledge and agree that You are subject to the Term
 7.4.        Bars and other Virtual Items gifted to broadcasters may result in some revenue to them as determined in YouNow&#39;s sole discretion; however, YouNow makes no guarantee that the amount or value of the Bars or Virtual Items You may give a broadcaster will correlate to the revenue such broadcaster may receive from YouNow. All in-app purchases are subject to a 30% fee charged by Google or Apple, depending on the platform. After the platforms remove their fees, Partners get 60% of the remaining revenue, and YouNow takes 40% of the remaining revenue.
 
 7.5.        Only users of the Service who initiate a broadcast or a Guest session will be eligible for Bars and other Virtual Items.
+
+
+7.6  All purchases of Products you place through YouNow or its vendors are non-refundable, except to the extent we decide otherwise, in our sole and absolute discretion. All prices we show on this Service are subject to change without notice.
+
+7.7 All subscription purchases will automatically renew for successive periods equal in duration to the initial subscription term, unless either party notifies the other party in writing before the expiration of the then-current subscription term that such party does not wish to renew the subscription for an additional subscription term. You have the right to cancel the subscription renewal yourself.
+
+7.8 If you dispute any of your charges at any time, YouNow has the right to contest the dispute and you acknowledge that YouNow may furnish all details of the transaction to the governing body. If you cancel your account at any time, you will not receive any refund.
+
+7.9 You expressly agree that you will not reverse or attempt to reverse any transaction(s) to add funds to your account that you complete. You also agree that we may deduct any amounts associated with your account if a transaction is subsequently reversed via a chargeback, reversal, claim, or is otherwise deemed fraudulent or erroneous. We may also deduct any amounts held by you in your account to satisfy any outstanding amount owed by you to us under these Terms or otherwise. We reserve the right to report, suspend, and/or terminate accounts and these Terms for chargeback abuse.
+
+7.10 When you purchase YouNow products, your purchases are non-refundable and are made at your own risk. You engage in transactions between you and other users at your own risk.
+
+7.11 YouNow is under no obligation to provide any refund (either in cash or in credits) for any item made by a third party content creator that is broken, that later becomes disabled, that is later removed or altered by the content creator or by YouNow, or that was inappropriately submitted. If you have any billing problems or questions, please visit the YOuNow Help Center [Link to FAQ]. Additionally, if an item is removed from this Service as a result of an intellectual property infringement claim (or Unsuitable for YouNow content) and/or YouNow disables your use of such an item as set forth in these Terms, any cash and/or any credits that you used to purchase such items will not be refunded.
+
+7.12 We may revise or modify Products, Product information, or pricing without notice. We are not responsible for typos or errors in product descriptions or prices.
 
 **8.        PROPS**
 
