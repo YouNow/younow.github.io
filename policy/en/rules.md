@@ -152,4 +152,4 @@ For more information on safety, please read YouNow&#39;s [Trust &amp; Safety hub
 
 *If you have any questions regarding these Guidelines or the YouNow Rules in general, please feel free to contact support@younow.com. We value your opinion and are happy to receive your feedback.
 
-Last updated: Dec 2, 2020
+Last updated: February 4, 2021
