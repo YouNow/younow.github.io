@@ -68,7 +68,7 @@ Situations that may be deemed as dangerous, self-destructive or that may lead to
 
 **Illegal substance use is not permitted onscreen**
 
-On screen drug consumption, drug paraphernalia, smoking, and the consumption of alcohol by users under the age of 21 are prohibited. Any attempt to purchase, promote, abuse, sell, or trade prescription or illegal drugs are not allowed, and the consumption of all illegal drugs is prohibited. Users must comply with applicable laws according to where they reside and carefully consider their audiences with regards to the content they are producing.
+On screen drug consumption, drug paraphernalia, smoking, and the consumption of alcohol by users must abide by all local laws, including abiding by age restrictions and prohibiting the use of any illegal drugs. Any attempt to purchase, promote, abuse, sell, or trade prescription or illegal drugs are not allowed, and the consumption of all illegal drugs is prohibited. Users must comply with applicable laws according to where they reside and carefully consider their audiences with regards to the content they are producing.
 
 **You must be at least 13 years old to use YouNow**
 
