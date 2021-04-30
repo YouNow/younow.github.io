@@ -113,6 +113,10 @@ By using the Service, You acknowledge and agree that You are subject to the Term
 
 7.12 We may revise or modify Products, Product information, or pricing without notice. We are not responsible for typos or errors in product descriptions or prices.
 
+7.13 If You perform an in-app activity that we determine to reward, the performance of this activity alone does not entitle you to receive free Bars. If you perform one of these actions, we may indicate that you are provisionally entitled to receive free Bars. Free Bars are not transferrable and will expire within 60 days of when they are issued. If we determine, in our sole discretion, that You have violated these Terms, in our sole discretion, we may cause You to forfeit all of the Pending Props associated with Your YouNow Account. 
+
+7.14 If we determine, in our sole discretion, that You have violated these Terms, in our sole discretion, we may cause You to forfeit all of the free Bars associated with Your YouNow Account.
+
 **8.        DIAMOND PROGRAM**
 
 8.1        Not a Legal Partnership and Not an Employee Relationship.
