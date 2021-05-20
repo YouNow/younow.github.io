@@ -4,9 +4,15 @@ layout: default
 category: EN
 ---
 
-**Last updated: June 1, 2020**
+**Last updated: May 29, 2021**
 
-YouNow (\"Company\", \"we\" or \"our\") is committed to safeguarding any
+YouNow (\"Compa
+
+
+
+
+
+\", \"we\" or \"our\") is committed to safeguarding any
 personal data that may be collected through our website (the
 \"Website\") and mobile application (the \"App\") and together, the
 \"Services\". We want you to understand how your personal data will be
@@ -403,8 +409,7 @@ Privacy Policy last updated: March 1st 2020
 **FURTHER GDPR INFORMATION FOR USERS IN THE EUROPEAN UNION**
 
 YouNow Media LLC. is the data controller of the personal data processing
-described in this policy. YouNow is located at 161 Bowery, New York, NY
-10002, United States.
+described in this policy. YouNow is located at 82 Nassau St, New York NY, 10038, United States.
 
 **Legal bases for processing your personal data**
 
