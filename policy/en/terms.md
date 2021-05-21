@@ -133,7 +133,7 @@ The threshold value in Diamonds and exchange rate of Diamonds to “cash out” 
 
 In order to be eligible to “cash out” you must meet the following requirements: (a) You must provide  appropriate tax and ID forms, as may be requested from time to time. In particular, You must provide YouNow with a completed IRS Form W-9 or W-8, as applicable, (b) have a minimum balance of $75 worth of Diamonds based on the currently published exchange rate, (c) have payout preferences established via our third party vendor. 
 
-Payments will be released within no less than seven (7) business days from the “cash out” request. You shall be solely responsible for any and all taxes, including local, state, federal and other country specific taxes, Social Security contributions or payments, disability insurance, unemployment taxes, and other payroll type taxes applicable to any compensation paid to You.
+Verified payments will be released within seven (7) business days from the “cash out” request.  YouNow reserves the right to withhold payments at our discretion, while we verify the authenticity of the transaction(s). You shall be solely responsible for any and all taxes, including local, state, federal and other country specific taxes, Social Security contributions or payments, disability insurance, unemployment taxes, and other payroll type taxes applicable to any compensation paid to You.
 
 Should YouNow terminate a user’s account, their Diamond balance is subject to review for “cash out” eligibility. This decision will be made at the sole discretion of YouNow.
 
@@ -326,4 +326,4 @@ A physical or electronic signature of a person authorized to act on behalf of th
 
 22.1.        YouNow reserves the right, in its sole discretion, to change, modify, add, or delete portions of the Terms of Use at any time. When using the Service, You may be subject to additional applicable guidelines or rules that may be posted from time to time. All of these guidelines and rules are deemed incorporated into the Terms of Use. While we may attempt to notify You when major changes are made to the Terms of Use, it is Your responsibility to review the Terms of Use periodically to check for changes. When YouNow makes changes, it will give the date of the most recent update in this space so You can be kept abreast by visiting this page. YouNow also reserves the right in its sole discretion and at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it), with or without notice.
 
-(Terms of Use last updated: April 30, 2021)
+(Terms of Use last updated: May 21, 2021)
