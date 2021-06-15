@@ -217,7 +217,7 @@ YouNow is subject to U.S. trade control laws, and is committed to full complianc
 
 10.5.        YouNow reserves the right to suspend or terminate Your access to any Subscription-based part of the Service without notice upon rejection of any charges or if the bank or other entity that makes payment on your behalf (or its agent or affiliate) seeks return of payments previously made when YouNow believes Your are liable for the charges. YouNow also reserves the right in its sole discretion to suspend or terminate Your access to any Subscription-based service if You are found, at the sole discretion of YouNow, to be in breach of the Terms of Use, or if You are suspended or banned, for any reason. That being said, You are responsible for canceling Your own Subscription(s) if You are banned from the Service.
 
-10.6.        You may choose not to renew Your Subscription-based part of the Service at any time by selecting the &quot;Cancel Subscription&quot; option under the Subscriptions page or by contacting support@Younow.com. Your cancellation is effective at the end of the current Subscription term.
+10.6.        You may choose not to renew Your Subscription-based part of the Service at any time by selecting the &quot;Cancel Subscription&quot; option under the Subscriptions page or by contacting Support. Your cancellation is effective at the end of the current Subscription term.
 
 10.7.        YouNow reserves the right to change, modify or cancel the Subscription program as it sees fit. All alterations to the Subscription program will apply to all participants.
 
