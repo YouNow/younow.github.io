@@ -42,7 +42,7 @@ Parents of minors under the age of 13 should ensure their children are not using
  - No prank calls to emergency authorities or hotlines
  - No solicitation or encouragement of rule-breaking
  - No chat spam
- - No impersonating other members or having multiple accounts
+ - No impersonating other members
  - No copyright infringement
 
 You can find a detailed description of YouNow’s rules [here](www.http://www.younow.com/policy/en/rules).
