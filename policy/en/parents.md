@@ -45,7 +45,7 @@ Parents of minors under the age of 13 should ensure their children are not using
  - No impersonating other members
  - No copyright infringement
 
-You can find a detailed description of YouNow’s rules [here](www.http://www.younow.com/policy/en/rules).
+You can find a detailed description of YouNow’s rules [here](https://www.younow.com/policy/en/rules).
 
 ## Flagging, blocking, and reporting
 
