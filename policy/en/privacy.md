@@ -6,13 +6,7 @@ category: EN
 
 **Last updated: May 21, 2021**
 
-YouNow (\"Compa
-
-
-
-
-
-\", \"we\" or \"our\") is committed to safeguarding any
+YouNow (\"Company\", \"we\" or \"our\") is committed to safeguarding any
 personal data that may be collected through our website (the
 \"Website\") and mobile application (the \"App\") and together, the
 \"Services\". We want you to understand how your personal data will be
