@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-**Last updated: May 21, 2021**
+**Last updated: March 12, 2022**
 
 YouNow (\"Company\", \"we\" or \"our\") is committed to safeguarding any
 personal data that may be collected through our website (the
@@ -363,6 +363,10 @@ before sharing your personal data with such third parties.
 **API SERVICES**
 
 YouNow uses YouTube API services. For more information, please refer to Google’s privacy policy (http://www.google.com/policies/privacy).  Users can revoke YouNow’s access to Google user data via the Google security setting page (https://security.google.com/settings/security/permissions).
+
+**AVATARS**
+
+YouNow does not use your photos or facial features, apart or together, for any reason other than to create and integrate your YouNow avatar into the YouNow software platform and programming. YouNow will not use your photos or facial features for facial recognition. YouNow's face detection software is not able to identify a specific person and therefore cannot be considered as collecting biometric information, provided however that if applicable law is modified such that the YouNow software is deemed to collect biometric information, you provide your expressed informed written consent to the continued operation of our service as in place prior to the modification of such applicable law.
 
 **ACCEPTANCE OF THIS PRIVACY POLICY**
 
