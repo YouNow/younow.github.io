@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-**Last updated: March 14, 2022**
+**Last updated: March 17, 2022**
 
 YouNow (\"Company\", \"we\" or \"our\") is committed to safeguarding any
 personal data that may be collected through our website (the
@@ -18,7 +18,7 @@ handling practices.
 YouNow Media LLC.\'s head office is located in New York, NY, USA. Any
 questions or inquiries relating to privacy or data protection should be
 directed to our Data Protection Officer
-at [privacy\@younow.com](mailto:privacy@younow.com). EU
+at [privacy\@younow.com](mailto:privacy@younow.com). EU
 and California residents may also exercise their data subject rights
 such as the right of access or erasure by contacting our Data Protection
 Officer.
@@ -46,14 +46,14 @@ share highly sensitive personal data using our Services. Some
 information about your use of our Services is collected automatically,
 such as when you went live and how many fans you have.
 
-As used in this Privacy Policy, **\"Personal Data\"** is as defined in
+As used in this Privacy Policy, **\"Personal Data\"** is as defined in
 the GDPR as any information relating to an identified or identifiable
-natural person **(\"data subject\")**. There are a number of different
+natural person **(\"data subject\")**. There are a number of different
 collections of personal data from you:
 
 **DIRECT COLLECTION:**
 
-**Registration:** When you register to use our Services, we receive
+**Registration:** When you register to use our Services, we receive
 certain information about you through Facebook®, Twitter®, Google+®, or
 Instagram®, as applicable to your method of registration. This
 information may include your name, your location and language, a profile
@@ -63,7 +63,7 @@ only wish to view content, but is required for users who would like to
 broadcast via YouNow or to use the Services\' more advance options. You
 can update your profile data at any time.
 
-**YouNow Activity:** Any user-generated content is collected by YouNow,
+**YouNow Activity:** Any user-generated content is collected by YouNow,
 such as when you enter profile data, create broadcasts, chats, posts,
 moments, when you gift or fan another user or subscribe to a partner\'s
 broadcasts. Communication from You: When you contact us with questions,
@@ -71,26 +71,26 @@ concerns or for purposes of customer/technical support, we collect the
 information contained in your message, which may include your name,
 contact details and any other personal data you provide.
 
-**Crypto-Wallet Information:** If you choose to connect a digital
+**Crypto-Wallet Information:** If you choose to connect a digital
 wallet, such as MyEtherWallet, Metamask, or Mobile Wallet, with your
 YouNow account in order to receive and hold YouNow\'s \"Props\" tokens,
 we receive information about that wallet, including the wallet\'s
 address, any signature you provide, and the balance in the wallet.
 
-**Survey Information:** We may collect your user information through
+**Survey Information:** We may collect your user information through
 surveys we conduct from time to time with respect to our Service.
 Participation in and providing information through such surveys is
 optional.
 
 **AUTOMATIC COLLECTION:**
 
-**Social Network Data:** Your social following, that is, data about your
+**Social Network Data:** Your social following, that is, data about your
 connections, will also be collected by YouNow, and if these connections
 are YouNow users, they will automatically appear as your fans. Keep in
 mind that we receive information from other users\' registrations for
 our Services, which may include your social username.
 
-**Metadata:** Information collected behind the scenes by YouNow\'s
+**Metadata:** Information collected behind the scenes by YouNow\'s
 servers about your use of YouNow\'s Services. This includes, but is not
 limited to, when you last logged in, when you created a broadcast, liked
 or commented on someone else\'s broadcast, when you created a moment,
@@ -101,9 +101,9 @@ Automated data collection does not lead to profiling that significantly
 affects YouNow users, but simply gives YouNow a clear picture of its
 users and influencers. For a complete listing of data fields collected
 and used by YouNow, you may contact us
-at [privacy\@younow.com](mailto:privacy@younow.com)
+at [privacy\@younow.com](mailto:privacy@younow.com)
 
-**DO NOT PROVIDE SPECIAL CATEGORIES OF PERSONAL DATA:** We ask that you
+**DO NOT PROVIDE SPECIAL CATEGORIES OF PERSONAL DATA:** We ask that you
 not send us, and you do not disclose, through a broadcast or other
 interaction, \"special categories of personal data\" as defined in the
 GDPR (information related to racial or ethnic origin, political
@@ -263,12 +263,12 @@ permit access.
 YouNow uses the following types of cookies for the purposes set out
 below.
 
-**Essential Cookies:** These cookies are essential to provide you with
+**Essential Cookies:** These cookies are essential to provide you with
 our Services. For example, they allow you to log in to our Website or
 App and help the content of the pages you request load quickly. We only
 use these cookies to provide you with those services.
 
-**Functionality Cookies:** These cookies allow our Website and/or App to
+**Functionality Cookies:** These cookies allow our Website and/or App to
 remember choices you make when you use our Services, such as remembering
 your language preferences, remembering your login details and
 remembering the changes you make to parts of our platform that you can
@@ -276,7 +276,7 @@ customize. The purpose of these cookies is to provide you with a more
 personal experience and to avoid you having to re-enter your preferences
 every time you visit us.
 
-**Analytics and Performance Cookies:** These cookies are used to collect
+**Analytics and Performance Cookies:** These cookies are used to collect
 information about traffic to our Services and how our Services are being
 used. The information gathered does not identify any individual visitor.
 The information is aggregated and anonymous. It includes the number of
@@ -288,9 +288,9 @@ Google Analytics and other third party analytics services for this
 purpose to capture page and screen views. You can prevent the use of
 Google Analytics relating to your use of our Services by downloading and
 installing the browser plugin available via this
-link: [http://tools.google.com/dlpage/gaoptout?hl=en-GB](http://tools.google.com/dlpage/gaoptout?hl=en-GB).
+link: [http://tools.google.com/dlpage/gaoptout?hl=en-GB](http://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
-**Social Media Cookies:** These cookies are used when you share
+**Social Media Cookies:** These cookies are used when you share
 information using a social media sharing button or \"like\" button on
 our App and/or Website or you link your account or engage with our
 content on or through a social networking website such as Facebook,
@@ -310,7 +310,7 @@ country, you must immediately cease using our Services.
 In order to ensure compliance with the provisions of the U.S.
 Children\'s Online Privacy Protection Act and other data protection laws
 around the world aimed at protecting children, in accordance with our
-Terms of Use, **children under the age of thirteen (13) are not
+Terms of Use, **children under the age of thirteen (13) are not
 permitted to access or use our Services**, and children under the age of
 thirteen (13) should not provide any personal data to the Website or the
 App. We ask that parents supervise their children while online and/or
@@ -364,9 +364,11 @@ before sharing your personal data with such third parties.
 
 YouNow uses YouTube API services. For more information, please refer to Google’s privacy policy (http://www.google.com/policies/privacy).  Users can revoke YouNow’s access to Google user data via the Google security setting page (https://security.google.com/settings/security/permissions).
 
-**AVATARS**
+**CAMERA AND TRUEDEPTH API**
 
-YouNow does not use your photos or facial features, apart or together, for any reason other than to create and integrate your YouNow avatar into the YouNow software platform and programming. YouNow will not use your photos or facial features for facial recognition or any other function outside of of creating and integrating your avatar. YouNow's face detection software is not able to identify a specific person and therefore cannot be considered as collecting biometric information, provided however that if applicable law is modified such that the YouNow software is deemed to collect biometric information, you provide your expressed informed written consent to the continued operation of our service as in place prior to the modification of such applicable law. Your facial features as determined by Apple's TrueDepth API or similar software are not used in any third-party tracking or other third-party software.
+Our apps make use of automatically collected information using the device camera and the TrueDepth API provided by Apple. The only use of this information is to track the user’s head, eyes and face so that the user can control the AR/Avatar experience. None of the information collected by the TrueDepth API ever leaves the user's device nor is it persistently stored on the device.
+
+YouNow does not use your photos or facial features, apart or together, for any reason other than to create and integrate your YouNow avatar into the YouNow software platform and programming. YouNow will not use your photos or facial features for facial recognition or any other function outside of of creating and integrating your avatar. YouNow's face detection software is not able to identify a specific person and therefore cannot be considered as collecting biometric information, provided however that if applicable law is modified such that the YouNow software is deemed to collect biometric information, you provide your expressed informed written consent to the continued operation of our service as in place prior to the modification of such applicable law. 
 
 **ACCEPTANCE OF THIS PRIVACY POLICY**
 
