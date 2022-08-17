@@ -275,6 +275,69 @@ A physical or electronic signature of a person authorized to act on behalf of th
 
 15.5.        Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by emailing all proper documentation to [copyright@Younow.com](mailto:copyright@Younow.com) with the words "Attn Copyright Infringement Designated Agent" in the subject line.
 
+**16.        SOCIAL GAMES AND GAMING**
+
+16.1.        YouNow offers you a license to participate, for entertainment purposes only, in social gaming activities (&quot;**Games**&quot;). These Terms of Use are an agreement that governs your use of our Games on our Services. 
+16.2.        PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING OUR GAMES AND SERVICES AS THEY CONTAIN IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES AND OBLIGATIONS.  THESE INCLUDE VARIOUS LIMITATIONS AND EXCLUSIONS, AND A DISPUTE RESOLUTION CLAUSE THAT GOVERNS HOW DISPUTES WILL BE RESOLVED. BY USING ANY OF OUR SERVICES YOU ARE AGREEING TO COMPLY WITH THESE TERMS OF USE.  
+16.3.        CERTAIN SERVICES OR PORTIONS OF OUR SERVICES ARE AGE RESTRICTED.  IF YOU ARE UNDER 18 YEARS OF AGE AND HAVE ACCESSED OUR GAMES BY PROVIDING A FALSE DATE OF BIRTH, YOU MUST IMMEDIATELY STOP USING OUR GAMES AND SERVICES. IF YOU BELIEVE SOMEONE UNDER 18 YEARS OF AGE HAS PROVIDED US WITH INFORMATION BY OBTAINING ACCESS IN VIOLATION OF THE APPLICABLE SERVICES’ ACCESS RESTRICTIONS, PLEASE CONTACT US IMMEDIATELY AND THIS INFORMATION WILL BE REMOVED.
+
+16.4.        Eligibility for the Games and Services is limited to legal residents of the United States who are located in the United States at the time of playing any Game within the Services. THE SERVICES OR GAMES ARE VOID IF PROHIBITED OR RESTRICTED BY LAW.
+ 
+16.5.        YouNow’s Games are to be used exclusively for entertainment purposes. THERE IS NO PURCHASE NECESSARY to participate in a Game. Wagers created through YouNow do not in any way represent real-money wagers. 
+ 
+16.6.        YouNow makes no representation that the use of YouNow in conjunction with real-money wagering is lawful. If you or someone you know has a gambling problem, call 1-800-GAMBLER.
+ 
+16.7.        YouNow allows registered end users to collect &quot;Tokens&quot; or &quot;Prizes&quot; or other virtual currency (collectively referred to as &quot;**Tokens**&quot;) within the Services. You agree that these Tokens carry NO MONETARY VALUE and are not representative of legal tender, money or cash or its equivalent nor can these Tokens be redeemed for legal tender, money or cash or its equivalent. YouNow makes no guarantee as to the availability of any Token, whether Tokens will be supplied to you, or whether the correct amount of Tokens will be issued to you. You agree that you have no property interest in the Tokens and that the Tokens are granted under a limited, non-exclusive, revocable, non-sub-licensable, non-transferrable, and personal license only for use with the Services. Any Tokens shown in your account shall not be construed in any way to hold monetary value or as showing any property interest. You do not have any right or title to the Tokens, other than the rights and titles granted in this section. YouNow reserves the right at any time, with or without notice to you, to adjust your Token balance. You hereby agree that your balance of Tokens does not contain any stored value and can be expired or terminated by YouNow at any time for any reason, in YouNow’s sole discretion. 
+ 
+16.8.        If you have a loss of Tokens, whether caused by YouNow, as a result of technical error, third-party interference, or any other reason, you agree that YouNow shall not be liable and shall not be responsible to restore or update your Token balance. Notwithstanding the foregoing, YouNow’s maximum liability, and your exclusive remedy for any errors regarding Token, is to credit back the Tokens, and you acknowledge and agree that YouNow shall have no monetary liability to you whatsoever. All decisions on issuing back or deducting Token shall be at YouNow’s sole discretion.
+ 
+16.9.        When participating in a Service that awards any prizes, you are representing and warranting that you are not an employee or affiliate of YouNow.
+ 
+16.10.       IF YOU DO NOT AGREE TO ABIDE BY THESE OR ANY FUTURE TERMS OF USE, DO NOT CONCLUDE THIS AGREEMENT, AND DO NOT USE, VIEW, DOWNLOAD, OR OTHERWISE USE OR ACCESS (OR CONTINUE TO USE OR ACCESS) THE GAMES OR SERVICES.  
+ 
+16.11.       The Company’s use of your personal information and your responsibilities in connection with protecting your privacy are described in the Privacy Policy, which is incorporated by reference into these Terms of Use.
+ 
+CONTENT
+
+16.12.       Games available for play on the Services are provided for amusement and entertainment purposes only. There is no opportunity to win any prize, money, or anything else of value from any particular Game outcome. Practice or success at Games available for play on the Services does not imply future success at real-money gambling. 
+ 
+16.13.       Use of YouNow in conjunction with real-money wagering is strictly prohibited. The sale or wagering of the Tokens on a secondary market is strictly prohibited. You may contact us to report violations of this provision. 
+ 
+16.14.       From time to time during your use of the Service, you may have the opportunity to &quot;earn&quot;, &quot;buy&quot; or &quot;purchase&quot; (a) virtual in-game Tokens or items; or (b) virtual in-game points, including but not limited to virtual Tokens for use in the Services (together with virtual in-game items, &quot;**Virtual Items**&quot;). You do not in fact &quot;own&quot; the Virtual Items and the amounts of any Virtual Item do not refer to any credit balance of monetary value or its equivalent. 
+ 
+16.15.       By &quot;earning&quot;, &quot;buying&quot;, or &quot;purchasing&quot; Virtual Items, you are granted a limited license to use the software that manifest as the Virtual Items. Any purchase or award of Virtual Items provides you a limited, non-transferable, revocable license to use those Virtual Items solely within the Services, which license is subject to your compliance with this Terms of Use.
+ 
+16.16.       Virtual Items provide no economic advantage or gain to the user.
+ 
+16.17.       Regardless of any other statement in these Terms or any Game Rules that apply to features you may choose to use, you do not own any account that you create on our Services, including in our Games, and your account is not your property. Likewise, you do not own any Virtual Items that you obtained through our Games or Services, regardless of whether you &quot;earned&quot; those Virtual Items or &quot;purchased&quot; them. Your account and any related Virtual Items are owned by YouNow. 
+
+ACCESS AND USE
+16.18.       USE OF THE GAMES AND SERVICES ARE AT YOUR SOLE RISK. THEY ARE PROVIDED ON AN &quot;AS IS&quot; BASIS.
+ 
+16.19.       We may terminate or suspend your account (including, but not limited to, suspending your ability to purchase, redeem or consume Tokens) and/or your access to Games or Services (including, but not limited to, restricting your ability to play the Game or use the Services) at any time, for any reason, including for breach of these Terms or otherwise, without notice and without liability to you. 
+ 
+16.20.       Upon any such termination, your access to the Games or Services, including all Virtual Items, will be disabled and you will lose any Tokens or Virtual Items you have accumulated.
+ 
+16.21.       Any suspension or termination shall not affect your obligations to us under these Terms of Use. Your obligations to YouNow under these Terms of Use shall survive any suspension or termination of the Games and/or Services including, but not limited to, the rights and licenses that you have granted hereunder, indemnities, disclaimers, limitations on liability, provisions related to choice of law, dispute resolution, no class action, and the no trial by jury sections.
+ 
+16.22.       You represent and warrant that you: (a) have not previously been suspended or removed from the Services or from any other offerings of YouNow; (b) that you have full power and authority to enter into this agreement and in doing so will not violate any other agreement to which you are a party; and (c) that you understand that the use of the Games and Services is at your own risk.  
+ 
+16.23.       Any user content provided by you or through the use of our Games (&quot;**User-made Game Content**&quot;) will be considered non-proprietary and non-confidential. You retain all of your ownership rights in your User-made Game Content, but you give YouNow a perpetual and irrevocable worldwide, royalty free, non-exclusive, license to use, reproduce, distribute, prepare derivative works of, display, and perform your User-made Game Content and any modified and derivative works thereof in connection with the Services. Nothing in these Terms of Use takes away the rights you have to your own User-made Game Content. 
+ 
+16.24.       We have the right to remove any of your User-made Game Content if, in our opinion, it does not comply with these Terms of Use.  Further, we also have the right to disclose your identity to any third-party who is claiming that any of your User-made Game Content constitutes a breach of their intellectual property rights or their right to privacy. We will also disclose your User-made Game Content where we are legally required to do so.
+ 
+16.25.       Service malfunctions voids all Game plays. 
+ 
+16.26.       You agree to fully cooperate with us to investigate any suspected or actual activity that is in breach of these Terms of Use.
+ 
+GAME RULES
+
+16.27.       Any sweepstakes, contests, surveys, games, or similar promotions made available through our Services or Games may be governed by specific rules (&quot;**Rules**&quot;) that are separate from and in addition to these Terms of Use.  By participating in any such sweepstakes, contest, survey, game or similar promotion, you will become subject to those Rules, which may vary from the Terms of Use as set forth herein, and which are incorporated into these Terms of Use.  If there is a conflict between the Terms of Use and any Rule, the Rule provision shall be applicable.
+ 
+16.28.       The Company urges you to read these applicable Rules, which may be linked from the particular Service or Game, and which in addition to these Terms of Use, governs any information you submit in connection with such activities.
+ 
+16.29.       These Rules may have additional restrictions on entry and may allow for additional means of entry to participate.  
+
 **17.        WARRANTIES AND DISCLAIMERS**
 
 17.1.        YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT: YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; BASIS.
