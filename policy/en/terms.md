@@ -394,5 +394,5 @@ GAME RULES
 
 23.1.        YouNow reserves the right, in its sole discretion, to change, modify, add, or delete portions of the Terms of Use at any time. When using the Service, You may be subject to additional applicable guidelines or rules that may be posted from time to time. All of these guidelines and rules are deemed incorporated into the Terms of Use. While we may attempt to notify You when major changes are made to the Terms of Use, it is Your responsibility to review the Terms of Use periodically to check for changes. When YouNow makes changes, it will give the date of the most recent update in this space so You can be kept abreast by visiting this page. YouNow also reserves the right in its sole discretion and at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it), with or without notice.
 
-(Terms of Use last updated: August 17, 2022)
+(Terms of Use last updated: August 26, 2022)
 
