@@ -4,7 +4,7 @@ layout: default
 category: EN
 ---
 
-**Last updated: March 17, 2022**
+**Last updated: December 16, 2022**
 
 YouNow (\"Company\", \"we\" or \"our\") is committed to safeguarding any
 personal data that may be collected through our website (the
@@ -54,7 +54,7 @@ collections of personal data from you:
 **DIRECT COLLECTION:**
 
 **Registration:** When you register to use our Services, we receive
-certain information about you through Facebook®, Twitter®, Google+®, or
+certain information about you through Facebook®, Apple®, Twitter®, Google®, or
 Instagram®, as applicable to your method of registration. This
 information may include your name, your location and language, a profile
 picture, your email and mailing address, your phone number and social
@@ -70,12 +70,6 @@ broadcasts. Communication from You: When you contact us with questions,
 concerns or for purposes of customer/technical support, we collect the
 information contained in your message, which may include your name,
 contact details and any other personal data you provide.
-
-**Crypto-Wallet Information:** If you choose to connect a digital
-wallet, such as MyEtherWallet, Metamask, or Mobile Wallet, with your
-YouNow account in order to receive and hold YouNow\'s \"Props\" tokens,
-we receive information about that wallet, including the wallet\'s
-address, any signature you provide, and the balance in the wallet.
 
 **Survey Information:** We may collect your user information through
 surveys we conduct from time to time with respect to our Service.
@@ -132,8 +126,7 @@ your fanning and gifting activity is publicly displayed to other YouNow
 users. Through your Privacy Settings, you can choose to hide your
 location and the number of fans you have. Most of the data that YouNow
 collects about your YouNow activity (\"metadata\") is not publicly
-available. The number of Props tokens you hold is also not made publicly
-available, but other users may be able to see that you hold some Props.
+available. 
 
 When you stream live video content or interact with the video streams in
 real time, this data is available to other YouNow users in real time.
