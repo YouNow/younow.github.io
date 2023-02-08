@@ -93,7 +93,7 @@ any form of communication in which it is possible to display Content. YouNow sha
 
 7.3.        Your gift of certain Virtual Items to a broadcaster on the Service may, but will not necessarily, appear on screen or in the chat feed of the Content You are viewing. Purchase of the &quot;Chat Now&quot; privilege during high-traffic broadcasts will give You the opportunity to rejoin a chat feed that has become over-full and to remain in the chat feed for the remainder of the broadcast. Purchasers of &quot;Chat Now&quot; will receive priority over users who are participating in the chat feed for free.
 
-7.4.        Bars and other Virtual Items gifted to broadcasters may result in some revenue to them as determined in YouNow&#39;s sole discretion; however, YouNow makes no guarantee that the amount or value of the Bars or Virtual Items You may give a broadcaster will correlate to the revenue such broadcaster may receive from YouNow. All in-app purchases are subject to a 30% fee charged by Google or Apple, as well as other fees charged by third-party providers and business partners of YouNow that may vary from time to time. After fees, Partners get approximately 60% of the remaining revenue, and YouNow takes approximately 40% of the remaining revenue.
+7.4.        Bars and other Virtual Items gifted to broadcasters may result in some revenue to them as determined in YouNow's sole discretion; however, YouNow makes no guarantee that the amount or value of the Bars or Virtual Items You may give a broadcaster will correlate to the revenue such broadcaster may receive from YouNow. All in-app purchases are subject to a 30% fee charged by Google or Apple, other fees charged by third-party providers and business partners of YouNow that may vary from time to time, and reserves made for bad debts. After fees, YouNow takes approximately 40% of the remaining revenue, and Partners get the remaining revenue (up to 60% of the revenue after fees).
 
 7.5.        Only users of the Service who initiate a broadcast or a Guest session will be eligible for Bars and other Virtual Items.
 
@@ -376,5 +376,5 @@ GAME RULES
 
 23.1.        YouNow reserves the right, in its sole discretion, to change, modify, add, or delete portions of the Terms of Use at any time. When using the Service, You may be subject to additional applicable guidelines or rules that may be posted from time to time. All of these guidelines and rules are deemed incorporated into the Terms of Use. While we may attempt to notify You when major changes are made to the Terms of Use, it is Your responsibility to review the Terms of Use periodically to check for changes. When YouNow makes changes, it will give the date of the most recent update in this space so You can be kept abreast by visiting this page. YouNow also reserves the right in its sole discretion and at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it), with or without notice.
 
-(Terms of Use last updated: December 16, 2022)
+(Terms of Use last updated: February 8, 2023)
 
