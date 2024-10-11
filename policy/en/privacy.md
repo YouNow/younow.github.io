@@ -4,7 +4,9 @@ layout: default
 category: EN
 ---
 
-**Last updated: December 16, 2022**
+**Last updated: October 9, 2024**
+- Most recent update makes it clearer as to how to delete your account and
+your account history.
 
 YouNow (\"Company\", \"we\" or \"our\") is committed to safeguarding any
 personal data that may be collected through our website (the
@@ -397,7 +399,15 @@ this Privacy Policy means you accept such changes. Should you not agree,
 you should no longer use our Services and go to your Privacy Settings to
 terminate your account.
 
-Privacy Policy last updated: March 1st 2020
+**HOW TO DELETE YOUR ACCOUNT**
+
+If you choose to delete your account, you can do so by going to your settings,
+clicking or tapping on "Privacy," and then clicking or tapping "Deactivate
+Account." This will delete your account from our system.
+
+If you wish to exercise your right to be forgotten under GDPR, CCPA or 
+similar legislation, email privacy@younow.com. You may be asked to verify
+ownership of your account.
 
 **FURTHER GDPR INFORMATION FOR USERS IN THE EUROPEAN UNION**
 
