@@ -4,9 +4,8 @@ layout: default
 category: EN
 ---
 
-**Last updated: October 9, 2024**
-- Most recent update makes it clearer as to how to delete your account and
-your account history.
+**Last updated: October 21, 2024**
+- Most recent update makes it clearer as to how to delete your account and your account history.
 
 YouNow (\"Company\", \"we\" or \"our\") is committed to safeguarding any
 personal data that may be collected through our website (the
@@ -403,11 +402,12 @@ terminate your account.
 
 If you choose to delete your account, you can do so by going to your settings,
 clicking or tapping on "Privacy," and then clicking or tapping "Deactivate
-Account." This will delete your account from our system.
+Account." This will delete your account from our system. When you delete your
+account, all data associated with your account is deleted in our system.
 
-If you wish to exercise your right to be forgotten under GDPR, CCPA or 
-similar legislation, email privacy@younow.com. You may be asked to verify
-ownership of your account.
+If you wish to exercise your right to be forgotten, email privacy@younow.com. 
+You may be asked to verify ownership of your account. We will then delete 
+all information associated with your account. 
 
 **FURTHER GDPR INFORMATION FOR USERS IN THE EUROPEAN UNION**
 
