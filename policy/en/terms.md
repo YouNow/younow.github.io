@@ -248,7 +248,7 @@ Your physical or electronic signature;
 Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before it was removed or access to it was disabled;
 A statement from You under the penalty of perjury, that You have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled; and
 Your name, physical address and telephone number, and a statement that You consent to the jurisdiction of a Federal District Court for the judicial district in which Your physical address is located, or if Your physical address is outside of the United States, for any judicial district in which YouNow may be found, and that You will accept service of process from the person who provided notification of allegedly infringing material or an agent of such person.
-15.5. Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by emailing all proper documentation to copyright@Younow.com with the words "Attn Copyright Infringement Designated Agent" in the subject line.
+15.5. Notices of claimed infringement and counter-notifications should be directed to the Designated Agent by emailing all proper documentation to support@younow.com with the words "Attn Copyright Infringement Designated Agent" in the subject line.
 
 16. SOCIAL GAMES AND GAMING
 
