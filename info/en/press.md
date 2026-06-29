@@ -46,7 +46,7 @@ YouNow hosts more than 100 million user sessions a month and 50,000 hours of liv
 
 **New York Times**
 
-[Young Performers look to Apps for Stardom](https://http://www.nytimes.com/2016/07/05/business/media/young-performers-look-to-apps-for-stardom.html), July 4, 2016
+[Young Performers look to Apps for Stardom](https://www.nytimes.com/2016/07/05/business/media/young-performers-look-to-apps-for-stardom.html), July 4, 2016
 
 
 **TechCrunch**
